@@ -1,0 +1,830 @@
+{
+  "perguntas": [
+    {
+      "id": 145,
+      "resposta": "REVOLUCAO",
+      "exibicao": "Revolução",
+      "dica": "Transformação profunda e relativamente rápida da ordem política, social ou econômica de uma sociedade.",
+      "ativo": true
+    },
+    {
+      "id": 146,
+      "resposta": "MONARQUIA",
+      "exibicao": "Monarquia",
+      "dica": "Forma de governo em que a chefia de Estado é exercida por um soberano, em geral por sucessão hereditária.",
+      "ativo": true
+    },
+    {
+      "id": 147,
+      "resposta": "BIZANTINO",
+      "exibicao": "Bizantino",
+      "dica": "Adjetivo ligado ao Império Romano do Oriente, cuja capital era Constantinopla.",
+      "ativo": true
+    },
+    {
+      "id": 148,
+      "resposta": "FASCISMO",
+      "exibicao": "Fascismo",
+      "dica": "Ideologia autoritária e ultranacionalista surgida na Europa do século XX, associada ao regime de Mussolini.",
+      "ativo": true
+    },
+    {
+      "id": 149,
+      "resposta": "REPUBLICA",
+      "exibicao": "República",
+      "dica": "Forma de governo em que a chefia do Estado não é hereditária e o poder se organiza por instituições políticas.",
+      "ativo": true
+    },
+    {
+      "id": 150,
+      "resposta": "DEMOCRACIA",
+      "exibicao": "Democracia",
+      "dica": "Sistema político em que a participação dos cidadãos é elemento central da legitimidade do governo.",
+      "ativo": true
+    },
+    {
+      "id": 151,
+      "resposta": "FEUDALISMO",
+      "exibicao": "Feudalismo",
+      "dica": "Conceito usado para descrever relações sociais, econômicas e políticas características de partes da Europa medieval.",
+      "ativo": true
+    },
+    {
+      "id": 152,
+      "resposta": "NAPOLEAO",
+      "exibicao": "Napoleão",
+      "dica": "Militar francês que chegou ao poder após a Revolução de 1789 e foi coroado imperador em 1804.",
+      "ativo": true
+    },
+    {
+      "id": 153,
+      "resposta": "PERICLES",
+      "exibicao": "Péricles",
+      "dica": "Político ateniense do século V a.C. associado ao auge da democracia e da expansão cultural da pólis.",
+      "ativo": true
+    },
+    {
+      "id": 154,
+      "resposta": "TIRADENTES",
+      "exibicao": "Tiradentes",
+      "dica": "Militar e ativista executado em 1792 por participação na conspiração conhecida como Inconfidência Mineira.",
+      "ativo": true
+    },
+    {
+      "id": 155,
+      "resposta": "PALMARES",
+      "exibicao": "Palmares",
+      "dica": "Grande comunidade quilombola formada na região da Serra da Barriga e destruída no final do século XVII.",
+      "ativo": true
+    },
+    {
+      "id": 156,
+      "resposta": "HOLOCAUSTO",
+      "exibicao": "Holocausto",
+      "dica": "Extermínio sistemático de cerca de seis milhões de judeus e de milhões de outras vítimas pelo regime nazista.",
+      "ativo": true
+    },
+    {
+      "id": 157,
+      "resposta": "AUSCHWITZ",
+      "exibicao": "Auschwitz",
+      "dica": "Complexo de campos de concentração e extermínio criado pela Alemanha nazista na Polônia ocupada.",
+      "ativo": true
+    },
+    {
+      "id": 158,
+      "resposta": "STALINISMO",
+      "exibicao": "Stalinismo",
+      "dica": "Termo associado ao modelo político soviético marcado por centralização extrema, expurgos e culto à liderança.",
+      "ativo": true
+    },
+    {
+      "id": 159,
+      "resposta": "GETULISMO",
+      "exibicao": "Getulismo",
+      "dica": "Expressão usada para caracterizar práticas e ideias políticas vinculadas ao legado de Vargas no Brasil.",
+      "ativo": true
+    },
+    {
+      "id": 160,
+      "resposta": "COLONIAL",
+      "exibicao": "Colonial",
+      "dica": "Adjetivo relacionado a sociedades, instituições e economias submetidas a dominação externa.",
+      "ativo": true
+    },
+    {
+      "id": 161,
+      "resposta": "IMPERIAL",
+      "exibicao": "Imperial",
+      "dica": "Adjetivo ligado a estruturas políticas governadas por um imperador ou organizadas como império.",
+      "ativo": true
+    },
+    {
+      "id": 162,
+      "resposta": "CRUZADAS",
+      "exibicao": "Cruzadas",
+      "dica": "Expedições militares de caráter religioso promovidas por cristãos latinos, sobretudo entre os séculos XI e XIII.",
+      "ativo": true
+    },
+    {
+      "id": 163,
+      "resposta": "CALVINISMO",
+      "exibicao": "Calvinismo",
+      "dica": "Corrente da Reforma cristã associada às ideias de João Calvino e à predestinação.",
+      "ativo": true
+    },
+    {
+      "id": 164,
+      "resposta": "ANARQUISMO",
+      "exibicao": "Anarquismo",
+      "dica": "Corrente política que defende a superação de estruturas coercitivas de autoridade e ganhou força no movimento operário do século XIX.",
+      "ativo": true
+    },
+    {
+      "id": 165,
+      "resposta": "JACOBINOS",
+      "exibicao": "Jacobinos",
+      "dica": "Grupo político radical que ganhou influência durante a fase mais intensa da Revolução Francesa.",
+      "ativo": true
+    },
+    {
+      "id": 166,
+      "resposta": "GIRONDINOS",
+      "exibicao": "Girondinos",
+      "dica": "Grupo político da Revolução Francesa que entrou em conflito com setores mais radicais da Convenção.",
+      "ativo": true
+    },
+    {
+      "id": 167,
+      "resposta": "VESTFALIA",
+      "exibicao": "Vestfália",
+      "dica": "Região alemã associada aos tratados de 1648 que encerraram a Guerra dos Trinta Anos.",
+      "ativo": true
+    },
+    {
+      "id": 168,
+      "resposta": "VERSALHES",
+      "exibicao": "Versalhes",
+      "dica": "Palácio e cidade ligados à monarquia francesa e ao tratado de 1919 que encerrou formalmente a guerra com a Alemanha.",
+      "ativo": true
+    },
+    {
+      "id": 334,
+      "resposta": "ANSIEDADE",
+      "exibicao": "Ansiedade",
+      "dica": "Estado de apreensão e ativação diante de ameaça real ou antecipada, podendo tornar-se clinicamente significativo.",
+      "ativo": true
+    },
+    {
+      "id": 335,
+      "resposta": "DEPRESSAO",
+      "exibicao": "Depressão",
+      "dica": "Condição que pode envolver humor rebaixado, perda de interesse, alterações cognitivas, físicas e funcionais.",
+      "ativo": true
+    },
+    {
+      "id": 336,
+      "resposta": "COGNICAO",
+      "exibicao": "Cognição",
+      "dica": "Conjunto de processos mentais como percepção, memória, linguagem, raciocínio e tomada de decisão.",
+      "ativo": true
+    },
+    {
+      "id": 337,
+      "resposta": "ESTRESSE",
+      "exibicao": "Estresse",
+      "dica": "Resposta do organismo e da mente diante de demandas percebidas como desafiadoras ou ameaçadoras.",
+      "ativo": true
+    },
+    {
+      "id": 338,
+      "resposta": "MOTIVACAO",
+      "exibicao": "Motivação",
+      "dica": "Processos que iniciam, orientam e sustentam comportamentos dirigidos a objetivos.",
+      "ativo": true
+    },
+    {
+      "id": 339,
+      "resposta": "RORSCHACH",
+      "exibicao": "Rorschach",
+      "dica": "Psiquiatra suíço que criou um método de avaliação baseado na interpretação de manchas de tinta.",
+      "ativo": true
+    },
+    {
+      "id": 340,
+      "resposta": "PERCEPCAO",
+      "exibicao": "Percepção",
+      "dica": "Processo de organizar e interpretar informações provenientes dos sentidos.",
+      "ativo": true
+    },
+    {
+      "id": 341,
+      "resposta": "PARANOIA",
+      "exibicao": "Paranoia",
+      "dica": "Padrão de desconfiança intensa e interpretações persecutórias que pode ocorrer em diferentes condições clínicas.",
+      "ativo": true
+    },
+    {
+      "id": 342,
+      "resposta": "ANEDONIA",
+      "exibicao": "Anedonia",
+      "dica": "Redução marcante da capacidade de sentir interesse ou prazer em atividades anteriormente gratificantes.",
+      "ativo": true
+    },
+    {
+      "id": 343,
+      "resposta": "DISTIMIA",
+      "exibicao": "Distimia",
+      "dica": "Termo historicamente usado para um quadro depressivo persistente e de longa duração.",
+      "ativo": true
+    },
+    {
+      "id": 344,
+      "resposta": "ANOREXIA",
+      "exibicao": "Anorexia",
+      "dica": "Transtorno alimentar caracterizado por restrição energética, baixo peso e medo intenso de ganhar peso ou comportamentos persistentes que dificultam o ganho.",
+      "ativo": true
+    },
+    {
+      "id": 345,
+      "resposta": "COMPULSAO",
+      "exibicao": "Compulsão",
+      "dica": "Comportamento ou ato mental repetitivo realizado para reduzir ansiedade ou prevenir um evento temido.",
+      "ativo": true
+    },
+    {
+      "id": 346,
+      "resposta": "OBSESSAO",
+      "exibicao": "Obsessão",
+      "dica": "Pensamento, impulso ou imagem recorrente e intrusiva que provoca desconforto e é difícil de controlar.",
+      "ativo": true
+    },
+    {
+      "id": 347,
+      "resposta": "EXTINCAO",
+      "exibicao": "Extinção",
+      "dica": "Redução progressiva de uma resposta aprendida quando a contingência que a mantinha deixa de ocorrer.",
+      "ativo": true
+    },
+    {
+      "id": 348,
+      "resposta": "RECOMPENSA",
+      "exibicao": "Recompensa",
+      "dica": "Consequência ou estímulo valorizado que pode aumentar motivação e influenciar aprendizagem.",
+      "ativo": true
+    },
+    {
+      "id": 349,
+      "resposta": "AUTOESTIMA",
+      "exibicao": "Autoestima",
+      "dica": "Avaliação global que a pessoa faz de seu próprio valor e competência.",
+      "ativo": true
+    },
+    {
+      "id": 350,
+      "resposta": "AUTONOMIA",
+      "exibicao": "Autonomia",
+      "dica": "Capacidade de agir segundo escolhas e valores próprios, com autorregulação e senso de agência.",
+      "ativo": true
+    },
+    {
+      "id": 351,
+      "resposta": "PROJECAO",
+      "exibicao": "Projeção",
+      "dica": "Mecanismo de defesa em que sentimentos ou impulsos próprios são atribuídos a outra pessoa.",
+      "ativo": true
+    },
+    {
+      "id": 352,
+      "resposta": "REGRESSAO",
+      "exibicao": "Regressão",
+      "dica": "Retorno a formas anteriores de funcionamento ou comportamento diante de conflito ou estresse, segundo certas teorias psicodinâmicas.",
+      "ativo": true
+    },
+    {
+      "id": 353,
+      "resposta": "NARCISISMO",
+      "exibicao": "Narcisismo",
+      "dica": "Conjunto de características relacionadas a grandiosidade, necessidade de admiração e sensibilidade à avaliação social.",
+      "ativo": true
+    },
+    {
+      "id": 354,
+      "resposta": "ALTRUISMO",
+      "exibicao": "Altruísmo",
+      "dica": "Comportamento voltado ao benefício de outra pessoa, mesmo quando não há recompensa direta evidente.",
+      "ativo": true
+    },
+    {
+      "id": 355,
+      "resposta": "SUBLIMACAO",
+      "exibicao": "Sublimação",
+      "dica": "Mecanismo descrito pela psicanálise em que impulsos são direcionados para atividades socialmente valorizadas.",
+      "ativo": true
+    },
+    {
+      "id": 356,
+      "resposta": "ENTREVISTA",
+      "exibicao": "Entrevista",
+      "dica": "Método de coleta de informações baseado em perguntas, escuta e interação estruturada ou semiestruturada.",
+      "ativo": true
+    },
+    {
+      "id": 357,
+      "resposta": "REPRESSAO",
+      "exibicao": "Repressão",
+      "dica": "Mecanismo defensivo em que conteúdos ameaçadores são mantidos fora da consciência.",
+      "ativo": true
+    },
+    {
+      "id": 523,
+      "resposta": "MONTAGEM",
+      "exibicao": "Montagem",
+      "dica": "Processo de selecionar, ordenar e combinar planos para construir ritmo, continuidade e sentido narrativo.",
+      "ativo": true
+    },
+    {
+      "id": 524,
+      "resposta": "CINEASTA",
+      "exibicao": "Cineasta",
+      "dica": "Profissional envolvido artisticamente na realização de obras audiovisuais, especialmente em funções de direção e criação.",
+      "ativo": true
+    },
+    {
+      "id": 525,
+      "resposta": "FOTOGRAFIA",
+      "exibicao": "Fotografia",
+      "dica": "Área responsável por iluminação, lentes, exposição, composição e aparência visual de uma obra.",
+      "ativo": true
+    },
+    {
+      "id": 526,
+      "resposta": "ANIMACAO",
+      "exibicao": "Animação",
+      "dica": "Técnica que cria a ilusão de movimento por meio da exibição sequencial de desenhos, modelos ou imagens digitais.",
+      "ativo": true
+    },
+    {
+      "id": 527,
+      "resposta": "ROTEIRISTA",
+      "exibicao": "Roteirista",
+      "dica": "Profissional responsável pela escrita da estrutura narrativa, cenas, ações e diálogos de uma produção.",
+      "ativo": true
+    },
+    {
+      "id": 528,
+      "resposta": "CLAQUETE",
+      "exibicao": "Claquete",
+      "dica": "Peça usada no set para identificar cena e tomada e auxiliar a sincronização entre som e imagem.",
+      "ativo": true
+    },
+    {
+      "id": 529,
+      "resposta": "DUBLAGEM",
+      "exibicao": "Dublagem",
+      "dica": "Substituição das vozes originalmente registradas por novas falas sincronizadas com os movimentos dos intérpretes.",
+      "ativo": true
+    },
+    {
+      "id": 530,
+      "resposta": "LEGENDAGEM",
+      "exibicao": "Legendagem",
+      "dica": "Processo de inserir textos sincronizados para traduzir ou transcrever falas e informações sonoras.",
+      "ativo": true
+    },
+    {
+      "id": 531,
+      "resposta": "FOTOGRAMA",
+      "exibicao": "Fotograma",
+      "dica": "Imagem individual registrada em película ou em uma sequência audiovisual.",
+      "ativo": true
+    },
+    {
+      "id": 532,
+      "resposta": "TRAVELLING",
+      "exibicao": "Travelling",
+      "dica": "Movimento em que a câmera se desloca fisicamente pelo espaço durante a tomada.",
+      "ativo": true
+    },
+    {
+      "id": 533,
+      "resposta": "STEADICAM",
+      "exibicao": "Steadicam",
+      "dica": "Sistema de estabilização corporal que permite movimentos fluidos sem a rigidez de trilhos ou tripés.",
+      "ativo": true
+    },
+    {
+      "id": 534,
+      "resposta": "BASTIDOR",
+      "exibicao": "Bastidor",
+      "dica": "Área de trabalho fora do campo visível e, por extensão, tudo o que ocorre por trás da realização de uma produção.",
+      "ativo": true
+    },
+    {
+      "id": 535,
+      "resposta": "EXIBICAO",
+      "exibicao": "Exibição",
+      "dica": "Apresentação pública ou privada de uma obra audiovisual para espectadores.",
+      "ativo": true
+    },
+    {
+      "id": 536,
+      "resposta": "STORYBOARD",
+      "exibicao": "Storyboard",
+      "dica": "Sequência de desenhos que antecipa visualmente enquadramentos, ações e movimentos planejados para uma produção.",
+      "ativo": true
+    },
+    {
+      "id": 537,
+      "resposta": "FLASHBACK",
+      "exibicao": "Flashback",
+      "dica": "Retorno narrativo a acontecimentos anteriores ao momento presente da história.",
+      "ativo": true
+    },
+    {
+      "id": 538,
+      "resposta": "MACGUFFIN",
+      "exibicao": "MacGuffin",
+      "dica": "Objeto, objetivo ou informação que impulsiona a trama mesmo sem possuir grande importância por si próprio.",
+      "ativo": true
+    },
+    {
+      "id": 539,
+      "resposta": "DIEGETICO",
+      "exibicao": "Diegético",
+      "dica": "Adjetivo usado para som, objeto ou acontecimento que pertence ao universo narrativo percebido pelos personagens.",
+      "ativo": true
+    },
+    {
+      "id": 540,
+      "resposta": "MONTADOR",
+      "exibicao": "Montador",
+      "dica": "Profissional que organiza e combina o material registrado para construir a versão final da narrativa.",
+      "ativo": true
+    },
+    {
+      "id": 541,
+      "resposta": "PRODUTOR",
+      "exibicao": "Produtor",
+      "dica": "Profissional responsável por coordenar recursos, planejamento, orçamento e execução de uma produção.",
+      "ativo": true
+    },
+    {
+      "id": 542,
+      "resposta": "FIGURINO",
+      "exibicao": "Figurino",
+      "dica": "Conjunto de roupas e acessórios concebidos para caracterizar personagens e contexto visual.",
+      "ativo": true
+    },
+    {
+      "id": 543,
+      "resposta": "SCORSESE",
+      "exibicao": "Scorsese",
+      "dica": "Sobrenome do diretor de Taxi Driver, Os Bons Companheiros e Touro Indomável.",
+      "ativo": true
+    },
+    {
+      "id": 544,
+      "resposta": "TARANTINO",
+      "exibicao": "Tarantino",
+      "dica": "Sobrenome do cineasta de Pulp Fiction, Bastardos Inglórios e Era Uma Vez em... Hollywood.",
+      "ativo": true
+    },
+    {
+      "id": 545,
+      "resposta": "SPIELBERG",
+      "exibicao": "Spielberg",
+      "dica": "Sobrenome do diretor de Tubarão, E.T., Jurassic Park e A Lista de Schindler.",
+      "ativo": true
+    },
+    {
+      "id": 712,
+      "resposta": "MOLECULA",
+      "exibicao": "Molécula",
+      "dica": "Conjunto eletricamente neutro de átomos unidos por ligações químicas e capaz de existir como entidade individual.",
+      "ativo": true
+    },
+    {
+      "id": 713,
+      "resposta": "ELETRONS",
+      "exibicao": "Elétrons",
+      "dica": "Partículas subatômicas de carga negativa que ocupam estados quantizados ao redor do núcleo.",
+      "ativo": true
+    },
+    {
+      "id": 714,
+      "resposta": "CATALISE",
+      "exibicao": "Catálise",
+      "dica": "Alteração da velocidade de uma reação pela participação de uma substância regenerada ao final do mecanismo.",
+      "ativo": true
+    },
+    {
+      "id": 715,
+      "resposta": "REAGENTE",
+      "exibicao": "Reagente",
+      "dica": "Substância presente no início de uma transformação e consumida total ou parcialmente durante o processo.",
+      "ativo": true
+    },
+    {
+      "id": 716,
+      "resposta": "POLIMERO",
+      "exibicao": "Polímero",
+      "dica": "Macromolécula constituída por numerosas unidades estruturais repetidas derivadas de monômeros.",
+      "ativo": true
+    },
+    {
+      "id": 717,
+      "resposta": "ENTALPIA",
+      "exibicao": "Entalpia",
+      "dica": "Função de estado representada por H e muito usada para expressar trocas de energia na forma de calor a pressão constante.",
+      "ativo": true
+    },
+    {
+      "id": 718,
+      "resposta": "ENTROPIA",
+      "exibicao": "Entropia",
+      "dica": "Função de estado associada à dispersão de energia e ao número de configurações microscópicas acessíveis a um sistema.",
+      "ativo": true
+    },
+    {
+      "id": 719,
+      "resposta": "VALENCIA",
+      "exibicao": "Valência",
+      "dica": "Conceito que descreve a capacidade de combinação de um átomo, frequentemente relacionada ao número de ligações que pode formar.",
+      "ativo": true
+    },
+    {
+      "id": 720,
+      "resposta": "SOLVENTE",
+      "exibicao": "Solvente",
+      "dica": "Componente de uma solução responsável por dissolver as demais espécies e geralmente presente em maior proporção.",
+      "ativo": true
+    },
+    {
+      "id": 721,
+      "resposta": "ADSORCAO",
+      "exibicao": "Adsorção",
+      "dica": "Acúmulo de partículas na superfície de um sólido ou líquido, sem implicar penetração no volume do material.",
+      "ativo": true
+    },
+    {
+      "id": 722,
+      "resposta": "OXIDACAO",
+      "exibicao": "Oxidação",
+      "dica": "Processo em que uma espécie perde elétrons e seu estado formal se torna mais positivo.",
+      "ativo": true
+    },
+    {
+      "id": 723,
+      "resposta": "ELETROLISE",
+      "exibicao": "Eletrólise",
+      "dica": "Uso de corrente elétrica para promover uma transformação química não espontânea.",
+      "ativo": true
+    },
+    {
+      "id": 724,
+      "resposta": "DESTILACAO",
+      "exibicao": "Destilação",
+      "dica": "Método de separação baseado em vaporização e condensação, explorando diferenças de volatilidade.",
+      "ativo": true
+    },
+    {
+      "id": 725,
+      "resposta": "AVOGADRO",
+      "exibicao": "Avogadro",
+      "dica": "Cientista italiano que propôs que volumes iguais de gases, nas mesmas condições de temperatura e pressão, contêm o mesmo número de partículas.",
+      "ativo": true
+    },
+    {
+      "id": 726,
+      "resposta": "LAVOISIER",
+      "exibicao": "Lavoisier",
+      "dica": "Químico francês associado à conservação da matéria e à interpretação do papel do oxigênio na combustão.",
+      "ativo": true
+    },
+    {
+      "id": 727,
+      "resposta": "BERZELIUS",
+      "exibicao": "Berzelius",
+      "dica": "Químico sueco que ajudou a estabelecer símbolos modernos dos elementos e realizou importantes determinações de massas atômicas.",
+      "ativo": true
+    },
+    {
+      "id": 728,
+      "resposta": "PRIESTLEY",
+      "exibicao": "Priestley",
+      "dica": "Químico e clérigo inglês que, em 1774, isolou um gás que posteriormente teria papel central na nova teoria da combustão.",
+      "ativo": true
+    },
+    {
+      "id": 729,
+      "resposta": "MENDELEEV",
+      "exibicao": "Mendeleev",
+      "dica": "Químico russo que organizou os elementos de forma periódica e deixou lacunas para substâncias ainda não descobertas.",
+      "ativo": true
+    },
+    {
+      "id": 730,
+      "resposta": "COVALENTE",
+      "exibicao": "Covalente",
+      "dica": "Adjetivo aplicado ao tipo de união entre átomos caracterizada pelo compartilhamento de pares de elétrons.",
+      "ativo": true
+    },
+    {
+      "id": 731,
+      "resposta": "EQUILIBRIO",
+      "exibicao": "Equilíbrio",
+      "dica": "Estado dinâmico em que as velocidades das reações direta e inversa se tornam iguais.",
+      "ativo": true
+    },
+    {
+      "id": 732,
+      "resposta": "TITULACAO",
+      "exibicao": "Titulação",
+      "dica": "Método quantitativo em que uma solução de concentração conhecida é adicionada até atingir uma condição estequiométrica definida.",
+      "ativo": true
+    },
+    {
+      "id": 733,
+      "resposta": "ESPECTRO",
+      "exibicao": "Espectro",
+      "dica": "Distribuição de intensidade de uma radiação ou sinal em função de comprimento de onda, frequência ou energia.",
+      "ativo": true
+    },
+    {
+      "id": 734,
+      "resposta": "ISOMERIA",
+      "exibicao": "Isomeria",
+      "dica": "Fenômeno em que substâncias possuem a mesma fórmula molecular, mas estruturas ou disposições espaciais diferentes.",
+      "ativo": true
+    },
+    {
+      "id": 889,
+      "resposta": "DIPLOMACIA",
+      "exibicao": "Diplomacia",
+      "dica": "Prática de representação, comunicação e negociação entre Estados e outros atores internacionais.",
+      "ativo": true
+    },
+    {
+      "id": 890,
+      "resposta": "SOBERANIA",
+      "exibicao": "Soberania",
+      "dica": "Princípio segundo o qual um Estado exerce autoridade suprema sobre seu território e suas instituições.",
+      "ativo": true
+    },
+    {
+      "id": 891,
+      "resposta": "CONFLITO",
+      "exibicao": "Conflito",
+      "dica": "Disputa entre atores com interesses incompatíveis que pode assumir formas políticas, econômicas ou militares.",
+      "ativo": true
+    },
+    {
+      "id": 892,
+      "resposta": "HEGEMONIA",
+      "exibicao": "Hegemonia",
+      "dica": "Predomínio de um Estado ou grupo na definição de regras, instituições e relações de poder.",
+      "ativo": true
+    },
+    {
+      "id": 893,
+      "resposta": "TERRITORIO",
+      "exibicao": "Território",
+      "dica": "Espaço submetido ao controle ou à reivindicação de determinada autoridade política.",
+      "ativo": true
+    },
+    {
+      "id": 894,
+      "resposta": "MERCOSUL",
+      "exibicao": "Mercosul",
+      "dica": "Processo de integração sul-americano criado em 1991 por Argentina, Brasil, Paraguai e Uruguai.",
+      "ativo": true
+    },
+    {
+      "id": 895,
+      "resposta": "FRONTEIRA",
+      "exibicao": "Fronteira",
+      "dica": "Limite político e espacial entre jurisdições, frequentemente associado a circulação, segurança e comércio.",
+      "ativo": true
+    },
+    {
+      "id": 896,
+      "resposta": "COMERCIO",
+      "exibicao": "Comércio",
+      "dica": "Intercâmbio de bens e serviços entre indivíduos, empresas ou países.",
+      "ativo": true
+    },
+    {
+      "id": 897,
+      "resposta": "SUBSIDIO",
+      "exibicao": "Subsídio",
+      "dica": "Transferência ou benefício governamental destinado a reduzir custos ou favorecer determinada atividade econômica.",
+      "ativo": true
+    },
+    {
+      "id": 898,
+      "resposta": "OLIGOPOLIO",
+      "exibicao": "Oligopólio",
+      "dica": "Estrutura de mercado em que poucas empresas concentram grande parcela da oferta.",
+      "ativo": true
+    },
+    {
+      "id": 899,
+      "resposta": "SUPERAVIT",
+      "exibicao": "Superávit",
+      "dica": "Situação em que receitas, exportações ou entradas de recursos excedem gastos, importações ou saídas correspondentes.",
+      "ativo": true
+    },
+    {
+      "id": 900,
+      "resposta": "POLARIDADE",
+      "exibicao": "Polaridade",
+      "dica": "Distribuição das principais capacidades de poder entre um, dois ou vários grandes centros do sistema internacional.",
+      "ativo": true
+    },
+    {
+      "id": 901,
+      "resposta": "OFFSHORE",
+      "exibicao": "Offshore",
+      "dica": "Qualificação usada para empresas, contas ou operações registradas em jurisdição diferente daquela em que seu proprietário reside ou atua.",
+      "ativo": true
+    },
+    {
+      "id": 902,
+      "resposta": "PROTECAO",
+      "exibicao": "Proteção",
+      "dica": "Política destinada a reduzir a exposição de produtores domésticos à concorrência estrangeira.",
+      "ativo": true
+    },
+    {
+      "id": 903,
+      "resposta": "INTEGRACAO",
+      "exibicao": "Integração",
+      "dica": "Processo pelo qual países reduzem barreiras e aprofundam vínculos econômicos, políticos ou institucionais.",
+      "ativo": true
+    },
+    {
+      "id": 904,
+      "resposta": "TARIFARIO",
+      "exibicao": "Tarifário",
+      "dica": "Adjetivo relacionado ao conjunto de tributos aplicados à entrada ou saída de mercadorias.",
+      "ativo": true
+    },
+    {
+      "id": 905,
+      "resposta": "ARBITRAGEM",
+      "exibicao": "Arbitragem",
+      "dica": "Operação que explora diferenças de preços entre mercados ou método privado de solução de disputas internacionais.",
+      "ativo": true
+    },
+    {
+      "id": 906,
+      "resposta": "LIQUIDEZ",
+      "exibicao": "Liquidez",
+      "dica": "Facilidade com que um ativo pode ser convertido em meios de pagamento sem grande perda de valor.",
+      "ativo": true
+    },
+    {
+      "id": 907,
+      "resposta": "INFLACAO",
+      "exibicao": "Inflação",
+      "dica": "Aumento persistente e generalizado do nível de preços de uma economia.",
+      "ativo": true
+    },
+    {
+      "id": 908,
+      "resposta": "DEFLACAO",
+      "exibicao": "Deflação",
+      "dica": "Queda persistente e generalizada do nível de preços.",
+      "ativo": true
+    },
+    {
+      "id": 909,
+      "resposta": "RECESSAO",
+      "exibicao": "Recessão",
+      "dica": "Período de retração significativa da atividade econômica, normalmente acompanhado por queda da produção e do emprego.",
+      "ativo": true
+    },
+    {
+      "id": 910,
+      "resposta": "MONOPOLIO",
+      "exibicao": "Monopólio",
+      "dica": "Estrutura em que um único fornecedor domina determinado mercado.",
+      "ativo": true
+    },
+    {
+      "id": 911,
+      "resposta": "EUROZONA",
+      "exibicao": "Eurozona",
+      "dica": "Conjunto de países da União Europeia que adotam a moeda comum administrada pelo Banco Central Europeu.",
+      "ativo": true
+    },
+    {
+      "id": 912,
+      "resposta": "PETRODOLAR",
+      "exibicao": "Petrodólar",
+      "dica": "Expressão relacionada às receitas obtidas com exportações de petróleo denominadas ou recicladas na moeda norte-americana.",
+      "ativo": true
+    }
+  ]
+}

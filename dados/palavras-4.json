@@ -1,0 +1,809 @@
+{
+  "perguntas": [
+    {
+      "id": 49,
+      "resposta": "ROMA",
+      "exibicao": "Roma",
+      "dica": "Cidade que se tornou centro de uma república e depois de um vasto império mediterrânico.",
+      "ativo": true
+    },
+    {
+      "id": 50,
+      "resposta": "NERO",
+      "exibicao": "Nero",
+      "dica": "Imperador da dinastia júlio-claudiana que governou entre 54 e 68 d.C.",
+      "ativo": true
+    },
+    {
+      "id": 51,
+      "resposta": "CZAR",
+      "exibicao": "Czar",
+      "dica": "Título adotado por soberanos russos até a Revolução de 1917.",
+      "ativo": true
+    },
+    {
+      "id": 52,
+      "resposta": "HUNO",
+      "exibicao": "Huno",
+      "dica": "Integrante de povos nômades que avançaram pela Europa nos séculos IV e V.",
+      "ativo": true
+    },
+    {
+      "id": 53,
+      "resposta": "URSS",
+      "exibicao": "URSS",
+      "dica": "Estado socialista federativo criado em 1922 e dissolvido em 1991.",
+      "ativo": true
+    },
+    {
+      "id": 54,
+      "resposta": "INCA",
+      "exibicao": "Inca",
+      "dica": "Designação associada à elite governante e ao soberano do Tawantinsuyu andino.",
+      "ativo": true
+    },
+    {
+      "id": 55,
+      "resposta": "MAIA",
+      "exibicao": "Maia",
+      "dica": "Integrante de uma das grandes civilizações mesoamericanas, marcada por cidades-Estado, escrita e calendários próprios.",
+      "ativo": true
+    },
+    {
+      "id": 56,
+      "resposta": "MALI",
+      "exibicao": "Mali",
+      "dica": "Império da África Ocidental que floresceu entre os séculos XIII e XVI e controlou importantes rotas de ouro.",
+      "ativo": true
+    },
+    {
+      "id": 57,
+      "resposta": "AXUM",
+      "exibicao": "Axum",
+      "dica": "Reino do nordeste africano que prosperou no comércio do mar Vermelho e adotou o cristianismo no século IV.",
+      "ativo": true
+    },
+    {
+      "id": 58,
+      "resposta": "GANA",
+      "exibicao": "Gana",
+      "dica": "Antigo império da África Ocidental que prosperou com o comércio transaariano antes da ascensão de Mali.",
+      "ativo": true
+    },
+    {
+      "id": 59,
+      "resposta": "MITA",
+      "exibicao": "Mita",
+      "dica": "Sistema andino de trabalho rotativo apropriado e transformado pela administração colonial espanhola.",
+      "ativo": true
+    },
+    {
+      "id": 60,
+      "resposta": "AYNI",
+      "exibicao": "Ayni",
+      "dica": "Princípio andino de reciprocidade baseado na troca de trabalho e ajuda entre membros da comunidade.",
+      "ativo": true
+    },
+    {
+      "id": 61,
+      "resposta": "TITO",
+      "exibicao": "Tito",
+      "dica": "Líder iugoslavo que rompeu com Stalin em 1948 e conduziu uma via socialista independente de Moscou.",
+      "ativo": true
+    },
+    {
+      "id": 62,
+      "resposta": "SILA",
+      "exibicao": "Sila",
+      "dica": "General e ditador romano do século I a.C. ligado às guerras civis da República.",
+      "ativo": true
+    },
+    {
+      "id": 63,
+      "resposta": "BUSH",
+      "exibicao": "Bush",
+      "dica": "Sobrenome de dois presidentes dos Estados Unidos, pai e filho, que governaram em momentos distintos após a Guerra Fria.",
+      "ativo": true
+    },
+    {
+      "id": 64,
+      "resposta": "FORD",
+      "exibicao": "Ford",
+      "dica": "Presidente norte-americano que assumiu após a renúncia de Richard Nixon em 1974.",
+      "ativo": true
+    },
+    {
+      "id": 65,
+      "resposta": "OTAN",
+      "exibicao": "OTAN",
+      "dica": "Aliança militar transatlântica fundada em 1949 no contexto inicial da Guerra Fria.",
+      "ativo": true
+    },
+    {
+      "id": 66,
+      "resposta": "OPEP",
+      "exibicao": "OPEP",
+      "dica": "Organização criada em 1960 por países exportadores para coordenar políticas relacionadas ao petróleo.",
+      "ativo": true
+    },
+    {
+      "id": 67,
+      "resposta": "FARC",
+      "exibicao": "FARC",
+      "dica": "Guerrilha colombiana de inspiração marxista fundada na década de 1960 e desmobilizada em grande parte após o acordo de 2016.",
+      "ativo": true
+    },
+    {
+      "id": 68,
+      "resposta": "MPLA",
+      "exibicao": "MPLA",
+      "dica": "Movimento que liderou o governo de Angola após a independência portuguesa em 1975.",
+      "ativo": true
+    },
+    {
+      "id": 69,
+      "resposta": "SPQR",
+      "exibicao": "SPQR",
+      "dica": "Fórmula latina usada em inscrições oficiais da República e do Império para representar o Senado e o povo romano.",
+      "ativo": true
+    },
+    {
+      "id": 70,
+      "resposta": "PERU",
+      "exibicao": "Peru",
+      "dica": "País sul-americano cujo território abrigou o núcleo político do Tawantinsuyu e depois um importante vice-reino espanhol.",
+      "ativo": true
+    },
+    {
+      "id": 71,
+      "resposta": "MECA",
+      "exibicao": "Meca",
+      "dica": "Cidade da Península Arábica ligada ao nascimento do islamismo e à peregrinação muçulmana.",
+      "ativo": true
+    },
+    {
+      "id": 72,
+      "resposta": "SUSA",
+      "exibicao": "Susa",
+      "dica": "Antiga cidade do Oriente Próximo que foi uma das capitais do Império Aquemênida.",
+      "ativo": true
+    },
+    {
+      "id": 238,
+      "resposta": "JUNG",
+      "exibicao": "Jung",
+      "dica": "Psiquiatra suíço que fundou a psicologia analítica e formulou conceitos como arquétipo e inconsciente coletivo.",
+      "ativo": true
+    },
+    {
+      "id": 239,
+      "resposta": "SONO",
+      "exibicao": "Sono",
+      "dica": "Estado fisiológico recorrente organizado em ciclos e associado à consolidação da memória, regulação emocional e restauração corporal.",
+      "ativo": true
+    },
+    {
+      "id": 240,
+      "resposta": "MEDO",
+      "exibicao": "Medo",
+      "dica": "Emoção básica desencadeada pela percepção de ameaça e acompanhada por respostas fisiológicas e comportamentais de proteção.",
+      "ativo": true
+    },
+    {
+      "id": 241,
+      "resposta": "LUTO",
+      "exibicao": "Luto",
+      "dica": "Processo de adaptação emocional diante da morte ou de outra perda significativa.",
+      "ativo": true
+    },
+    {
+      "id": 242,
+      "resposta": "BECK",
+      "exibicao": "Beck",
+      "dica": "Psiquiatra norte-americano que desenvolveu uma influente abordagem cognitiva para depressão e outros transtornos.",
+      "ativo": true
+    },
+    {
+      "id": 243,
+      "resposta": "WAIS",
+      "exibicao": "WAIS",
+      "dica": "Escala de inteligência para adultos desenvolvida na tradição de David Wechsler.",
+      "ativo": true
+    },
+    {
+      "id": 244,
+      "resposta": "WISC",
+      "exibicao": "WISC",
+      "dica": "Escala de inteligência voltada a crianças e adolescentes, pertencente à família de instrumentos de David Wechsler.",
+      "ativo": true
+    },
+    {
+      "id": 245,
+      "resposta": "MMPI",
+      "exibicao": "MMPI",
+      "dica": "Inventário de personalidade amplamente utilizado em avaliação psicológica clínica e forense.",
+      "ativo": true
+    },
+    {
+      "id": 246,
+      "resposta": "EMDR",
+      "exibicao": "EMDR",
+      "dica": "Abordagem psicoterapêutica desenvolvida por Francine Shapiro e baseada em dessensibilização e reprocessamento por movimentos oculares.",
+      "ativo": true
+    },
+    {
+      "id": 247,
+      "resposta": "CBCL",
+      "exibicao": "CBCL",
+      "dica": "Questionário respondido por responsáveis para avaliar problemas emocionais e comportamentais em crianças e adolescentes.",
+      "ativo": true
+    },
+    {
+      "id": 248,
+      "resposta": "SCID",
+      "exibicao": "SCID",
+      "dica": "Entrevista clínica estruturada elaborada para auxiliar diagnósticos segundo critérios do manual da Associação Americana de Psiquiatria.",
+      "ativo": true
+    },
+    {
+      "id": 249,
+      "resposta": "HADS",
+      "exibicao": "HADS",
+      "dica": "Escala hospitalar desenvolvida para rastrear sintomas de ansiedade e depressão em contextos de saúde.",
+      "ativo": true
+    },
+    {
+      "id": 250,
+      "resposta": "ASRS",
+      "exibicao": "ASRS",
+      "dica": "Escala de autorrelato utilizada no rastreamento de sintomas de déficit de atenção e hiperatividade em adultos.",
+      "ativo": true
+    },
+    {
+      "id": 251,
+      "resposta": "BASC",
+      "exibicao": "BASC",
+      "dica": "Sistema de avaliação comportamental destinado principalmente a crianças e adolescentes.",
+      "ativo": true
+    },
+    {
+      "id": 252,
+      "resposta": "SELF",
+      "exibicao": "Self",
+      "dica": "Conceito usado por diferentes abordagens para designar a experiência organizada que a pessoa tem de si mesma.",
+      "ativo": true
+    },
+    {
+      "id": 253,
+      "resposta": "VIES",
+      "exibicao": "Viés",
+      "dica": "Tendência sistemática que pode distorcer julgamentos, percepções ou decisões.",
+      "ativo": true
+    },
+    {
+      "id": 254,
+      "resposta": "META",
+      "exibicao": "Meta",
+      "dica": "Resultado desejado que pode orientar comportamento, planejamento e autorregulação.",
+      "ativo": true
+    },
+    {
+      "id": 255,
+      "resposta": "FUGA",
+      "exibicao": "Fuga",
+      "dica": "Resposta que remove ou afasta a pessoa de um estímulo aversivo já presente.",
+      "ativo": true
+    },
+    {
+      "id": 256,
+      "resposta": "FOCO",
+      "exibicao": "Foco",
+      "dica": "Direcionamento seletivo da atenção para um estímulo, tarefa ou objetivo relevante.",
+      "ativo": true
+    },
+    {
+      "id": 257,
+      "resposta": "NEXO",
+      "exibicao": "Nexo",
+      "dica": "Ligação funcional ou causal estabelecida entre eventos, pensamentos, emoções ou comportamentos.",
+      "ativo": true
+    },
+    {
+      "id": 258,
+      "resposta": "ACAO",
+      "exibicao": "Ação",
+      "dica": "Comportamento observável ou escolha executada em determinado contexto.",
+      "ativo": true
+    },
+    {
+      "id": 259,
+      "resposta": "DADO",
+      "exibicao": "Dado",
+      "dica": "Informação obtida por observação, teste, entrevista ou experimento e usada em pesquisa psicológica.",
+      "ativo": true
+    },
+    {
+      "id": 260,
+      "resposta": "CASO",
+      "exibicao": "Caso",
+      "dica": "Unidade individual de análise em estudos clínicos, pesquisas e formulações diagnósticas.",
+      "ativo": true
+    },
+    {
+      "id": 261,
+      "resposta": "FASE",
+      "exibicao": "Fase",
+      "dica": "Etapa de um processo de desenvolvimento, tratamento, aprendizagem ou ciclo vital.",
+      "ativo": true
+    },
+    {
+      "id": 429,
+      "resposta": "CENA",
+      "exibicao": "Cena",
+      "dica": "Unidade narrativa composta por uma ação situada em determinado tempo e espaço.",
+      "ativo": true
+    },
+    {
+      "id": 430,
+      "resposta": "ZOOM",
+      "exibicao": "Zoom",
+      "dica": "Alteração da distância focal que aproxima ou afasta visualmente o enquadramento sem mover a câmera.",
+      "ativo": true
+    },
+    {
+      "id": 431,
+      "resposta": "IMAX",
+      "exibicao": "IMAX",
+      "dica": "Formato de captação e exibição associado a telas de grandes dimensões e alta resolução.",
+      "ativo": true
+    },
+    {
+      "id": 432,
+      "resposta": "NOIR",
+      "exibicao": "Noir",
+      "dica": "Estilo associado a narrativas policiais sombrias, forte contraste visual e personagens moralmente ambíguos.",
+      "ativo": true
+    },
+    {
+      "id": 433,
+      "resposta": "SHOT",
+      "exibicao": "Shot",
+      "dica": "Termo em inglês para um registro contínuo entre o início e o fim de uma tomada.",
+      "ativo": true
+    },
+    {
+      "id": 434,
+      "resposta": "LENS",
+      "exibicao": "Lens",
+      "dica": "Termo em inglês para o componente óptico que forma a imagem sobre o sensor ou a película.",
+      "ativo": true
+    },
+    {
+      "id": 435,
+      "resposta": "FILM",
+      "exibicao": "Film",
+      "dica": "Termo em inglês que pode designar tanto uma obra cinematográfica quanto a película fotossensível.",
+      "ativo": true
+    },
+    {
+      "id": 436,
+      "resposta": "FADE",
+      "exibicao": "Fade",
+      "dica": "Transição gradual em que a imagem aparece a partir do preto ou desaparece até ele.",
+      "ativo": true
+    },
+    {
+      "id": 437,
+      "resposta": "BOOM",
+      "exibicao": "Boom",
+      "dica": "Haste usada para posicionar o microfone próximo dos atores sem entrar no enquadramento.",
+      "ativo": true
+    },
+    {
+      "id": 438,
+      "resposta": "GRIP",
+      "exibicao": "Grip",
+      "dica": "Profissional de equipe técnica responsável por suportes, trilhos, rigging e movimentação de equipamentos.",
+      "ativo": true
+    },
+    {
+      "id": 439,
+      "resposta": "CREW",
+      "exibicao": "Crew",
+      "dica": "Termo em inglês para o conjunto de profissionais técnicos e artísticos de uma produção.",
+      "ativo": true
+    },
+    {
+      "id": 440,
+      "resposta": "CAST",
+      "exibicao": "Cast",
+      "dica": "Termo em inglês para o conjunto de intérpretes de uma obra audiovisual.",
+      "ativo": true
+    },
+    {
+      "id": 441,
+      "resposta": "PROP",
+      "exibicao": "Prop",
+      "dica": "Objeto de cena manipulado por atores ou utilizado na composição do ambiente dramático.",
+      "ativo": true
+    },
+    {
+      "id": 442,
+      "resposta": "IRIS",
+      "exibicao": "Iris",
+      "dica": "Mecanismo óptico que controla a abertura e, consequentemente, a quantidade de luz que entra pela lente.",
+      "ativo": true
+    },
+    {
+      "id": 443,
+      "resposta": "MASK",
+      "exibicao": "Mask",
+      "dica": "Recurso de pós-produção usado para limitar um efeito ou correção a uma região específica da imagem.",
+      "ativo": true
+    },
+    {
+      "id": 444,
+      "resposta": "LEAN",
+      "exibicao": "Lean",
+      "dica": "Diretor britânico responsável por Lawrence da Arábia e Doutor Jivago.",
+      "ativo": true
+    },
+    {
+      "id": 445,
+      "resposta": "VIGO",
+      "exibicao": "Vigo",
+      "dica": "Cineasta francês de carreira breve, autor de O Atalante e Zero de Conduta.",
+      "ativo": true
+    },
+    {
+      "id": 446,
+      "resposta": "TATI",
+      "exibicao": "Tati",
+      "dica": "Cineasta e ator francês conhecido por Meu Tio e Playtime.",
+      "ativo": true
+    },
+    {
+      "id": 447,
+      "resposta": "COEN",
+      "exibicao": "Coen",
+      "dica": "Sobrenome dos irmãos cineastas responsáveis por Fargo e Onde os Fracos Não Têm Vez.",
+      "ativo": true
+    },
+    {
+      "id": 448,
+      "resposta": "WONG",
+      "exibicao": "Wong",
+      "dica": "Sobrenome do diretor de Hong Kong responsável por Amor à Flor da Pele.",
+      "ativo": true
+    },
+    {
+      "id": 449,
+      "resposta": "PARK",
+      "exibicao": "Park",
+      "dica": "Sobrenome do cineasta sul-coreano responsável por Oldboy e A Criada.",
+      "ativo": true
+    },
+    {
+      "id": 450,
+      "resposta": "TIFF",
+      "exibicao": "TIFF",
+      "dica": "Sigla de um importante festival internacional realizado anualmente em Toronto, no Canadá.",
+      "ativo": true
+    },
+    {
+      "id": 617,
+      "resposta": "BASE",
+      "exibicao": "Base",
+      "dica": "Espécie capaz de aceitar prótons segundo Brønsted-Lowry ou doar um par de elétrons segundo Lewis.",
+      "ativo": true
+    },
+    {
+      "id": 618,
+      "resposta": "IONS",
+      "exibicao": "Íons",
+      "dica": "Átomos ou grupos de átomos eletricamente carregados pela perda ou ganho de elétrons.",
+      "ativo": true
+    },
+    {
+      "id": 619,
+      "resposta": "LIGA",
+      "exibicao": "Liga",
+      "dica": "Material obtido pela combinação de elementos, com pelo menos um componente metálico, para alcançar propriedades específicas.",
+      "ativo": true
+    },
+    {
+      "id": 620,
+      "resposta": "BORO",
+      "exibicao": "Boro",
+      "dica": "Elemento de número atômico 5, classificado como semimetal e presente em boratos e materiais resistentes ao calor.",
+      "ativo": true
+    },
+    {
+      "id": 621,
+      "resposta": "OURO",
+      "exibicao": "Ouro",
+      "dica": "Elemento de número atômico 79, metal nobre muito pouco reativo e historicamente usado em moedas e joias.",
+      "ativo": true
+    },
+    {
+      "id": 622,
+      "resposta": "IODO",
+      "exibicao": "Iodo",
+      "dica": "Elemento halogênio de número atômico 53, importante biologicamente para a síntese de hormônios tireoidianos.",
+      "ativo": true
+    },
+    {
+      "id": 623,
+      "resposta": "ETER",
+      "exibicao": "Éter",
+      "dica": "Função orgânica caracterizada por um átomo de oxigênio ligado a dois grupos carbônicos.",
+      "ativo": true
+    },
+    {
+      "id": 624,
+      "resposta": "ENOL",
+      "exibicao": "Enol",
+      "dica": "Composto que apresenta uma hidroxila ligada diretamente a um carbono participante de dupla ligação.",
+      "ativo": true
+    },
+    {
+      "id": 625,
+      "resposta": "TIOL",
+      "exibicao": "Tiol",
+      "dica": "Função orgânica análoga aos álcoois em que o grupo característico contém enxofre no lugar de oxigênio.",
+      "ativo": true
+    },
+    {
+      "id": 626,
+      "resposta": "SPIN",
+      "exibicao": "Spin",
+      "dica": "Número quântico associado ao momento angular intrínseco de partículas como o elétron.",
+      "ativo": true
+    },
+    {
+      "id": 627,
+      "resposta": "BOHR",
+      "exibicao": "Bohr",
+      "dica": "Físico dinamarquês que propôs em 1913 um modelo atômico com níveis de energia quantizados.",
+      "ativo": true
+    },
+    {
+      "id": 628,
+      "resposta": "HESS",
+      "exibicao": "Hess",
+      "dica": "Químico nascido na Suíça e atuante na Rússia associado à lei segundo a qual a variação de entalpia independe do caminho da reação.",
+      "ativo": true
+    },
+    {
+      "id": 629,
+      "resposta": "EDTA",
+      "exibicao": "EDTA",
+      "dica": "Sigla do ácido etilenodiaminotetracético, agente quelante capaz de coordenar diversos cátions metálicos.",
+      "ativo": true
+    },
+    {
+      "id": 630,
+      "resposta": "HPLC",
+      "exibicao": "HPLC",
+      "dica": "Sigla em inglês da cromatografia líquida de alta eficiência, técnica de separação e análise de misturas.",
+      "ativo": true
+    },
+    {
+      "id": 631,
+      "resposta": "GCMS",
+      "exibicao": "GCMS",
+      "dica": "Sigla da técnica que acopla cromatografia gasosa à espectrometria de massas para identificar componentes de misturas.",
+      "ativo": true
+    },
+    {
+      "id": 632,
+      "resposta": "NACL",
+      "exibicao": "NaCl",
+      "dica": "Fórmula do cloreto de sódio, composto iônico constituído por cátions sódio e ânions cloreto.",
+      "ativo": true
+    },
+    {
+      "id": 633,
+      "resposta": "AGCL",
+      "exibicao": "AgCl",
+      "dica": "Fórmula do cloreto de prata, sólido pouco solúvel que escurece quando exposto à luz.",
+      "ativo": true
+    },
+    {
+      "id": 634,
+      "resposta": "ALFA",
+      "exibicao": "Alfa",
+      "dica": "Nome dado à emissão nuclear constituída por dois prótons e dois nêutrons.",
+      "ativo": true
+    },
+    {
+      "id": 635,
+      "resposta": "BETA",
+      "exibicao": "Beta",
+      "dica": "Nome dado à emissão nuclear que pode envolver elétron ou pósitron produzido em transformação do núcleo.",
+      "ativo": true
+    },
+    {
+      "id": 636,
+      "resposta": "GAMA",
+      "exibicao": "Gama",
+      "dica": "Radiação eletromagnética de alta energia emitida por núcleos em estados excitados.",
+      "ativo": true
+    },
+    {
+      "id": 637,
+      "resposta": "REDE",
+      "exibicao": "Rede",
+      "dica": "Arranjo tridimensional periódico dos constituintes de um sólido cristalino.",
+      "ativo": true
+    },
+    {
+      "id": 638,
+      "resposta": "OLEO",
+      "exibicao": "Óleo",
+      "dica": "Mistura líquida geralmente hidrofóbica, composta com frequência por hidrocarbonetos ou triacilgliceróis.",
+      "ativo": true
+    },
+    {
+      "id": 639,
+      "resposta": "GELO",
+      "exibicao": "Gelo",
+      "dica": "Forma sólida da água, cuja estrutura cristalina comum apresenta menor densidade que o líquido correspondente.",
+      "ativo": true
+    },
+    {
+      "id": 800,
+      "resposta": "CPLP",
+      "exibicao": "CPLP",
+      "dica": "Comunidade formada por Estados que têm a língua portuguesa como elemento comum de cooperação.",
+      "ativo": true
+    },
+    {
+      "id": 801,
+      "resposta": "EFTA",
+      "exibicao": "EFTA",
+      "dica": "Associação europeia de livre comércio criada em 1960 por países que não integravam a então Comunidade Econômica Europeia.",
+      "ativo": true
+    },
+    {
+      "id": 802,
+      "resposta": "APEC",
+      "exibicao": "APEC",
+      "dica": "Fórum que reúne economias da região Ásia-Pacífico para promover comércio, investimento e cooperação econômica.",
+      "ativo": true
+    },
+    {
+      "id": 803,
+      "resposta": "AIEA",
+      "exibicao": "AIEA",
+      "dica": "Agência internacional dedicada à cooperação nuclear civil, salvaguardas e não proliferação.",
+      "ativo": true
+    },
+    {
+      "id": 804,
+      "resposta": "BIRD",
+      "exibicao": "BIRD",
+      "dica": "Instituição do Grupo Banco Mundial que concede empréstimos principalmente a países de renda média.",
+      "ativo": true
+    },
+    {
+      "id": 805,
+      "resposta": "MIGA",
+      "exibicao": "MIGA",
+      "dica": "Agência multilateral que oferece garantias contra riscos políticos para investimentos realizados em países em desenvolvimento.",
+      "ativo": true
+    },
+    {
+      "id": 806,
+      "resposta": "AIIB",
+      "exibicao": "AIIB",
+      "dica": "Instituição multilateral sediada em Pequim que financia principalmente infraestrutura e conectividade.",
+      "ativo": true
+    },
+    {
+      "id": 807,
+      "resposta": "GATT",
+      "exibicao": "GATT",
+      "dica": "Acordo multilateral criado em 1947 que estruturou regras comerciais antes da criação da Organização Mundial do Comércio.",
+      "ativo": true
+    },
+    {
+      "id": 808,
+      "resposta": "RCEP",
+      "exibicao": "RCEP",
+      "dica": "Acordo de livre comércio da Ásia-Pacífico que reúne China, Japão, Coreia do Sul, ASEAN e outros parceiros.",
+      "ativo": true
+    },
+    {
+      "id": 809,
+      "resposta": "QUAD",
+      "exibicao": "QUAD",
+      "dica": "Diálogo estratégico formado por Estados Unidos, Índia, Japão e Austrália.",
+      "ativo": true
+    },
+    {
+      "id": 810,
+      "resposta": "OCDE",
+      "exibicao": "OCDE",
+      "dica": "Organização que reúne diversas economias para produção de estudos, coordenação de políticas públicas e estabelecimento de padrões.",
+      "ativo": true
+    },
+    {
+      "id": 811,
+      "resposta": "GAFI",
+      "exibicao": "GAFI",
+      "dica": "Organismo intergovernamental que estabelece padrões internacionais contra lavagem de dinheiro e financiamento do terrorismo.",
+      "ativo": true
+    },
+    {
+      "id": 812,
+      "resposta": "SADC",
+      "exibicao": "SADC",
+      "dica": "Comunidade regional voltada à integração econômica e cooperação entre países da África Austral.",
+      "ativo": true
+    },
+    {
+      "id": 813,
+      "resposta": "EAEU",
+      "exibicao": "EAEU",
+      "dica": "Organização de integração econômica liderada por Rússia e outras antigas repúblicas soviéticas.",
+      "ativo": true
+    },
+    {
+      "id": 814,
+      "resposta": "PNUD",
+      "exibicao": "PNUD",
+      "dica": "Programa das Nações Unidas dedicado a desenvolvimento, redução da pobreza e fortalecimento institucional.",
+      "ativo": true
+    },
+    {
+      "id": 815,
+      "resposta": "OMPI",
+      "exibicao": "OMPI",
+      "dica": "Agência das Nações Unidas responsável por tratados e cooperação internacional em propriedade intelectual.",
+      "ativo": true
+    },
+    {
+      "id": 816,
+      "resposta": "OACI",
+      "exibicao": "OACI",
+      "dica": "Agência especializada responsável por padrões internacionais de aviação civil.",
+      "ativo": true
+    },
+    {
+      "id": 817,
+      "resposta": "ALCA",
+      "exibicao": "ALCA",
+      "dica": "Projeto de integração comercial hemisférica negociado nas Américas durante as décadas de 1990 e 2000, mas nunca implementado.",
+      "ativo": true
+    },
+    {
+      "id": 818,
+      "resposta": "ALBA",
+      "exibicao": "ALBA",
+      "dica": "Iniciativa de integração latino-americana lançada por Venezuela e Cuba como alternativa a projetos de livre comércio liderados pelos Estados Unidos.",
+      "ativo": true
+    },
+    {
+      "id": 819,
+      "resposta": "IBAN",
+      "exibicao": "IBAN",
+      "dica": "Padrão internacional utilizado para identificar contas em transferências financeiras entre países.",
+      "ativo": true
+    },
+    {
+      "id": 820,
+      "resposta": "SEPA",
+      "exibicao": "SEPA",
+      "dica": "Área europeia criada para padronizar transferências e pagamentos denominados em euro.",
+      "ativo": true
+    },
+    {
+      "id": 821,
+      "resposta": "BRIC",
+      "exibicao": "BRIC",
+      "dica": "Agrupamento originalmente concebido para Brasil, Rússia, Índia e China antes da entrada da África do Sul.",
+      "ativo": true
+    }
+  ]
+}

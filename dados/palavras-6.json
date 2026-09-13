@@ -1,0 +1,844 @@
+{
+  "perguntas": [
+    {
+      "id": 97,
+      "resposta": "SENADO",
+      "exibicao": "Senado",
+      "dica": "Instituição política de grande importância na República Romana, composta sobretudo por membros da elite.",
+      "ativo": true
+    },
+    {
+      "id": 98,
+      "resposta": "CELTAS",
+      "exibicao": "Celtas",
+      "dica": "Conjunto de povos da Europa antiga ligados por línguas aparentadas e diversas tradições culturais.",
+      "ativo": true
+    },
+    {
+      "id": 99,
+      "resposta": "PERSAS",
+      "exibicao": "Persas",
+      "dica": "Povo iraniano que formou o Império Aquemênida a partir do século VI a.C.",
+      "ativo": true
+    },
+    {
+      "id": 100,
+      "resposta": "TIRANO",
+      "exibicao": "Tirano",
+      "dica": "Na Grécia Arcaica, governante que assumia o poder fora das formas tradicionais de sucessão.",
+      "ativo": true
+    },
+    {
+      "id": 101,
+      "resposta": "COLONO",
+      "exibicao": "Colono",
+      "dica": "Pessoa estabelecida em território ocupado ou organizado por um processo de colonização.",
+      "ativo": true
+    },
+    {
+      "id": 102,
+      "resposta": "VIKING",
+      "exibicao": "Viking",
+      "dica": "Navegador, guerreiro ou comerciante escandinavo ligado às expansões nórdicas entre os séculos VIII e XI.",
+      "ativo": true
+    },
+    {
+      "id": 103,
+      "resposta": "CALIFA",
+      "exibicao": "Califa",
+      "dica": "Título assumido por dirigentes de comunidades islâmicas após a morte de Maomé.",
+      "ativo": true
+    },
+    {
+      "id": 104,
+      "resposta": "ATENAS",
+      "exibicao": "Atenas",
+      "dica": "Pólis grega associada ao desenvolvimento da democracia direta no século V a.C.",
+      "ativo": true
+    },
+    {
+      "id": 105,
+      "resposta": "FRANCO",
+      "exibicao": "Franco",
+      "dica": "Sobrenome do general que liderou o regime autoritário espanhol de 1939 a 1975.",
+      "ativo": true
+    },
+    {
+      "id": 106,
+      "resposta": "STALIN",
+      "exibicao": "Stalin",
+      "dica": "Líder soviético que consolidou poder na década de 1920 e governou até 1953.",
+      "ativo": true
+    },
+    {
+      "id": 107,
+      "resposta": "VARGAS",
+      "exibicao": "Vargas",
+      "dica": "Sobrenome do presidente brasileiro que governou entre 1930 e 1945 e novamente de 1951 a 1954.",
+      "ativo": true
+    },
+    {
+      "id": 108,
+      "resposta": "SULTAO",
+      "exibicao": "Sultão",
+      "dica": "Título usado por soberanos muçulmanos em diferentes períodos e regiões.",
+      "ativo": true
+    },
+    {
+      "id": 109,
+      "resposta": "BANTOS",
+      "exibicao": "Bantos",
+      "dica": "Conjunto amplo de povos africanos identificados principalmente por línguas pertencentes à mesma família.",
+      "ativo": true
+    },
+    {
+      "id": 110,
+      "resposta": "GUERRA",
+      "exibicao": "Guerra",
+      "dica": "Conflito armado organizado entre Estados, povos ou grupos políticos.",
+      "ativo": true
+    },
+    {
+      "id": 111,
+      "resposta": "FARAOS",
+      "exibicao": "Faraós",
+      "dica": "Soberanos do Egito antigo, considerados intermediários entre a ordem divina e a sociedade.",
+      "ativo": true
+    },
+    {
+      "id": 112,
+      "resposta": "HELADE",
+      "exibicao": "Hélade",
+      "dica": "Nome usado pelos gregos antigos para designar o conjunto do mundo grego.",
+      "ativo": true
+    },
+    {
+      "id": 113,
+      "resposta": "NUBIOS",
+      "exibicao": "Núbios",
+      "dica": "Povos do vale do Nilo ao sul do Egito, ligados a reinos como Kush.",
+      "ativo": true
+    },
+    {
+      "id": 114,
+      "resposta": "LEGIAO",
+      "exibicao": "Legião",
+      "dica": "Grande unidade militar do exército romano formada por cidadãos e organizada em subdivisões.",
+      "ativo": true
+    },
+    {
+      "id": 115,
+      "resposta": "CASTRO",
+      "exibicao": "Castro",
+      "dica": "Sobrenome do líder revolucionário cubano que chegou ao poder em 1959.",
+      "ativo": true
+    },
+    {
+      "id": 116,
+      "resposta": "LUTERO",
+      "exibicao": "Lutero",
+      "dica": "Reformador alemão que publicou críticas às indulgências em 1517 e desencadeou uma ruptura religiosa duradoura.",
+      "ativo": true
+    },
+    {
+      "id": 117,
+      "resposta": "CICERO",
+      "exibicao": "Cícero",
+      "dica": "Orador, político e escritor romano do século I a.C., célebre por discursos e obras filosóficas.",
+      "ativo": true
+    },
+    {
+      "id": 118,
+      "resposta": "XERXES",
+      "exibicao": "Xerxes",
+      "dica": "Rei aquemênida que comandou a grande invasão persa da Grécia em 480 a.C.",
+      "ativo": true
+    },
+    {
+      "id": 119,
+      "resposta": "TRACIA",
+      "exibicao": "Trácia",
+      "dica": "Região histórica dos Bálcãs orientais habitada por diversos povos da Antiguidade.",
+      "ativo": true
+    },
+    {
+      "id": 120,
+      "resposta": "DACIOS",
+      "exibicao": "Dácios",
+      "dica": "Povo antigo da região dos Cárpatos combatido e conquistado por Trajano no início do século II.",
+      "ativo": true
+    },
+    {
+      "id": 286,
+      "resposta": "TRAUMA",
+      "exibicao": "Trauma",
+      "dica": "Experiência potencialmente avassaladora que pode produzir efeitos persistentes sobre emoções, memória e funcionamento.",
+      "ativo": true
+    },
+    {
+      "id": 287,
+      "resposta": "LIBIDO",
+      "exibicao": "Libido",
+      "dica": "Na teoria psicanalítica clássica, energia vinculada às pulsões sexuais.",
+      "ativo": true
+    },
+    {
+      "id": 288,
+      "resposta": "COPING",
+      "exibicao": "Coping",
+      "dica": "Conjunto de estratégias cognitivas e comportamentais utilizadas para lidar com demandas estressantes.",
+      "ativo": true
+    },
+    {
+      "id": 289,
+      "resposta": "PAVLOV",
+      "exibicao": "Pavlov",
+      "dica": "Fisiologista russo conhecido pelos experimentos que fundamentaram o estudo do condicionamento clássico.",
+      "ativo": true
+    },
+    {
+      "id": 290,
+      "resposta": "PIAGET",
+      "exibicao": "Piaget",
+      "dica": "Pesquisador suíço que propôs uma teoria construtivista do desenvolvimento cognitivo em estágios.",
+      "ativo": true
+    },
+    {
+      "id": 291,
+      "resposta": "MASLOW",
+      "exibicao": "Maslow",
+      "dica": "Psicólogo humanista associado a uma teoria hierárquica das necessidades e ao estudo da autorrealização.",
+      "ativo": true
+    },
+    {
+      "id": 292,
+      "resposta": "ROGERS",
+      "exibicao": "Rogers",
+      "dica": "Psicólogo humanista que desenvolveu uma abordagem centrada na pessoa e enfatizou empatia e aceitação.",
+      "ativo": true
+    },
+    {
+      "id": 293,
+      "resposta": "PSIQUE",
+      "exibicao": "Psique",
+      "dica": "Termo de origem grega empregado para se referir à vida mental ou ao conjunto dos fenômenos psicológicos.",
+      "ativo": true
+    },
+    {
+      "id": 294,
+      "resposta": "EMOCAO",
+      "exibicao": "Emoção",
+      "dica": "Resposta complexa que envolve alterações fisiológicas, avaliações cognitivas, experiência subjetiva e tendências de ação.",
+      "ativo": true
+    },
+    {
+      "id": 295,
+      "resposta": "LIMIAR",
+      "exibicao": "Limiar",
+      "dica": "Nível mínimo de intensidade necessário para que um estímulo seja detectado ou produza determinada resposta.",
+      "ativo": true
+    },
+    {
+      "id": 296,
+      "resposta": "PRAXIS",
+      "exibicao": "Práxis",
+      "dica": "Capacidade de planejar e executar ações motoras aprendidas e intencionais.",
+      "ativo": true
+    },
+    {
+      "id": 297,
+      "resposta": "AFASIA",
+      "exibicao": "Afásia",
+      "dica": "Alteração adquirida da linguagem decorrente de lesão cerebral, podendo afetar fala, compreensão, leitura ou escrita.",
+      "ativo": true
+    },
+    {
+      "id": 298,
+      "resposta": "ANOMIA",
+      "exibicao": "Anomia",
+      "dica": "Dificuldade de recuperar palavras ou nomes, frequentemente observada em alterações de linguagem.",
+      "ativo": true
+    },
+    {
+      "id": 299,
+      "resposta": "ESCUTA",
+      "exibicao": "Escuta",
+      "dica": "Habilidade clínica de acompanhar ativamente a fala do paciente, considerando conteúdo, emoção e contexto.",
+      "ativo": true
+    },
+    {
+      "id": 300,
+      "resposta": "ESCALA",
+      "exibicao": "Escala",
+      "dica": "Instrumento de mensuração composto por itens destinados a avaliar um construto psicológico.",
+      "ativo": true
+    },
+    {
+      "id": 301,
+      "resposta": "MODELO",
+      "exibicao": "Modelo",
+      "dica": "Representação teórica simplificada usada para explicar processos mentais, comportamentais ou sociais.",
+      "ativo": true
+    },
+    {
+      "id": 302,
+      "resposta": "PESSOA",
+      "exibicao": "Pessoa",
+      "dica": "Unidade central de estudo em abordagens que enfatizam experiência subjetiva, identidade e relações.",
+      "ativo": true
+    },
+    {
+      "id": 303,
+      "resposta": "REACAO",
+      "exibicao": "Reação",
+      "dica": "Resposta emocional, cognitiva, fisiológica ou comportamental diante de um evento ou estímulo.",
+      "ativo": true
+    },
+    {
+      "id": 304,
+      "resposta": "ESTUDO",
+      "exibicao": "Estudo",
+      "dica": "Investigação planejada realizada para produzir evidências sobre um fenômeno psicológico.",
+      "ativo": true
+    },
+    {
+      "id": 305,
+      "resposta": "PADRAO",
+      "exibicao": "Padrão",
+      "dica": "Regularidade recorrente observada em pensamentos, emoções ou comportamentos.",
+      "ativo": true
+    },
+    {
+      "id": 306,
+      "resposta": "NORMAS",
+      "exibicao": "Normas",
+      "dica": "Referências estatísticas utilizadas para interpretar resultados de testes em comparação com grupos específicos.",
+      "ativo": true
+    },
+    {
+      "id": 307,
+      "resposta": "DESVIO",
+      "exibicao": "Desvio",
+      "dica": "Diferença em relação a uma média, expectativa ou referência estatística.",
+      "ativo": true
+    },
+    {
+      "id": 308,
+      "resposta": "PRAZER",
+      "exibicao": "Prazer",
+      "dica": "Experiência afetiva positiva associada a recompensa, satisfação ou redução de tensão.",
+      "ativo": true
+    },
+    {
+      "id": 309,
+      "resposta": "CORTEX",
+      "exibicao": "Córtex",
+      "dica": "Camada externa do cérebro associada a numerosas funções perceptivas, cognitivas e motoras.",
+      "ativo": true
+    },
+    {
+      "id": 475,
+      "resposta": "CAMERA",
+      "exibicao": "Câmera",
+      "dica": "Equipamento utilizado para registrar imagens em movimento por meio de lente, sensor ou película.",
+      "ativo": true
+    },
+    {
+      "id": 476,
+      "resposta": "TRILHA",
+      "exibicao": "Trilha",
+      "dica": "Conjunto musical usado para acompanhar, reforçar ou contrastar emoções e ações de uma obra audiovisual.",
+      "ativo": true
+    },
+    {
+      "id": 477,
+      "resposta": "CANNES",
+      "exibicao": "Cannes",
+      "dica": "Cidade francesa que recebe anualmente um dos festivais mais prestigiados do mundo.",
+      "ativo": true
+    },
+    {
+      "id": 478,
+      "resposta": "GODARD",
+      "exibicao": "Godard",
+      "dica": "Sobrenome do diretor franco-suíço de Acossado e O Desprezo, figura central da Nouvelle Vague.",
+      "ativo": true
+    },
+    {
+      "id": 479,
+      "resposta": "MELIES",
+      "exibicao": "Méliès",
+      "dica": "Sobrenome do pioneiro francês de Viagem à Lua, célebre pelo uso criativo de trucagens visuais.",
+      "ativo": true
+    },
+    {
+      "id": 480,
+      "resposta": "KEATON",
+      "exibicao": "Keaton",
+      "dica": "Sobrenome do astro do cinema mudo conhecido por A General e por sua expressão impassível.",
+      "ativo": true
+    },
+    {
+      "id": 481,
+      "resposta": "RENOIR",
+      "exibicao": "Renoir",
+      "dica": "Sobrenome do diretor francês de A Grande Ilusão e A Regra do Jogo.",
+      "ativo": true
+    },
+    {
+      "id": 482,
+      "resposta": "MURNAU",
+      "exibicao": "Murnau",
+      "dica": "Sobrenome do cineasta alemão responsável por Nosferatu e Aurora.",
+      "ativo": true
+    },
+    {
+      "id": 483,
+      "resposta": "GAFFER",
+      "exibicao": "Gaffer",
+      "dica": "Profissional que chefia a equipe de iluminação no set e executa o desenho luminoso definido pela fotografia.",
+      "ativo": true
+    },
+    {
+      "id": 484,
+      "resposta": "RUSHES",
+      "exibicao": "Rushes",
+      "dica": "Material bruto registrado durante as filmagens e revisto pela equipe antes da edição final.",
+      "ativo": true
+    },
+    {
+      "id": 485,
+      "resposta": "SCRIPT",
+      "exibicao": "Script",
+      "dica": "Documento escrito que organiza cenas, ações, falas e indicações necessárias à realização de uma obra.",
+      "ativo": true
+    },
+    {
+      "id": 486,
+      "resposta": "AUTEUR",
+      "exibicao": "Auteur",
+      "dica": "Termo francês usado na crítica para tratar o diretor como principal força criativa de uma obra.",
+      "ativo": true
+    },
+    {
+      "id": 487,
+      "resposta": "CHROMA",
+      "exibicao": "Chroma",
+      "dica": "Técnica de composição que usa um fundo de cor uniforme para substituir digitalmente o cenário.",
+      "ativo": true
+    },
+    {
+      "id": 488,
+      "resposta": "KEYING",
+      "exibicao": "Keying",
+      "dica": "Processo de pós-produção que remove uma faixa de cor ou luminosidade para combinar diferentes imagens.",
+      "ativo": true
+    },
+    {
+      "id": 489,
+      "resposta": "CLICHE",
+      "exibicao": "Clichê",
+      "dica": "Recurso narrativo, visual ou de diálogo tão repetido que perde parte de sua originalidade.",
+      "ativo": true
+    },
+    {
+      "id": 490,
+      "resposta": "DUBLAR",
+      "exibicao": "Dublar",
+      "dica": "Substituir a fala originalmente gravada por outra voz sincronizada com a imagem.",
+      "ativo": true
+    },
+    {
+      "id": 491,
+      "resposta": "PREMIO",
+      "exibicao": "Prêmio",
+      "dica": "Reconhecimento concedido por academias, festivais ou associações a obras e profissionais destacados.",
+      "ativo": true
+    },
+    {
+      "id": 492,
+      "resposta": "CINEMA",
+      "exibicao": "Cinema",
+      "dica": "Arte e meio de expressão baseado na criação e exibição de imagens em movimento.",
+      "ativo": true
+    },
+    {
+      "id": 493,
+      "resposta": "ATORES",
+      "exibicao": "Atores",
+      "dica": "Intérpretes que representam personagens diante da câmera em uma produção audiovisual.",
+      "ativo": true
+    },
+    {
+      "id": 494,
+      "resposta": "BURTON",
+      "exibicao": "Burton",
+      "dica": "Sobrenome do diretor norte-americano de Edward Mãos de Tesoura e Ed Wood.",
+      "ativo": true
+    },
+    {
+      "id": 495,
+      "resposta": "HERZOG",
+      "exibicao": "Herzog",
+      "dica": "Sobrenome do cineasta alemão de Aguirre, a Cólera dos Deuses e Fitzcarraldo.",
+      "ativo": true
+    },
+    {
+      "id": 496,
+      "resposta": "MALICK",
+      "exibicao": "Malick",
+      "dica": "Sobrenome do diretor norte-americano de Cinzas no Paraíso e A Árvore da Vida.",
+      "ativo": true
+    },
+    {
+      "id": 497,
+      "resposta": "GERWIG",
+      "exibicao": "Gerwig",
+      "dica": "Sobrenome da diretora de Lady Bird, Adoráveis Mulheres e Barbie.",
+      "ativo": true
+    },
+    {
+      "id": 498,
+      "resposta": "WILDER",
+      "exibicao": "Wilder",
+      "dica": "Sobrenome do diretor e roteirista de Crepúsculo dos Deuses e Se Meu Apartamento Falasse.",
+      "ativo": true
+    },
+    {
+      "id": 664,
+      "resposta": "SOLUTO",
+      "exibicao": "Soluto",
+      "dica": "Componente que se encontra dissolvido em uma solução, normalmente em menor proporção que o meio dissolvente.",
+      "ativo": true
+    },
+    {
+      "id": 665,
+      "resposta": "PROTON",
+      "exibicao": "Próton",
+      "dica": "Partícula subatômica de carga positiva localizada no núcleo e responsável por definir o número atômico.",
+      "ativo": true
+    },
+    {
+      "id": 666,
+      "resposta": "CETONA",
+      "exibicao": "Cetona",
+      "dica": "Função orgânica que apresenta um grupo carbonila ligado a dois átomos de carbono.",
+      "ativo": true
+    },
+    {
+      "id": 667,
+      "resposta": "ALCANO",
+      "exibicao": "Alcano",
+      "dica": "Hidrocarboneto saturado que apresenta apenas ligações simples entre seus átomos de carbono.",
+      "ativo": true
+    },
+    {
+      "id": 668,
+      "resposta": "AMINAS",
+      "exibicao": "Aminas",
+      "dica": "Classe de compostos orgânicos nitrogenados derivados formalmente da amônia.",
+      "ativo": true
+    },
+    {
+      "id": 669,
+      "resposta": "DALTON",
+      "exibicao": "Dalton",
+      "dica": "Cientista inglês que formulou no início do século XIX uma teoria moderna segundo a qual a matéria é constituída por unidades discretas.",
+      "ativo": true
+    },
+    {
+      "id": 670,
+      "resposta": "CATODO",
+      "exibicao": "Cátodo",
+      "dica": "Eletrodo no qual ocorre redução em uma célula eletroquímica.",
+      "ativo": true
+    },
+    {
+      "id": 671,
+      "resposta": "NEONIO",
+      "exibicao": "Neônio",
+      "dica": "Elemento de número atômico 10, gás nobre usado em tubos luminosos.",
+      "ativo": true
+    },
+    {
+      "id": 672,
+      "resposta": "NIQUEL",
+      "exibicao": "Níquel",
+      "dica": "Elemento de número atômico 28, usado em aços inoxidáveis, superligas e revestimentos.",
+      "ativo": true
+    },
+    {
+      "id": 673,
+      "resposta": "ALCOOL",
+      "exibicao": "Álcool",
+      "dica": "Função orgânica caracterizada, em sua forma mais comum, por um grupo hidroxila ligado a carbono saturado.",
+      "ativo": true
+    },
+    {
+      "id": 674,
+      "resposta": "SILICA",
+      "exibicao": "Sílica",
+      "dica": "Material constituído principalmente por dióxido de silício e presente em quartzo, areia e muitos vidros.",
+      "ativo": true
+    },
+    {
+      "id": 675,
+      "resposta": "TAMPAO",
+      "exibicao": "Tampão",
+      "dica": "Solução formulada para resistir a variações significativas de pH após pequenas adições de ácido ou de base.",
+      "ativo": true
+    },
+    {
+      "id": 676,
+      "resposta": "REATOR",
+      "exibicao": "Reator",
+      "dica": "Equipamento em que transformações químicas são conduzidas sob condições controladas de temperatura, pressão e composição.",
+      "ativo": true
+    },
+    {
+      "id": 677,
+      "resposta": "PIPETA",
+      "exibicao": "Pipeta",
+      "dica": "Vidraria ou instrumento usado para medir e transferir pequenos volumes de líquidos com precisão.",
+      "ativo": true
+    },
+    {
+      "id": 678,
+      "resposta": "BURETA",
+      "exibicao": "Bureta",
+      "dica": "Vidraria graduada com torneira, muito utilizada para dispensar volumes durante titulações.",
+      "ativo": true
+    },
+    {
+      "id": 679,
+      "resposta": "TEFLON",
+      "exibicao": "Teflon",
+      "dica": "Nome comercial amplamente associado ao politetrafluoroetileno, polímero de elevada resistência química e baixo atrito.",
+      "ativo": true
+    },
+    {
+      "id": 680,
+      "resposta": "KEVLAR",
+      "exibicao": "Kevlar",
+      "dica": "Fibra de aramida de alta resistência mecânica usada em materiais compósitos e equipamentos de proteção.",
+      "ativo": true
+    },
+    {
+      "id": 681,
+      "resposta": "CATION",
+      "exibicao": "Cátion",
+      "dica": "Espécie carregada positivamente, formada quando há deficiência de elétrons em relação ao número de prótons.",
+      "ativo": true
+    },
+    {
+      "id": 682,
+      "resposta": "QUIRAL",
+      "exibicao": "Quiral",
+      "dica": "Adjetivo dado a uma estrutura que não pode ser sobreposta à sua imagem especular.",
+      "ativo": true
+    },
+    {
+      "id": 683,
+      "resposta": "MICELA",
+      "exibicao": "Micela",
+      "dica": "Agregado de moléculas anfifílicas que organiza regiões hidrofóbicas e hidrofílicas em solução.",
+      "ativo": true
+    },
+    {
+      "id": 684,
+      "resposta": "ORBITA",
+      "exibicao": "Órbita",
+      "dica": "Trajetória definida atribuída ao elétron em modelos atômicos clássicos, como o proposto em 1913.",
+      "ativo": true
+    },
+    {
+      "id": 685,
+      "resposta": "CHUMBO",
+      "exibicao": "Chumbo",
+      "dica": "Elemento de número atômico 82, metal denso e tóxico historicamente usado em baterias e pigmentos.",
+      "ativo": true
+    },
+    {
+      "id": 686,
+      "resposta": "AMONIA",
+      "exibicao": "Amônia",
+      "dica": "Composto molecular de fórmula NH₃, básico em água e fundamental na produção de fertilizantes nitrogenados.",
+      "ativo": true
+    },
+    {
+      "id": 687,
+      "resposta": "ETANOL",
+      "exibicao": "Etanol",
+      "dica": "Composto de fórmula C₂H₅OH, usado como combustível, solvente e componente de bebidas alcoólicas.",
+      "ativo": true
+    },
+    {
+      "id": 844,
+      "resposta": "UNASUL",
+      "exibicao": "UNASUL",
+      "dica": "Organização criada em 2008 com o objetivo de promover integração política e cooperação entre países sul-americanos.",
+      "ativo": true
+    },
+    {
+      "id": 845,
+      "resposta": "CEDEAO",
+      "exibicao": "CEDEAO",
+      "dica": "Comunidade regional fundada em 1975 para promover integração econômica entre países da África Ocidental.",
+      "ativo": true
+    },
+    {
+      "id": 846,
+      "resposta": "TAIWAN",
+      "exibicao": "Taiwan",
+      "dica": "Ilha governada pela República da China e centro de uma das principais disputas diplomáticas e estratégicas da Ásia Oriental.",
+      "ativo": true
+    },
+    {
+      "id": 847,
+      "resposta": "KOSOVO",
+      "exibicao": "Kosovo",
+      "dica": "Território balcânico que declarou independência da Sérvia em 2008 e possui reconhecimento internacional parcial.",
+      "ativo": true
+    },
+    {
+      "id": 848,
+      "resposta": "BREXIT",
+      "exibicao": "Brexit",
+      "dica": "Processo que resultou na saída do Reino Unido da União Europeia após o referendo de 2016.",
+      "ativo": true
+    },
+    {
+      "id": 849,
+      "resposta": "CAMBIO",
+      "exibicao": "Câmbio",
+      "dica": "Relação de troca entre duas moedas, determinada por mercados ou administrada por autoridades monetárias.",
+      "ativo": true
+    },
+    {
+      "id": 850,
+      "resposta": "TARIFA",
+      "exibicao": "Tarifa",
+      "dica": "Tributo cobrado sobre mercadorias que atravessam fronteiras, especialmente importações.",
+      "ativo": true
+    },
+    {
+      "id": 851,
+      "resposta": "SANCAO",
+      "exibicao": "Sanção",
+      "dica": "Medida coercitiva econômica ou diplomática aplicada a um Estado, empresa ou indivíduo.",
+      "ativo": true
+    },
+    {
+      "id": 852,
+      "resposta": "CARTEL",
+      "exibicao": "Cartel",
+      "dica": "Acordo entre produtores para coordenar preços, produção ou divisão de mercados.",
+      "ativo": true
+    },
+    {
+      "id": 853,
+      "resposta": "DIVIDA",
+      "exibicao": "Dívida",
+      "dica": "Obrigação financeira que pode ser contraída por governos, empresas ou famílias perante credores.",
+      "ativo": true
+    },
+    {
+      "id": 854,
+      "resposta": "OFERTA",
+      "exibicao": "Oferta",
+      "dica": "Quantidade de um bem, serviço ou ativo que vendedores estão dispostos a disponibilizar a determinado preço.",
+      "ativo": true
+    },
+    {
+      "id": 855,
+      "resposta": "INDICE",
+      "exibicao": "Índice",
+      "dica": "Indicador numérico utilizado para acompanhar preços, mercados, atividade econômica ou outras variáveis.",
+      "ativo": true
+    },
+    {
+      "id": 856,
+      "resposta": "CHOQUE",
+      "exibicao": "Choque",
+      "dica": "Mudança inesperada que altera significativamente oferta, demanda, preços ou condições econômicas.",
+      "ativo": true
+    },
+    {
+      "id": 857,
+      "resposta": "FISCAL",
+      "exibicao": "Fiscal",
+      "dica": "Adjetivo relacionado às receitas, despesas, déficits e decisões orçamentárias do governo.",
+      "ativo": true
+    },
+    {
+      "id": 858,
+      "resposta": "SEGURO",
+      "exibicao": "Seguro",
+      "dica": "Contrato de proteção financeira contra determinado risco mediante pagamento de prêmio.",
+      "ativo": true
+    },
+    {
+      "id": 859,
+      "resposta": "ACORDO",
+      "exibicao": "Acordo",
+      "dica": "Entendimento formal entre Estados ou outras partes para estabelecer regras, compromissos ou concessões recíprocas.",
+      "ativo": true
+    },
+    {
+      "id": 860,
+      "resposta": "MEXICO",
+      "exibicao": "México",
+      "dica": "País latino-americano integrado economicamente aos Estados Unidos e Canadá por um amplo tratado comercial.",
+      "ativo": true
+    },
+    {
+      "id": 861,
+      "resposta": "CANADA",
+      "exibicao": "Canadá",
+      "dica": "País norte-americano membro do G7 e profundamente integrado comercialmente à economia dos Estados Unidos.",
+      "ativo": true
+    },
+    {
+      "id": 862,
+      "resposta": "FRANCA",
+      "exibicao": "França",
+      "dica": "Potência europeia, membro permanente do Conselho de Segurança e integrante da zona do euro.",
+      "ativo": true
+    },
+    {
+      "id": 863,
+      "resposta": "ISRAEL",
+      "exibicao": "Israel",
+      "dica": "Estado do Oriente Médio cuja segurança, relações regionais e conflito com os palestinos possuem grande importância internacional.",
+      "ativo": true
+    },
+    {
+      "id": 864,
+      "resposta": "RUSSIA",
+      "exibicao": "Rússia",
+      "dica": "Potência eurasiática dotada de arsenal nuclear, assento permanente no Conselho de Segurança e grandes reservas energéticas.",
+      "ativo": true
+    },
+    {
+      "id": 865,
+      "resposta": "SHEKEL",
+      "exibicao": "Shekel",
+      "dica": "Unidade monetária oficial utilizada pelo Estado israelense.",
+      "ativo": true
+    },
+    {
+      "id": 866,
+      "resposta": "PESETA",
+      "exibicao": "Peseta",
+      "dica": "Unidade monetária utilizada pela Espanha antes da adoção do euro.",
+      "ativo": true
+    },
+    {
+      "id": 867,
+      "resposta": "TRUSTE",
+      "exibicao": "Truste",
+      "dica": "Forma histórica de concentração empresarial em que companhias passam a ser controladas de maneira coordenada.",
+      "ativo": true
+    }
+  ]
+}

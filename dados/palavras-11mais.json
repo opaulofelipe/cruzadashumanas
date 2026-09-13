@@ -1,0 +1,837 @@
+{
+  "perguntas": [
+    {
+      "id": 169,
+      "resposta": "ABSOLUTISMO",
+      "exibicao": "Absolutismo",
+      "dica": "Modelo político associado à forte concentração de autoridade nas mãos do monarca, especialmente na Europa moderna.",
+      "ativo": true
+    },
+    {
+      "id": 170,
+      "resposta": "MERCANTILISMO",
+      "exibicao": "Mercantilismo",
+      "dica": "Conjunto de práticas econômicas da Idade Moderna marcado por proteção comercial, intervenção estatal e busca de metais preciosos.",
+      "ativo": true
+    },
+    {
+      "id": 171,
+      "resposta": "IMPERIALISMO",
+      "exibicao": "Imperialismo",
+      "dica": "Política de expansão e domínio de uma potência sobre outros territórios ou povos, muito associada ao século XIX.",
+      "ativo": true
+    },
+    {
+      "id": 172,
+      "resposta": "COLONIALISMO",
+      "exibicao": "Colonialismo",
+      "dica": "Sistema de controle político, econômico e cultural exercido por uma potência sobre territórios subordinados.",
+      "ativo": true
+    },
+    {
+      "id": 173,
+      "resposta": "INDUSTRIALIZACAO",
+      "exibicao": "Industrialização",
+      "dica": "Processo de expansão da produção mecanizada e fabril que transformou trabalho, cidades e relações sociais.",
+      "ativo": true
+    },
+    {
+      "id": 174,
+      "resposta": "RENASCIMENTO",
+      "exibicao": "Renascimento",
+      "dica": "Movimento cultural europeu dos séculos XIV a XVI marcado pela valorização de referências clássicas e novas formas artísticas.",
+      "ativo": true
+    },
+    {
+      "id": 175,
+      "resposta": "CONTRARREFORMA",
+      "exibicao": "Contrarreforma",
+      "dica": "Conjunto de respostas da Igreja Católica às reformas protestantes, especialmente a partir do Concílio de Trento.",
+      "ativo": true
+    },
+    {
+      "id": 176,
+      "resposta": "REFORMAPROTESTANTE",
+      "exibicao": "Reforma Protestante",
+      "dica": "Movimento religioso do século XVI que rompeu a unidade do cristianismo ocidental e originou novas igrejas.",
+      "ativo": true
+    },
+    {
+      "id": 177,
+      "resposta": "REVOLUCAOFRANCESA",
+      "exibicao": "Revolução Francesa",
+      "dica": "Processo iniciado em 1789 que derrubou estruturas do Antigo Regime e redefiniu a política europeia.",
+      "ativo": true
+    },
+    {
+      "id": 178,
+      "resposta": "REVOLUCAOINDUSTRIAL",
+      "exibicao": "Revolução Industrial",
+      "dica": "Transformação econômica iniciada na Grã-Bretanha com mecanização, fábricas e novas relações de trabalho.",
+      "ativo": true
+    },
+    {
+      "id": 179,
+      "resposta": "PRIMEIRAGUERRAMUNDIAL",
+      "exibicao": "Primeira Guerra Mundial",
+      "dica": "Conflito global travado entre 1914 e 1918, marcado por alianças militares, trincheiras e mobilização em massa.",
+      "ativo": true
+    },
+    {
+      "id": 180,
+      "resposta": "SEGUNDAGUERRAMUNDIAL",
+      "exibicao": "Segunda Guerra Mundial",
+      "dica": "Conflito global de 1939 a 1945 que envolveu as potências do Eixo e dos Aliados.",
+      "ativo": true
+    },
+    {
+      "id": 181,
+      "resposta": "GUERRADOSCEMANOS",
+      "exibicao": "Guerra dos Cem Anos",
+      "dica": "Série de conflitos entre as coroas inglesa e francesa travada, com interrupções, entre 1337 e 1453.",
+      "ativo": true
+    },
+    {
+      "id": 182,
+      "resposta": "GUERRADOSSETEANOS",
+      "exibicao": "Guerra dos Sete Anos",
+      "dica": "Conflito internacional de 1756 a 1763 envolvendo potências europeias e disputas coloniais em vários continentes.",
+      "ativo": true
+    },
+    {
+      "id": 183,
+      "resposta": "INDEPENDENCIA",
+      "exibicao": "Independência",
+      "dica": "Processo pelo qual uma comunidade política rompe vínculos de sujeição e passa a exercer soberania própria.",
+      "ativo": true
+    },
+    {
+      "id": 184,
+      "resposta": "REPUBLICAVELHA",
+      "exibicao": "República Velha",
+      "dica": "Período da história brasileira entre 1889 e 1930, marcado pelo federalismo oligárquico e pelo domínio regional.",
+      "ativo": true
+    },
+    {
+      "id": 185,
+      "resposta": "DITADURAMILITAR",
+      "exibicao": "Ditadura Militar",
+      "dica": "Regime autoritário brasileiro instaurado em 1964 e encerrado em 1985.",
+      "ativo": true
+    },
+    {
+      "id": 186,
+      "resposta": "REDEMOCRATIZACAO",
+      "exibicao": "Redemocratização",
+      "dica": "Processo de restauração de instituições democráticas após um período de regime autoritário.",
+      "ativo": true
+    },
+    {
+      "id": 187,
+      "resposta": "CONSTITUICAO",
+      "exibicao": "Constituição",
+      "dica": "Conjunto fundamental de normas que organiza o Estado, distribui poderes e estabelece direitos.",
+      "ativo": true
+    },
+    {
+      "id": 188,
+      "resposta": "ABOLICIONISMO",
+      "exibicao": "Abolicionismo",
+      "dica": "Movimento político e social voltado ao fim da escravidão.",
+      "ativo": true
+    },
+    {
+      "id": 189,
+      "resposta": "COLONIZACAO",
+      "exibicao": "Colonização",
+      "dica": "Processo de ocupação, domínio e exploração de territórios por grupos ou Estados externos.",
+      "ativo": true
+    },
+    {
+      "id": 190,
+      "resposta": "DESCOLONIZACAO",
+      "exibicao": "Descolonização",
+      "dica": "Processo de fim dos impérios coloniais e formação de novos Estados, sobretudo após a Segunda Guerra Mundial.",
+      "ativo": true
+    },
+    {
+      "id": 191,
+      "resposta": "NACIONALISMO",
+      "exibicao": "Nacionalismo",
+      "dica": "Ideologia ou sentimento político que atribui centralidade à nação, à identidade nacional e à autodeterminação.",
+      "ativo": true
+    },
+    {
+      "id": 192,
+      "resposta": "TOTALITARISMO",
+      "exibicao": "Totalitarismo",
+      "dica": "Conceito usado para regimes que buscam controlar de forma abrangente a política, a sociedade e a vida pública.",
+      "ativo": true
+    },
+    {
+      "id": 358,
+      "resposta": "PERSONALIDADE",
+      "exibicao": "Personalidade",
+      "dica": "Conjunto relativamente estável de padrões de pensamento, emoção e comportamento que diferenciam indivíduos.",
+      "ativo": true
+    },
+    {
+      "id": 359,
+      "resposta": "CONDICIONAMENTO",
+      "exibicao": "Condicionamento",
+      "dica": "Processo de aprendizagem em que respostas passam a depender de estímulos antecedentes ou de suas consequências.",
+      "ativo": true
+    },
+    {
+      "id": 360,
+      "resposta": "PSICANALISE",
+      "exibicao": "Psicanálise",
+      "dica": "Abordagem teórica e clínica fundada no estudo de processos inconscientes, conflitos e dinâmica psíquica.",
+      "ativo": true
+    },
+    {
+      "id": 361,
+      "resposta": "BEHAVIORISMO",
+      "exibicao": "Behaviorismo",
+      "dica": "Corrente que enfatiza a análise científica do comportamento e das relações entre organismo e ambiente.",
+      "ativo": true
+    },
+    {
+      "id": 362,
+      "resposta": "ESQUIZOFRENIA",
+      "exibicao": "Esquizofrenia",
+      "dica": "Transtorno mental grave que pode envolver delírios, alucinações, alterações do pensamento e prejuízo funcional.",
+      "ativo": true
+    },
+    {
+      "id": 363,
+      "resposta": "RESILIENCIA",
+      "exibicao": "Resiliência",
+      "dica": "Capacidade de adaptação e recuperação diante de adversidades, sem implicar ausência de sofrimento.",
+      "ativo": true
+    },
+    {
+      "id": 364,
+      "resposta": "NEUROTICISMO",
+      "exibicao": "Neuroticismo",
+      "dica": "Traço de personalidade associado a maior tendência a experimentar emoções negativas e sensibilidade ao estresse.",
+      "ativo": true
+    },
+    {
+      "id": 365,
+      "resposta": "PSICOPATOLOGIA",
+      "exibicao": "Psicopatologia",
+      "dica": "Campo dedicado ao estudo sistemático de sintomas, síndromes e alterações do funcionamento mental.",
+      "ativo": true
+    },
+    {
+      "id": 366,
+      "resposta": "NEUROPSICOLOGIA",
+      "exibicao": "Neuropsicologia",
+      "dica": "Área que investiga relações entre funcionamento cerebral, cognição, emoção e comportamento.",
+      "ativo": true
+    },
+    {
+      "id": 367,
+      "resposta": "PSICOTERAPIA",
+      "exibicao": "Psicoterapia",
+      "dica": "Intervenção profissional baseada em métodos psicológicos para tratar sofrimento e promover mudanças no funcionamento.",
+      "ativo": true
+    },
+    {
+      "id": 368,
+      "resposta": "METACOGNICAO",
+      "exibicao": "Metacognição",
+      "dica": "Capacidade de refletir sobre os próprios processos de pensamento, aprendizagem e regulação cognitiva.",
+      "ativo": true
+    },
+    {
+      "id": 369,
+      "resposta": "AUTORREGULACAO",
+      "exibicao": "Autorregulação",
+      "dica": "Capacidade de monitorar e ajustar emoções, pensamentos e comportamentos em função de objetivos e contexto.",
+      "ativo": true
+    },
+    {
+      "id": 370,
+      "resposta": "PROCRASTINACAO",
+      "exibicao": "Procrastinação",
+      "dica": "Adiamento voluntário de uma tarefa pretendida apesar da expectativa de consequências negativas.",
+      "ativo": true
+    },
+    {
+      "id": 371,
+      "resposta": "DESPERSONALIZACAO",
+      "exibicao": "Despersonalização",
+      "dica": "Experiência de distanciamento ou estranhamento em relação a si próprio, aos pensamentos ou ao corpo.",
+      "ativo": true
+    },
+    {
+      "id": 372,
+      "resposta": "DESREALIZACAO",
+      "exibicao": "Desrealização",
+      "dica": "Experiência de estranhamento ou irrealidade em relação ao ambiente externo.",
+      "ativo": true
+    },
+    {
+      "id": 373,
+      "resposta": "HIPERATIVIDADE",
+      "exibicao": "Hiperatividade",
+      "dica": "Padrão de atividade motora ou verbal excessiva em relação ao esperado para idade e contexto.",
+      "ativo": true
+    },
+    {
+      "id": 374,
+      "resposta": "IMPULSIVIDADE",
+      "exibicao": "Impulsividade",
+      "dica": "Tendência a agir rapidamente, com pouca consideração das consequências ou planejamento prévio.",
+      "ativo": true
+    },
+    {
+      "id": 375,
+      "resposta": "ASSERTIVIDADE",
+      "exibicao": "Assertividade",
+      "dica": "Habilidade de expressar necessidades, opiniões e limites de forma clara, respeitosa e adequada ao contexto.",
+      "ativo": true
+    },
+    {
+      "id": 376,
+      "resposta": "TRANSFERENCIA",
+      "exibicao": "Transferência",
+      "dica": "Na tradição psicodinâmica, deslocamento para a relação terapêutica de expectativas e sentimentos formados em vínculos anteriores.",
+      "ativo": true
+    },
+    {
+      "id": 377,
+      "resposta": "CONTRATRANSFERENCIA",
+      "exibicao": "Contratransferência",
+      "dica": "Conjunto de respostas emocionais do terapeuta evocadas na relação clínica, especialmente discutidas em abordagens psicodinâmicas.",
+      "ativo": true
+    },
+    {
+      "id": 378,
+      "resposta": "INCONSCIENTE",
+      "exibicao": "Inconsciente",
+      "dica": "Conjunto de processos mentais que influenciam pensamento e comportamento sem acesso consciente direto.",
+      "ativo": true
+    },
+    {
+      "id": 379,
+      "resposta": "TEMPERAMENTO",
+      "exibicao": "Temperamento",
+      "dica": "Padrões relativamente precoces de reatividade emocional e autorregulação com bases biológicas e ambientais.",
+      "ativo": true
+    },
+    {
+      "id": 380,
+      "resposta": "APRENDIZAGEM",
+      "exibicao": "Aprendizagem",
+      "dica": "Mudança relativamente duradoura no comportamento ou conhecimento decorrente de experiência e prática.",
+      "ativo": true
+    },
+    {
+      "id": 381,
+      "resposta": "DESENVOLVIMENTO",
+      "exibicao": "Desenvolvimento",
+      "dica": "Processo de mudanças cognitivas, emocionais, sociais e comportamentais ao longo do ciclo de vida.",
+      "ativo": true
+    },
+    {
+      "id": 546,
+      "resposta": "CINEMATOGRAFIA",
+      "exibicao": "Cinematografia",
+      "dica": "Conjunto de técnicas e escolhas visuais ligadas à captação de imagens em movimento.",
+      "ativo": true
+    },
+    {
+      "id": 547,
+      "resposta": "DOCUMENTARIO",
+      "exibicao": "Documentário",
+      "dica": "Gênero audiovisual voltado à representação de pessoas, acontecimentos ou questões do mundo real.",
+      "ativo": true
+    },
+    {
+      "id": 548,
+      "resposta": "ENQUADRAMENTO",
+      "exibicao": "Enquadramento",
+      "dica": "Escolha dos limites visuais da imagem e da posição dos elementos dentro do quadro.",
+      "ativo": true
+    },
+    {
+      "id": 549,
+      "resposta": "CONTINUIDADE",
+      "exibicao": "Continuidade",
+      "dica": "Princípio que busca preservar coerência espacial, temporal e visual entre planos sucessivos.",
+      "ativo": true
+    },
+    {
+      "id": 550,
+      "resposta": "SONOPLASTIA",
+      "exibicao": "Sonoplastia",
+      "dica": "Criação e organização de efeitos sonoros destinados a construir ambientes e reforçar ações.",
+      "ativo": true
+    },
+    {
+      "id": 551,
+      "resposta": "DISTRIBUICAO",
+      "exibicao": "Distribuição",
+      "dica": "Etapa responsável por levar uma obra pronta às salas, plataformas, emissoras ou outros canais de acesso ao público.",
+      "ativo": true
+    },
+    {
+      "id": 552,
+      "resposta": "CONTRACAMPO",
+      "exibicao": "Contracampo",
+      "dica": "Plano feito a partir do ponto de vista oposto ao anterior, muito usado em diálogos entre personagens.",
+      "ativo": true
+    },
+    {
+      "id": 553,
+      "resposta": "PLANOSEQUENCIA",
+      "exibicao": "Plano sequência",
+      "dica": "Tomada longa que registra uma ação extensa sem cortes aparentes ou interrupções visíveis.",
+      "ativo": true
+    },
+    {
+      "id": 554,
+      "resposta": "DIRECAODEARTE",
+      "exibicao": "Direção de arte",
+      "dica": "Área responsável pela concepção visual de cenários, objetos, paleta e ambientação da produção.",
+      "ativo": true
+    },
+    {
+      "id": 555,
+      "resposta": "DIRECAODEFOTOGRAFIA",
+      "exibicao": "Direção de fotografia",
+      "dica": "Área que define iluminação, lentes, exposição, movimentos de câmera e aparência visual das imagens.",
+      "ativo": true
+    },
+    {
+      "id": 556,
+      "resposta": "POSPRODUCAO",
+      "exibicao": "Pós-produção",
+      "dica": "Etapa posterior às filmagens que reúne edição, som, correção de cor, efeitos e finalização.",
+      "ativo": true
+    },
+    {
+      "id": 557,
+      "resposta": "CURTAMETRAGEM",
+      "exibicao": "Curta-metragem",
+      "dica": "Obra de duração reduzida em relação aos formatos mais longos de exibição comercial.",
+      "ativo": true
+    },
+    {
+      "id": 558,
+      "resposta": "LONGAMETRAGEM",
+      "exibicao": "Longa-metragem",
+      "dica": "Obra de duração extensa, normalmente destinada a circuitos de salas, festivais ou plataformas.",
+      "ativo": true
+    },
+    {
+      "id": 559,
+      "resposta": "EXPRESSIONISMO",
+      "exibicao": "Expressionismo",
+      "dica": "Movimento alemão marcado por cenários distorcidos, contrastes intensos e visualização de estados psicológicos.",
+      "ativo": true
+    },
+    {
+      "id": 560,
+      "resposta": "NEORREALISMO",
+      "exibicao": "Neorrealismo",
+      "dica": "Movimento italiano do pós-guerra associado a locações reais, atores não profissionais e temas sociais.",
+      "ativo": true
+    },
+    {
+      "id": 561,
+      "resposta": "NOUVELLEVAGUE",
+      "exibicao": "Nouvelle Vague",
+      "dica": "Movimento francês do fim dos anos 1950 que renovou linguagem, produção e crítica audiovisual.",
+      "ativo": true
+    },
+    {
+      "id": 562,
+      "resposta": "CINEMASCOPE",
+      "exibicao": "CinemaScope",
+      "dica": "Formato anamórfico de tela larga lançado comercialmente pela 20th Century Fox na década de 1950.",
+      "ativo": true
+    },
+    {
+      "id": 563,
+      "resposta": "TECHNICOLOR",
+      "exibicao": "Technicolor",
+      "dica": "Processo industrial de reprodução de cores que marcou grandes produções de Hollywood no século XX.",
+      "ativo": true
+    },
+    {
+      "id": 564,
+      "resposta": "MOTIONCAPTURE",
+      "exibicao": "Motion capture",
+      "dica": "Técnica que registra movimentos de intérpretes para aplicá-los a personagens digitais.",
+      "ativo": true
+    },
+    {
+      "id": 565,
+      "resposta": "PROFUNDIDADEDECAMPO",
+      "exibicao": "Profundidade de campo",
+      "dica": "Faixa de distâncias diante da câmera que aparece aceitavelmente nítida na imagem.",
+      "ativo": true
+    },
+    {
+      "id": 566,
+      "resposta": "MONTAGEMPARALELA",
+      "exibicao": "Montagem paralela",
+      "dica": "Alternância entre duas ou mais ações apresentadas como relacionadas no tempo ou no sentido dramático.",
+      "ativo": true
+    },
+    {
+      "id": 567,
+      "resposta": "REALISMOPOETICO",
+      "exibicao": "Realismo poético",
+      "dica": "Tendência francesa dos anos 1930 marcada por ambientes populares, fatalismo e forte estilização visual.",
+      "ativo": true
+    },
+    {
+      "id": 568,
+      "resposta": "CAMERASUBJETIVA",
+      "exibicao": "Câmera subjetiva",
+      "dica": "Recurso que posiciona o ponto de vista visual como se o espectador enxergasse pelos olhos de um personagem.",
+      "ativo": true
+    },
+    {
+      "id": 569,
+      "resposta": "ROTEIROTECNICO",
+      "exibicao": "Roteiro técnico",
+      "dica": "Versão de planejamento que detalha planos, movimentos, enquadramentos e outros elementos necessários à filmagem.",
+      "ativo": true
+    },
+    {
+      "id": 735,
+      "resposta": "ESTEQUIOMETRIA",
+      "exibicao": "Estequiometria",
+      "dica": "Área dedicada às relações quantitativas entre substâncias consumidas e formadas em transformações químicas.",
+      "ativo": true
+    },
+    {
+      "id": 736,
+      "resposta": "ELETRONEGATIVIDADE",
+      "exibicao": "Eletronegatividade",
+      "dica": "Tendência de um átomo ligado de atrair para si a densidade eletrônica compartilhada.",
+      "ativo": true
+    },
+    {
+      "id": 737,
+      "resposta": "RADIOATIVIDADE",
+      "exibicao": "Radioatividade",
+      "dica": "Fenômeno espontâneo em que núcleos instáveis se transformam emitindo partículas ou radiação eletromagnética.",
+      "ativo": true
+    },
+    {
+      "id": 738,
+      "resposta": "HIDROCARBONETO",
+      "exibicao": "Hidrocarboneto",
+      "dica": "Composto orgânico constituído exclusivamente por átomos de carbono e hidrogênio.",
+      "ativo": true
+    },
+    {
+      "id": 739,
+      "resposta": "CRISTALIZACAO",
+      "exibicao": "Cristalização",
+      "dica": "Processo de formação de um sólido ordenado a partir de uma solução, de um líquido fundido ou de uma fase gasosa.",
+      "ativo": true
+    },
+    {
+      "id": 740,
+      "resposta": "SOLUBILIDADE",
+      "exibicao": "Solubilidade",
+      "dica": "Quantidade máxima de uma substância que pode se dissolver em determinado meio sob condições específicas.",
+      "ativo": true
+    },
+    {
+      "id": 741,
+      "resposta": "PRECIPITACAO",
+      "exibicao": "Precipitação",
+      "dica": "Formação de um sólido pouco solúvel a partir de espécies inicialmente dispersas em uma solução.",
+      "ativo": true
+    },
+    {
+      "id": 742,
+      "resposta": "NEUTRALIZACAO",
+      "exibicao": "Neutralização",
+      "dica": "Transformação entre espécies de caráter ácido e básico que frequentemente produz água e um composto iônico.",
+      "ativo": true
+    },
+    {
+      "id": 743,
+      "resposta": "ESPECTROSCOPIA",
+      "exibicao": "Espectroscopia",
+      "dica": "Conjunto de técnicas que investiga a interação entre matéria e radiação para obter informações estruturais ou quantitativas.",
+      "ativo": true
+    },
+    {
+      "id": 744,
+      "resposta": "CROMATOGRAFIA",
+      "exibicao": "Cromatografia",
+      "dica": "Método de separação baseado na distribuição diferencial dos componentes entre uma fase estacionária e uma fase móvel.",
+      "ativo": true
+    },
+    {
+      "id": 745,
+      "resposta": "TERMODINAMICA",
+      "exibicao": "Termodinâmica",
+      "dica": "Área que estuda energia, calor, trabalho, espontaneidade e relações entre propriedades macroscópicas dos sistemas.",
+      "ativo": true
+    },
+    {
+      "id": 746,
+      "resposta": "ELETROQUIMICA",
+      "exibicao": "Eletroquímica",
+      "dica": "Área que relaciona transformações químicas a transferência de elétrons e produção ou consumo de corrente elétrica.",
+      "ativo": true
+    },
+    {
+      "id": 747,
+      "resposta": "CINETICAQUIMICA",
+      "exibicao": "Cinética química",
+      "dica": "Área que estuda velocidades de reação, mecanismos e fatores que alteram a rapidez das transformações.",
+      "ativo": true
+    },
+    {
+      "id": 748,
+      "resposta": "LIGACAOCOVALENTE",
+      "exibicao": "Ligação covalente",
+      "dica": "União entre átomos caracterizada principalmente pelo compartilhamento de pares de elétrons.",
+      "ativo": true
+    },
+    {
+      "id": 749,
+      "resposta": "LIGACAOIONICA",
+      "exibicao": "Ligação iônica",
+      "dica": "Atração eletrostática entre espécies de cargas opostas, frequentemente formada após transferência de elétrons.",
+      "ativo": true
+    },
+    {
+      "id": 750,
+      "resposta": "TABELAPERIODICA",
+      "exibicao": "Tabela periódica",
+      "dica": "Organização dos elementos em ordem crescente de número atômico e segundo a recorrência de propriedades.",
+      "ativo": true
+    },
+    {
+      "id": 751,
+      "resposta": "NUMEROATOMICO",
+      "exibicao": "Número atômico",
+      "dica": "Quantidade de prótons existente no núcleo e responsável por definir a identidade de um elemento.",
+      "ativo": true
+    },
+    {
+      "id": 752,
+      "resposta": "MASSAATOMICA",
+      "exibicao": "Massa atômica",
+      "dica": "Valor que representa a média ponderada das massas dos isótopos naturais de um elemento em uma escala relativa.",
+      "ativo": true
+    },
+    {
+      "id": 753,
+      "resposta": "CONFIGURACAOELETRONICA",
+      "exibicao": "Configuração eletrônica",
+      "dica": "Distribuição dos elétrons de um átomo ou espécie entre níveis, subníveis e orbitais disponíveis.",
+      "ativo": true
+    },
+    {
+      "id": 754,
+      "resposta": "EQUILIBRIOQUIMICO",
+      "exibicao": "Equilíbrio químico",
+      "dica": "Estado dinâmico em um sistema reversível no qual as velocidades direta e inversa são iguais e as concentrações permanecem constantes.",
+      "ativo": true
+    },
+    {
+      "id": 755,
+      "resposta": "REACAOQUIMICA",
+      "exibicao": "Reação química",
+      "dica": "Processo em que espécies iniciais se transformam em outras por reorganização de átomos e ligações.",
+      "ativo": true
+    },
+    {
+      "id": 756,
+      "resposta": "QUIMICAORGANICA",
+      "exibicao": "Química orgânica",
+      "dica": "Área dedicada principalmente ao estudo dos compostos de carbono, suas estruturas, propriedades e transformações.",
+      "ativo": true
+    },
+    {
+      "id": 757,
+      "resposta": "QUIMICAINORGANICA",
+      "exibicao": "Química inorgânica",
+      "dica": "Área que abrange elementos e compostos como metais, minerais, sais, complexos de coordenação e muitos materiais.",
+      "ativo": true
+    },
+    {
+      "id": 758,
+      "resposta": "QUIMICAANALITICA",
+      "exibicao": "Química analítica",
+      "dica": "Área dedicada à identificação e à determinação quantitativa dos componentes presentes em uma amostra.",
+      "ativo": true
+    },
+    {
+      "id": 913,
+      "resposta": "MULTILATERALISMO",
+      "exibicao": "Multilateralismo",
+      "dica": "Forma de cooperação baseada em regras e instituições envolvendo diversos Estados simultaneamente.",
+      "ativo": true
+    },
+    {
+      "id": 914,
+      "resposta": "INTERDEPENDENCIA",
+      "exibicao": "Interdependência",
+      "dica": "Situação em que decisões e condições econômicas ou políticas de um país produzem efeitos relevantes sobre outros.",
+      "ativo": true
+    },
+    {
+      "id": 915,
+      "resposta": "PROTECIONISMO",
+      "exibicao": "Protecionismo",
+      "dica": "Política que utiliza barreiras comerciais ou incentivos internos para favorecer produtores domésticos.",
+      "ativo": true
+    },
+    {
+      "id": 916,
+      "resposta": "BALCANIZACAO",
+      "exibicao": "Balcanização",
+      "dica": "Processo de fragmentação de uma região ou Estado em unidades menores frequentemente marcadas por rivalidades políticas ou identitárias.",
+      "ativo": true
+    },
+    {
+      "id": 917,
+      "resposta": "GLOBALIZACAO",
+      "exibicao": "Globalização",
+      "dica": "Intensificação das conexões econômicas, financeiras, produtivas, culturais e informacionais em escala mundial.",
+      "ativo": true
+    },
+    {
+      "id": 918,
+      "resposta": "DESGLOBALIZACAO",
+      "exibicao": "Desglobalização",
+      "dica": "Redução relativa da integração internacional por relocalização produtiva, restrições comerciais ou menor circulação de capitais e bens.",
+      "ativo": true
+    },
+    {
+      "id": 919,
+      "resposta": "FINANCEIRIZACAO",
+      "exibicao": "Financeirização",
+      "dica": "Processo pelo qual mercados, instituições e lógicas financeiras ganham peso crescente na economia e nas empresas.",
+      "ativo": true
+    },
+    {
+      "id": 920,
+      "resposta": "DOLARIZACAO",
+      "exibicao": "Dolarização",
+      "dica": "Processo em que a moeda dos Estados Unidos passa a cumprir funções monetárias relevantes dentro de outra economia.",
+      "ativo": true
+    },
+    {
+      "id": 921,
+      "resposta": "DESDOLARIZACAO",
+      "exibicao": "Desdolarização",
+      "dica": "Estratégia de reduzir a dependência da moeda norte-americana em reservas, pagamentos, comércio ou financiamento.",
+      "ativo": true
+    },
+    {
+      "id": 922,
+      "resposta": "NEOLIBERALISMO",
+      "exibicao": "Neoliberalismo",
+      "dica": "Conjunto de ideias e políticas associado à liberalização de mercados, privatizações, abertura econômica e redução de certas formas de intervenção estatal.",
+      "ativo": true
+    },
+    {
+      "id": 923,
+      "resposta": "REGIONALISMO",
+      "exibicao": "Regionalismo",
+      "dica": "Processo de construção de instituições, acordos e formas de cooperação concentradas em determinada área geográfica.",
+      "ativo": true
+    },
+    {
+      "id": 924,
+      "resposta": "SUPRANACIONALIDADE",
+      "exibicao": "Supranacionalidade",
+      "dica": "Princípio pelo qual Estados transferem determinadas competências a instituições capazes de produzir decisões acima do nível nacional.",
+      "ativo": true
+    },
+    {
+      "id": 925,
+      "resposta": "LIVRECOMERCIO",
+      "exibicao": "Livre comércio",
+      "dica": "Modelo de intercâmbio internacional baseado na redução ou eliminação de barreiras tarifárias e não tarifárias.",
+      "ativo": true
+    },
+    {
+      "id": 926,
+      "resposta": "CADEIAGLOBALDEVALOR",
+      "exibicao": "Cadeia global de valor",
+      "dica": "Organização produtiva em que diferentes etapas de fabricação, serviços e distribuição são realizadas em vários países.",
+      "ativo": true
+    },
+    {
+      "id": 927,
+      "resposta": "INVESTIMENTOESTRANGEIRO",
+      "exibicao": "Investimento estrangeiro",
+      "dica": "Aplicação de recursos originados em outro país, seja para adquirir ativos financeiros ou participação em atividades produtivas.",
+      "ativo": true
+    },
+    {
+      "id": 928,
+      "resposta": "BALANCACOMERCIAL",
+      "exibicao": "Balança comercial",
+      "dica": "Diferença entre o valor das exportações e o das importações de bens durante determinado período.",
+      "ativo": true
+    },
+    {
+      "id": 929,
+      "resposta": "CONTACORRENTE",
+      "exibicao": "Conta corrente",
+      "dica": "Parte do balanço de pagamentos que registra comércio de bens e serviços, rendas e transferências correntes.",
+      "ativo": true
+    },
+    {
+      "id": 930,
+      "resposta": "RESERVASINTERNACIONAIS",
+      "exibicao": "Reservas internacionais",
+      "dica": "Ativos externos mantidos pela autoridade monetária para prover liquidez, confiança e capacidade de intervenção cambial.",
+      "ativo": true
+    },
+    {
+      "id": 931,
+      "resposta": "BANCOMUNDIAL",
+      "exibicao": "Banco Mundial",
+      "dica": "Grupo de instituições multilaterais criado em Bretton Woods para financiar desenvolvimento e redução da pobreza.",
+      "ativo": true
+    },
+    {
+      "id": 932,
+      "resposta": "GUERRACOMERCIAL",
+      "exibicao": "Guerra comercial",
+      "dica": "Confronto econômico em que países impõem barreiras e retaliações sobre o intercâmbio de bens e serviços.",
+      "ativo": true
+    },
+    {
+      "id": 933,
+      "resposta": "SEGURANCAENERGETICA",
+      "exibicao": "Segurança energética",
+      "dica": "Capacidade de garantir fornecimento confiável de recursos e serviços de energia a preços e condições considerados adequados.",
+      "ativo": true
+    },
+    {
+      "id": 934,
+      "resposta": "RISCOSOBERANO",
+      "exibicao": "Risco soberano",
+      "dica": "Probabilidade percebida de que um Estado não cumpra integralmente suas obrigações financeiras.",
+      "ativo": true
+    },
+    {
+      "id": 935,
+      "resposta": "DIVIDAEXTERNA",
+      "exibicao": "Dívida externa",
+      "dica": "Conjunto de obrigações financeiras de residentes de um país perante credores localizados no exterior.",
+      "ativo": true
+    }
+  ]
+}

@@ -1,0 +1,781 @@
+{
+  "perguntas": [
+    {
+      "id": 1,
+      "resposta": "EH",
+      "exibicao": "EH",
+      "dica": "Eric Hobsbawm, historiador britânico e autor de Era dos Extremos.",
+      "ativo": true
+    },
+    {
+      "id": 2,
+      "resposta": "MB",
+      "exibicao": "MB",
+      "dica": "Marc Bloch, cofundador da Escola dos Annales e autor de Apologia da História.",
+      "ativo": true
+    },
+    {
+      "id": 3,
+      "resposta": "FB",
+      "exibicao": "FB",
+      "dica": "Fernand Braudel, historiador francês associado à longa duração e autor de O Mediterrâneo e o Mundo Mediterrânico na Época de Filipe II.",
+      "ativo": true
+    },
+    {
+      "id": 4,
+      "resposta": "LF",
+      "exibicao": "LF",
+      "dica": "Lucien Febvre, cofundador da Escola dos Annales e autor de O Problema da Incredulidade no Século XVI.",
+      "ativo": true
+    },
+    {
+      "id": 5,
+      "resposta": "PB",
+      "exibicao": "PB",
+      "dica": "Peter Burke, historiador britânico e autor de O que é História Cultural?.",
+      "ativo": true
+    },
+    {
+      "id": 6,
+      "resposta": "CG",
+      "exibicao": "CG",
+      "dica": "Carlo Ginzburg, historiador italiano ligado à micro-história e autor de O Queijo e os Vermes.",
+      "ativo": true
+    },
+    {
+      "id": 7,
+      "resposta": "RD",
+      "exibicao": "RD",
+      "dica": "Robert Darnton, historiador norte-americano e autor de O Grande Massacre de Gatos.",
+      "ativo": true
+    },
+    {
+      "id": 8,
+      "resposta": "JH",
+      "exibicao": "JH",
+      "dica": "Johan Huizinga, historiador neerlandês e autor de O Outono da Idade Média.",
+      "ativo": true
+    },
+    {
+      "id": 9,
+      "resposta": "AT",
+      "exibicao": "AT",
+      "dica": "Arnold Toynbee, historiador britânico conhecido pela obra Um Estudo da História.",
+      "ativo": true
+    },
+    {
+      "id": 10,
+      "resposta": "JB",
+      "exibicao": "JB",
+      "dica": "Jacob Burckhardt, historiador suíço e autor de A Cultura do Renascimento na Itália.",
+      "ativo": true
+    },
+    {
+      "id": 11,
+      "resposta": "EG",
+      "exibicao": "EG",
+      "dica": "Edward Gibbon, historiador britânico e autor de História do Declínio e Queda do Império Romano.",
+      "ativo": true
+    },
+    {
+      "id": 12,
+      "resposta": "GD",
+      "exibicao": "GD",
+      "dica": "Georges Duby, medievalista francês conhecido por seus estudos sobre a sociedade feudal.",
+      "ativo": true
+    },
+    {
+      "id": 13,
+      "resposta": "TJ",
+      "exibicao": "TJ",
+      "dica": "Tony Judt, historiador britânico e autor de Pós-Guerra, amplo estudo sobre a Europa depois de 1945.",
+      "ativo": true
+    },
+    {
+      "id": 14,
+      "resposta": "NF",
+      "exibicao": "NF",
+      "dica": "Niall Ferguson, historiador escocês conhecido por estudos sobre impérios, economia e história global.",
+      "ativo": true
+    },
+    {
+      "id": 15,
+      "resposta": "TS",
+      "exibicao": "TS",
+      "dica": "Timothy Snyder, historiador especializado na Europa Oriental e autor de Terras de Sangue.",
+      "ativo": true
+    },
+    {
+      "id": 16,
+      "resposta": "LH",
+      "exibicao": "LH",
+      "dica": "Lynn Hunt, historiadora norte-americana conhecida por seus estudos sobre cultura política e Revolução Francesa.",
+      "ativo": true
+    },
+    {
+      "id": 17,
+      "resposta": "GL",
+      "exibicao": "GL",
+      "dica": "Gerda Lerner, historiadora pioneira da história das mulheres e autora de A Criação do Patriarcado.",
+      "ativo": true
+    },
+    {
+      "id": 18,
+      "resposta": "RP",
+      "exibicao": "RP",
+      "dica": "Robert Paxton, historiador norte-americano especializado na França de Vichy e autor de A Anatomia do Fascismo.",
+      "ativo": true
+    },
+    {
+      "id": 19,
+      "resposta": "IK",
+      "exibicao": "IK",
+      "dica": "Ian Kershaw, historiador britânico conhecido por sua extensa biografia de Adolf Hitler e por estudos sobre o nazismo.",
+      "ativo": true
+    },
+    {
+      "id": 20,
+      "resposta": "AB",
+      "exibicao": "AB",
+      "dica": "Antony Beevor, historiador militar britânico e autor de Stalingrado.",
+      "ativo": true
+    },
+    {
+      "id": 21,
+      "resposta": "PN",
+      "exibicao": "PN",
+      "dica": "Pierre Nora, historiador francês associado ao conceito de “lugares de memória”.",
+      "ativo": true
+    },
+    {
+      "id": 22,
+      "resposta": "DC",
+      "exibicao": "DC",
+      "dica": "Dipesh Chakrabarty, historiador indiano ligado aos estudos pós-coloniais e autor de Provincializar a Europa.",
+      "ativo": true
+    },
+    {
+      "id": 23,
+      "resposta": "BF",
+      "exibicao": "BF",
+      "dica": "Boris Fausto, historiador brasileiro e autor de História do Brasil.",
+      "ativo": true
+    },
+    {
+      "id": 24,
+      "resposta": "LS",
+      "exibicao": "LS",
+      "dica": "Lilia Schwarcz, historiadora brasileira e coautora de Brasil: Uma Biografia.",
+      "ativo": true
+    },
+    {
+      "id": 193,
+      "resposta": "SF",
+      "exibicao": "SF",
+      "dica": "Sigmund Freud, fundador da psicanálise e autor de A Interpretação dos Sonhos.",
+      "ativo": true
+    },
+    {
+      "id": 194,
+      "resposta": "CJ",
+      "exibicao": "CJ",
+      "dica": "Carl Gustav Jung, fundador da psicologia analítica e autor de Tipos Psicológicos.",
+      "ativo": true
+    },
+    {
+      "id": 195,
+      "resposta": "JP",
+      "exibicao": "JP",
+      "dica": "Jean Piaget, psicólogo suíço conhecido por sua teoria do desenvolvimento cognitivo.",
+      "ativo": true
+    },
+    {
+      "id": 196,
+      "resposta": "IP",
+      "exibicao": "IP",
+      "dica": "Ivan Pavlov, fisiologista russo cujos experimentos fundamentaram o estudo do condicionamento clássico.",
+      "ativo": true
+    },
+    {
+      "id": 197,
+      "resposta": "WW",
+      "exibicao": "WW",
+      "dica": "Wilhelm Wundt, pesquisador alemão que fundou em Leipzig um dos primeiros laboratórios de psicologia experimental.",
+      "ativo": true
+    },
+    {
+      "id": 198,
+      "resposta": "WJ",
+      "exibicao": "WJ",
+      "dica": "William James, psicólogo e filósofo norte-americano, autor de The Principles of Psychology.",
+      "ativo": true
+    },
+    {
+      "id": 199,
+      "resposta": "BS",
+      "exibicao": "BS",
+      "dica": "Burrhus Frederic Skinner, psicólogo norte-americano associado ao behaviorismo radical e ao condicionamento operante.",
+      "ativo": true
+    },
+    {
+      "id": 200,
+      "resposta": "CR",
+      "exibicao": "CR",
+      "dica": "Carl Rogers, psicólogo humanista que desenvolveu a abordagem centrada na pessoa.",
+      "ativo": true
+    },
+    {
+      "id": 201,
+      "resposta": "AM",
+      "exibicao": "AM",
+      "dica": "Abraham Maslow, psicólogo humanista associado à teoria da hierarquia das necessidades.",
+      "ativo": true
+    },
+    {
+      "id": 202,
+      "resposta": "AA",
+      "exibicao": "AA",
+      "dica": "Alfred Adler, fundador da psicologia individual e teórico dos sentimentos de inferioridade e superioridade.",
+      "ativo": true
+    },
+    {
+      "id": 203,
+      "resposta": "MK",
+      "exibicao": "MK",
+      "dica": "Melanie Klein, psicanalista conhecida pelos estudos sobre relações de objeto e pelo uso do brincar na análise infantil.",
+      "ativo": true
+    },
+    {
+      "id": 204,
+      "resposta": "JL",
+      "exibicao": "JL",
+      "dica": "Jacques Lacan, psicanalista francês conhecido por reinterpretar Freud a partir da linguística e do estruturalismo.",
+      "ativo": true
+    },
+    {
+      "id": 205,
+      "resposta": "EE",
+      "exibicao": "EE",
+      "dica": "Erik Erikson, psicólogo que formulou uma teoria do desenvolvimento psicossocial organizada em oito estágios.",
+      "ativo": true
+    },
+    {
+      "id": 206,
+      "resposta": "LV",
+      "exibicao": "LV",
+      "dica": "Lev Vygotsky, psicólogo soviético associado à teoria histórico-cultural e ao conceito de zona de desenvolvimento proximal.",
+      "ativo": true
+    },
+    {
+      "id": 207,
+      "resposta": "MA",
+      "exibicao": "MA",
+      "dica": "Mary Ainsworth, psicóloga conhecida pelo experimento da Situação Estranha e por pesquisas sobre padrões de apego.",
+      "ativo": true
+    },
+    {
+      "id": 208,
+      "resposta": "EL",
+      "exibicao": "EL",
+      "dica": "Elizabeth Loftus, psicóloga norte-americana conhecida por pesquisas sobre falsas memórias e distorções da recordação.",
+      "ativo": true
+    },
+    {
+      "id": 209,
+      "resposta": "DK",
+      "exibicao": "DK",
+      "dica": "Daniel Kahneman, psicólogo conhecido por estudos sobre julgamento, tomada de decisão e vieses cognitivos.",
+      "ativo": true
+    },
+    {
+      "id": 210,
+      "resposta": "VF",
+      "exibicao": "VF",
+      "dica": "Viktor Frankl, psiquiatra austríaco fundador da logoterapia e autor de Em Busca de Sentido.",
+      "ativo": true
+    },
+    {
+      "id": 211,
+      "resposta": "AF",
+      "exibicao": "AF",
+      "dica": "Anna Freud, psicanalista que desenvolveu estudos sobre mecanismos de defesa e psicologia infantil.",
+      "ativo": true
+    },
+    {
+      "id": 212,
+      "resposta": "KH",
+      "exibicao": "KH",
+      "dica": "Karen Horney, psicanalista germano-americana conhecida por críticas a aspectos da teoria freudiana e estudos sobre ansiedade básica.",
+      "ativo": true
+    },
+    {
+      "id": 213,
+      "resposta": "SP",
+      "exibicao": "SP",
+      "dica": "Steven Pinker, psicólogo cognitivo conhecido por estudos sobre linguagem, cognição e natureza humana.",
+      "ativo": true
+    },
+    {
+      "id": 382,
+      "resposta": "GM",
+      "exibicao": "GM",
+      "dica": "Georges Méliès, pioneiro francês dos efeitos visuais e diretor de Viagem à Lua.",
+      "ativo": true
+    },
+    {
+      "id": 383,
+      "resposta": "CC",
+      "exibicao": "CC",
+      "dica": "Charlie Chaplin, ator e diretor britânico conhecido por Tempos Modernos e O Grande Ditador.",
+      "ativo": true
+    },
+    {
+      "id": 384,
+      "resposta": "OW",
+      "exibicao": "OW",
+      "dica": "Orson Welles, cineasta norte-americano que dirigiu Cidadão Kane.",
+      "ativo": true
+    },
+    {
+      "id": 385,
+      "resposta": "AH",
+      "exibicao": "AH",
+      "dica": "Alfred Hitchcock, diretor britânico associado ao suspense e responsável por Psicose e Um Corpo que Cai.",
+      "ativo": true
+    },
+    {
+      "id": 386,
+      "resposta": "AK",
+      "exibicao": "AK",
+      "dica": "Akira Kurosawa, diretor japonês de Os Sete Samurais e Rashomon.",
+      "ativo": true
+    },
+    {
+      "id": 387,
+      "resposta": "FF",
+      "exibicao": "FF",
+      "dica": "Federico Fellini, diretor italiano de A Doce Vida e 8½.",
+      "ativo": true
+    },
+    {
+      "id": 388,
+      "resposta": "IB",
+      "exibicao": "IB",
+      "dica": "Ingmar Bergman, diretor sueco de O Sétimo Selo e Persona.",
+      "ativo": true
+    },
+    {
+      "id": 389,
+      "resposta": "SK",
+      "exibicao": "SK",
+      "dica": "Stanley Kubrick, diretor de 2001: Uma Odisseia no Espaço e Laranja Mecânica.",
+      "ativo": true
+    },
+    {
+      "id": 390,
+      "resposta": "MS",
+      "exibicao": "MS",
+      "dica": "Martin Scorsese, diretor norte-americano de Taxi Driver e Touro Indomável.",
+      "ativo": true
+    },
+    {
+      "id": 391,
+      "resposta": "DL",
+      "exibicao": "DL",
+      "dica": "David Lynch, cineasta norte-americano de Veludo Azul e Cidade dos Sonhos.",
+      "ativo": true
+    },
+    {
+      "id": 392,
+      "resposta": "QT",
+      "exibicao": "QT",
+      "dica": "Quentin Tarantino, diretor e roteirista de Pulp Fiction e Kill Bill.",
+      "ativo": true
+    },
+    {
+      "id": 393,
+      "resposta": "AV",
+      "exibicao": "AV",
+      "dica": "Agnès Varda, cineasta franco-belga ligada à Nouvelle Vague e diretora de Cléo das 5 às 7.",
+      "ativo": true
+    },
+    {
+      "id": 394,
+      "resposta": "FT",
+      "exibicao": "FT",
+      "dica": "François Truffaut, diretor francês de Os Incompreendidos e Jules e Jim.",
+      "ativo": true
+    },
+    {
+      "id": 395,
+      "resposta": "FL",
+      "exibicao": "FL",
+      "dica": "Fritz Lang, diretor austro-alemão de Metrópolis e M, o Vampiro de Düsseldorf.",
+      "ativo": true
+    },
+    {
+      "id": 396,
+      "resposta": "BW",
+      "exibicao": "BW",
+      "dica": "Billy Wilder, diretor e roteirista de Crepúsculo dos Deuses e Quanto Mais Quente Melhor.",
+      "ativo": true
+    },
+    {
+      "id": 397,
+      "resposta": "HH",
+      "exibicao": "HH",
+      "dica": "Howard Hawks, diretor norte-americano de Jejum de Amor e Onde Começa o Inferno.",
+      "ativo": true
+    },
+    {
+      "id": 398,
+      "resposta": "JJ",
+      "exibicao": "JJ",
+      "dica": "Jim Jarmusch, cineasta independente norte-americano de Estranhos no Paraíso e Paterson.",
+      "ativo": true
+    },
+    {
+      "id": 399,
+      "resposta": "PA",
+      "exibicao": "PA",
+      "dica": "Pedro Almodóvar, diretor espanhol de Tudo Sobre Minha Mãe e Fale com Ela.",
+      "ativo": true
+    },
+    {
+      "id": 400,
+      "resposta": "WK",
+      "exibicao": "WK",
+      "dica": "Wong Kar-wai, diretor de Hong Kong conhecido por Amor à Flor da Pele e Chungking Express.",
+      "ativo": true
+    },
+    {
+      "id": 401,
+      "resposta": "PC",
+      "exibicao": "PC",
+      "dica": "Park Chan-wook, diretor sul-coreano de Oldboy e A Criada.",
+      "ativo": true
+    },
+    {
+      "id": 402,
+      "resposta": "BJ",
+      "exibicao": "BJ",
+      "dica": "Bong Joon-ho, diretor sul-coreano de Parasita e Memórias de um Assassino.",
+      "ativo": true
+    },
+    {
+      "id": 403,
+      "resposta": "SS",
+      "exibicao": "SS",
+      "dica": "Steven Spielberg, diretor norte-americano de Tubarão, E.T. e A Lista de Schindler.",
+      "ativo": true
+    },
+    {
+      "id": 404,
+      "resposta": "GG",
+      "exibicao": "GG",
+      "dica": "Greta Gerwig, diretora e roteirista norte-americana de Lady Bird e Adoráveis Mulheres.",
+      "ativo": true
+    },
+    {
+      "id": 570,
+      "resposta": "HE",
+      "exibicao": "He",
+      "dica": "Símbolo químico do hélio, gás nobre de número atômico 2.",
+      "ativo": true
+    },
+    {
+      "id": 571,
+      "resposta": "LI",
+      "exibicao": "Li",
+      "dica": "Símbolo químico do lítio, metal alcalino de número atômico 3.",
+      "ativo": true
+    },
+    {
+      "id": 572,
+      "resposta": "BE",
+      "exibicao": "Be",
+      "dica": "Símbolo químico do berílio, elemento alcalino-terroso de número atômico 4.",
+      "ativo": true
+    },
+    {
+      "id": 573,
+      "resposta": "NE",
+      "exibicao": "Ne",
+      "dica": "Símbolo químico do neônio, gás nobre de número atômico 10.",
+      "ativo": true
+    },
+    {
+      "id": 574,
+      "resposta": "NA",
+      "exibicao": "Na",
+      "dica": "Símbolo químico do sódio, metal alcalino de número atômico 11.",
+      "ativo": true
+    },
+    {
+      "id": 575,
+      "resposta": "MG",
+      "exibicao": "Mg",
+      "dica": "Símbolo químico do magnésio, elemento alcalino-terroso de número atômico 12.",
+      "ativo": true
+    },
+    {
+      "id": 576,
+      "resposta": "AL",
+      "exibicao": "Al",
+      "dica": "Símbolo químico do alumínio, elemento de número atômico 13 muito usado em ligas leves.",
+      "ativo": true
+    },
+    {
+      "id": 577,
+      "resposta": "SI",
+      "exibicao": "Si",
+      "dica": "Símbolo químico do silício, elemento de número atômico 14 essencial à indústria de semicondutores.",
+      "ativo": true
+    },
+    {
+      "id": 578,
+      "resposta": "CL",
+      "exibicao": "Cl",
+      "dica": "Símbolo químico do cloro, halogênio de número atômico 17.",
+      "ativo": true
+    },
+    {
+      "id": 579,
+      "resposta": "AR",
+      "exibicao": "Ar",
+      "dica": "Símbolo químico do argônio, gás nobre de número atômico 18.",
+      "ativo": true
+    },
+    {
+      "id": 580,
+      "resposta": "CA",
+      "exibicao": "Ca",
+      "dica": "Símbolo químico do cálcio, elemento alcalino-terroso de número atômico 20.",
+      "ativo": true
+    },
+    {
+      "id": 581,
+      "resposta": "SC",
+      "exibicao": "Sc",
+      "dica": "Símbolo químico do escândio, elemento de número atômico 21.",
+      "ativo": true
+    },
+    {
+      "id": 582,
+      "resposta": "TI",
+      "exibicao": "Ti",
+      "dica": "Símbolo químico do titânio, elemento de número atômico 22 conhecido pela alta resistência específica.",
+      "ativo": true
+    },
+    {
+      "id": 583,
+      "resposta": "MN",
+      "exibicao": "Mn",
+      "dica": "Símbolo químico do manganês, elemento de número atômico 25 importante em ligas de aço.",
+      "ativo": true
+    },
+    {
+      "id": 584,
+      "resposta": "FE",
+      "exibicao": "Fe",
+      "dica": "Símbolo químico do ferro, elemento de número atômico 26 e principal componente do aço.",
+      "ativo": true
+    },
+    {
+      "id": 585,
+      "resposta": "CO",
+      "exibicao": "Co",
+      "dica": "Símbolo químico do cobalto, elemento de número atômico 27 usado em ligas e baterias.",
+      "ativo": true
+    },
+    {
+      "id": 586,
+      "resposta": "NI",
+      "exibicao": "Ni",
+      "dica": "Símbolo químico do níquel, elemento de número atômico 28 usado em ligas resistentes à corrosão.",
+      "ativo": true
+    },
+    {
+      "id": 587,
+      "resposta": "CU",
+      "exibicao": "Cu",
+      "dica": "Símbolo químico do cobre, elemento de número atômico 29 e excelente condutor elétrico.",
+      "ativo": true
+    },
+    {
+      "id": 588,
+      "resposta": "ZN",
+      "exibicao": "Zn",
+      "dica": "Símbolo químico do zinco, elemento de número atômico 30 muito usado na galvanização.",
+      "ativo": true
+    },
+    {
+      "id": 589,
+      "resposta": "BR",
+      "exibicao": "Br",
+      "dica": "Símbolo químico do bromo, halogênio de número atômico 35 e líquido à temperatura ambiente.",
+      "ativo": true
+    },
+    {
+      "id": 590,
+      "resposta": "AG",
+      "exibicao": "Ag",
+      "dica": "Símbolo químico da prata, elemento de número atômico 47 e excelente condutor elétrico.",
+      "ativo": true
+    },
+    {
+      "id": 591,
+      "resposta": "SN",
+      "exibicao": "Sn",
+      "dica": "Símbolo químico do estanho, elemento de número atômico 50 usado em soldas e revestimentos.",
+      "ativo": true
+    },
+    {
+      "id": 592,
+      "resposta": "AU",
+      "exibicao": "Au",
+      "dica": "Símbolo químico do ouro, elemento de número atômico 79 e metal nobre de baixa reatividade.",
+      "ativo": true
+    },
+    {
+      "id": 759,
+      "resposta": "AS",
+      "exibicao": "AS",
+      "dica": "Adam Smith, economista escocês e autor de A Riqueza das Nações, obra central do pensamento econômico clássico.",
+      "ativo": true
+    },
+    {
+      "id": 760,
+      "resposta": "DR",
+      "exibicao": "DR",
+      "dica": "David Ricardo, economista britânico associado à teoria das vantagens comparativas no comércio internacional.",
+      "ativo": true
+    },
+    {
+      "id": 761,
+      "resposta": "KM",
+      "exibicao": "KM",
+      "dica": "Karl Marx, pensador alemão que analisou capitalismo, classes sociais e acumulação em O Capital.",
+      "ativo": true
+    },
+    {
+      "id": 762,
+      "resposta": "FH",
+      "exibicao": "FH",
+      "dica": "Friedrich Hayek, economista austríaco-britânico conhecido por críticas ao planejamento central e por O Caminho da Servidão.",
+      "ativo": true
+    },
+    {
+      "id": 763,
+      "resposta": "MF",
+      "exibicao": "MF",
+      "dica": "Milton Friedman, economista norte-americano associado ao monetarismo e à Escola de Chicago.",
+      "ativo": true
+    },
+    {
+      "id": 764,
+      "resposta": "PS",
+      "exibicao": "PS",
+      "dica": "Paul Samuelson, economista norte-americano que contribuiu para formalizar grande parte da teoria econômica do século XX.",
+      "ativo": true
+    },
+    {
+      "id": 765,
+      "resposta": "RM",
+      "exibicao": "RM",
+      "dica": "Robert Mundell, economista canadense conhecido pela teoria das áreas monetárias ótimas.",
+      "ativo": true
+    },
+    {
+      "id": 766,
+      "resposta": "PK",
+      "exibicao": "PK",
+      "dica": "Paul Krugman, economista norte-americano premiado por estudos sobre comércio internacional e geografia econômica.",
+      "ativo": true
+    },
+    {
+      "id": 767,
+      "resposta": "JS",
+      "exibicao": "JS",
+      "dica": "Joseph Stiglitz, economista norte-americano conhecido por pesquisas sobre informação assimétrica e críticas à condução da globalização.",
+      "ativo": true
+    },
+    {
+      "id": 768,
+      "resposta": "CF",
+      "exibicao": "CF",
+      "dica": "Celso Furtado, economista brasileiro associado ao estruturalismo latino-americano e autor de Formação Econômica do Brasil.",
+      "ativo": true
+    },
+    {
+      "id": 769,
+      "resposta": "HM",
+      "exibicao": "HM",
+      "dica": "Hans Morgenthau, teórico das relações internacionais e autor de A Política entre as Nações.",
+      "ativo": true
+    },
+    {
+      "id": 770,
+      "resposta": "KW",
+      "exibicao": "KW",
+      "dica": "Kenneth Waltz, cientista político norte-americano associado ao neorrealismo nas relações internacionais.",
+      "ativo": true
+    },
+    {
+      "id": 771,
+      "resposta": "RK",
+      "exibicao": "RK",
+      "dica": "Robert Keohane, cientista político conhecido pelos estudos sobre instituições e cooperação entre Estados.",
+      "ativo": true
+    },
+    {
+      "id": 772,
+      "resposta": "JN",
+      "exibicao": "JN",
+      "dica": "Joseph Nye, teórico norte-americano que popularizou o conceito de poder brando.",
+      "ativo": true
+    },
+    {
+      "id": 773,
+      "resposta": "HK",
+      "exibicao": "HK",
+      "dica": "Henry Kissinger, diplomata e estrategista norte-americano autor de Diplomacia e estudioso do equilíbrio de poder.",
+      "ativo": true
+    },
+    {
+      "id": 774,
+      "resposta": "JM",
+      "exibicao": "JM",
+      "dica": "John Mearsheimer, cientista político norte-americano associado ao realismo ofensivo.",
+      "ativo": true
+    },
+    {
+      "id": 775,
+      "resposta": "SH",
+      "exibicao": "SH",
+      "dica": "Samuel Huntington, cientista político norte-americano autor de O Choque de Civilizações.",
+      "ativo": true
+    },
+    {
+      "id": 776,
+      "resposta": "NS",
+      "exibicao": "NS",
+      "dica": "Nicholas Spykman, teórico que destacou a relevância estratégica das regiões costeiras da Eurásia.",
+      "ativo": true
+    },
+    {
+      "id": 777,
+      "resposta": "RA",
+      "exibicao": "RA",
+      "dica": "Raymond Aron, sociólogo e pensador francês que analisou guerra, paz e relações entre Estados.",
+      "ativo": true
+    },
+    {
+      "id": 778,
+      "resposta": "IW",
+      "exibicao": "IW",
+      "dica": "Immanuel Wallerstein, sociólogo conhecido pela análise do sistema-mundo capitalista.",
+      "ativo": true
+    }
+  ]
+}

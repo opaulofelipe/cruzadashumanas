@@ -1,0 +1,823 @@
+{
+  "perguntas": [
+    {
+      "id": 25,
+      "resposta": "ERA",
+      "exibicao": "Era",
+      "dica": "Grande divisão cronológica empregada para organizar períodos históricos extensos.",
+      "ativo": true
+    },
+    {
+      "id": 26,
+      "resposta": "REI",
+      "exibicao": "Rei",
+      "dica": "Soberano que ocupa o topo de uma monarquia.",
+      "ativo": true
+    },
+    {
+      "id": 27,
+      "resposta": "LEI",
+      "exibicao": "Lei",
+      "dica": "Norma formal estabelecida por uma autoridade política.",
+      "ativo": true
+    },
+    {
+      "id": 28,
+      "resposta": "PAZ",
+      "exibicao": "Paz",
+      "dica": "Situação de ausência de guerra ou de encerramento de hostilidades.",
+      "ativo": true
+    },
+    {
+      "id": 29,
+      "resposta": "CLA",
+      "exibicao": "Clã",
+      "dica": "Grupo de parentesco que reconhece uma origem ancestral comum.",
+      "ativo": true
+    },
+    {
+      "id": 30,
+      "resposta": "HAN",
+      "exibicao": "Han",
+      "dica": "Dinastia chinesa que governou de 206 a.C. a 220 d.C. e consolidou estruturas imperiais duradouras.",
+      "ativo": true
+    },
+    {
+      "id": 31,
+      "resposta": "QIN",
+      "exibicao": "Qin",
+      "dica": "Dinastia que unificou a China em 221 a.C. sob o primeiro imperador.",
+      "ativo": true
+    },
+    {
+      "id": 32,
+      "resposta": "MAO",
+      "exibicao": "Mao",
+      "dica": "Líder comunista que proclamou a República Popular da China em 1949.",
+      "ativo": true
+    },
+    {
+      "id": 33,
+      "resposta": "IRA",
+      "exibicao": "IRA",
+      "dica": "Organização republicana irlandesa que combateu o domínio britânico e teve diferentes formações ao longo do século XX.",
+      "ativo": true
+    },
+    {
+      "id": 34,
+      "resposta": "KGB",
+      "exibicao": "KGB",
+      "dica": "Principal órgão de segurança e inteligência da União Soviética entre 1954 e 1991.",
+      "ativo": true
+    },
+    {
+      "id": 35,
+      "resposta": "CIA",
+      "exibicao": "CIA",
+      "dica": "Agência de inteligência externa dos Estados Unidos criada em 1947.",
+      "ativo": true
+    },
+    {
+      "id": 36,
+      "resposta": "NEP",
+      "exibicao": "NEP",
+      "dica": "Política econômica soviética lançada em 1921 que reintroduziu mecanismos limitados de mercado.",
+      "ativo": true
+    },
+    {
+      "id": 37,
+      "resposta": "RDA",
+      "exibicao": "RDA",
+      "dica": "Estado socialista criado em 1949 na zona soviética da Alemanha e extinto com a reunificação em 1990.",
+      "ativo": true
+    },
+    {
+      "id": 38,
+      "resposta": "RFA",
+      "exibicao": "RFA",
+      "dica": "Estado alemão ocidental criado em 1949 e ampliado com a reunificação em 1990.",
+      "ativo": true
+    },
+    {
+      "id": 39,
+      "resposta": "CEE",
+      "exibicao": "CEE",
+      "dica": "Organização econômica europeia criada pelo Tratado de Roma em 1957, antecessora da União Europeia.",
+      "ativo": true
+    },
+    {
+      "id": 40,
+      "resposta": "CEI",
+      "exibicao": "CEI",
+      "dica": "Organização formada em 1991 por várias antigas repúblicas soviéticas após o fim da URSS.",
+      "ativo": true
+    },
+    {
+      "id": 41,
+      "resposta": "ANC",
+      "exibicao": "ANC",
+      "dica": "Movimento político sul-africano que liderou a luta institucional contra o apartheid e chegou ao governo em 1994.",
+      "ativo": true
+    },
+    {
+      "id": 42,
+      "resposta": "FLN",
+      "exibicao": "FLN",
+      "dica": "Movimento que dirigiu a luta pela independência da Argélia contra o domínio francês.",
+      "ativo": true
+    },
+    {
+      "id": 43,
+      "resposta": "ETA",
+      "exibicao": "ETA",
+      "dica": "Organização separatista basca que empregou luta armada durante parte da segunda metade do século XX.",
+      "ativo": true
+    },
+    {
+      "id": 44,
+      "resposta": "RAF",
+      "exibicao": "RAF",
+      "dica": "Força aérea britânica criada em 1918 e decisiva na Batalha da Grã-Bretanha.",
+      "ativo": true
+    },
+    {
+      "id": 45,
+      "resposta": "FMI",
+      "exibicao": "FMI",
+      "dica": "Instituição financeira internacional criada em 1944 na Conferência de Bretton Woods.",
+      "ativo": true
+    },
+    {
+      "id": 46,
+      "resposta": "OLP",
+      "exibicao": "OLP",
+      "dica": "Organização fundada em 1964 para representar politicamente o povo palestino.",
+      "ativo": true
+    },
+    {
+      "id": 47,
+      "resposta": "PRI",
+      "exibicao": "PRI",
+      "dica": "Partido que dominou a política mexicana durante grande parte do século XX.",
+      "ativo": true
+    },
+    {
+      "id": 48,
+      "resposta": "ONU",
+      "exibicao": "ONU",
+      "dica": "Organização internacional fundada em 1945 após a Segunda Guerra Mundial.",
+      "ativo": true
+    },
+    {
+      "id": 214,
+      "resposta": "EGO",
+      "exibicao": "Ego",
+      "dica": "Na teoria psicanalítica, instância que medeia impulsos, exigências morais e condições da realidade.",
+      "ativo": true
+    },
+    {
+      "id": 215,
+      "resposta": "TEA",
+      "exibicao": "TEA",
+      "dica": "Sigla de transtorno do espectro autista, condição do neurodesenvolvimento caracterizada por diferentes perfis de comunicação, interação e comportamento.",
+      "ativo": true
+    },
+    {
+      "id": 216,
+      "resposta": "TOC",
+      "exibicao": "TOC",
+      "dica": "Sigla de transtorno obsessivo-compulsivo, marcado por obsessões e/ou compulsões recorrentes.",
+      "ativo": true
+    },
+    {
+      "id": 217,
+      "resposta": "TAG",
+      "exibicao": "TAG",
+      "dica": "Sigla de transtorno de ansiedade generalizada, associado a preocupação excessiva e persistente em diferentes áreas da vida.",
+      "ativo": true
+    },
+    {
+      "id": 218,
+      "resposta": "REM",
+      "exibicao": "REM",
+      "dica": "Fase do sono marcada por movimentos rápidos dos olhos, intensa atividade cerebral e sonhos vívidos.",
+      "ativo": true
+    },
+    {
+      "id": 219,
+      "resposta": "TCC",
+      "exibicao": "TCC",
+      "dica": "Sigla da abordagem psicoterapêutica que trabalha relações entre pensamentos, emoções e comportamentos.",
+      "ativo": true
+    },
+    {
+      "id": 220,
+      "resposta": "DSM",
+      "exibicao": "DSM",
+      "dica": "Manual diagnóstico publicado pela Associação Americana de Psiquiatria e utilizado na classificação de transtornos mentais.",
+      "ativo": true
+    },
+    {
+      "id": 221,
+      "resposta": "CID",
+      "exibicao": "CID",
+      "dica": "Sistema internacional da Organização Mundial da Saúde usado para classificar doenças e outras condições de saúde.",
+      "ativo": true
+    },
+    {
+      "id": 222,
+      "resposta": "ABA",
+      "exibicao": "ABA",
+      "dica": "Sigla em inglês para análise do comportamento aplicada, abordagem baseada em princípios da aprendizagem.",
+      "ativo": true
+    },
+    {
+      "id": 223,
+      "resposta": "TAT",
+      "exibicao": "TAT",
+      "dica": "Teste projetivo criado por Henry Murray e Christiana Morgan a partir de pranchas com cenas ambíguas.",
+      "ativo": true
+    },
+    {
+      "id": 224,
+      "resposta": "ECT",
+      "exibicao": "ECT",
+      "dica": "Sigla em inglês para eletroconvulsoterapia, procedimento médico utilizado em alguns quadros psiquiátricos graves.",
+      "ativo": true
+    },
+    {
+      "id": 225,
+      "resposta": "BDI",
+      "exibicao": "BDI",
+      "dica": "Inventário desenvolvido por Aaron Beck para avaliar a intensidade de sintomas depressivos.",
+      "ativo": true
+    },
+    {
+      "id": 226,
+      "resposta": "ACT",
+      "exibicao": "ACT",
+      "dica": "Sigla em inglês da terapia de aceitação e compromisso, abordagem contextual voltada à flexibilidade psicológica.",
+      "ativo": true
+    },
+    {
+      "id": 227,
+      "resposta": "ERP",
+      "exibicao": "ERP",
+      "dica": "Sigla em inglês para exposição e prevenção de resposta, técnica muito utilizada no tratamento de obsessões e compulsões.",
+      "ativo": true
+    },
+    {
+      "id": 228,
+      "resposta": "EEG",
+      "exibicao": "EEG",
+      "dica": "Exame que registra a atividade elétrica cerebral por meio de eletrodos posicionados no couro cabeludo.",
+      "ativo": true
+    },
+    {
+      "id": 229,
+      "resposta": "EMG",
+      "exibicao": "EMG",
+      "dica": "Exame que registra atividade elétrica muscular e pode ser empregado em estudos psicofisiológicos e de biofeedback.",
+      "ativo": true
+    },
+    {
+      "id": 230,
+      "resposta": "TDA",
+      "exibicao": "TDA",
+      "dica": "Sigla historicamente usada para dificuldades persistentes de atenção, hoje geralmente incluídas no diagnóstico de TDAH.",
+      "ativo": true
+    },
+    {
+      "id": 231,
+      "resposta": "TOD",
+      "exibicao": "TOD",
+      "dica": "Sigla de transtorno opositor desafiante, caracterizado por padrão persistente de comportamento irritável, argumentativo ou desafiador.",
+      "ativo": true
+    },
+    {
+      "id": 232,
+      "resposta": "RFT",
+      "exibicao": "RFT",
+      "dica": "Sigla em inglês de uma teoria comportamental da linguagem baseada em relações arbitrariamente aplicáveis entre estímulos.",
+      "ativo": true
+    },
+    {
+      "id": 233,
+      "resposta": "SCL",
+      "exibicao": "SCL",
+      "dica": "Abreviação associada a instrumentos de autorrelato que avaliam um amplo conjunto de sintomas psicológicos.",
+      "ativo": true
+    },
+    {
+      "id": 234,
+      "resposta": "BIS",
+      "exibicao": "BIS",
+      "dica": "Sigla em inglês de um sistema motivacional proposto por Jeffrey Gray, ligado à sensibilidade a punição e conflito.",
+      "ativo": true
+    },
+    {
+      "id": 235,
+      "resposta": "BAS",
+      "exibicao": "BAS",
+      "dica": "Sigla em inglês de um sistema motivacional proposto por Jeffrey Gray, relacionado à aproximação diante de recompensas.",
+      "ativo": true
+    },
+    {
+      "id": 236,
+      "resposta": "IPT",
+      "exibicao": "IPT",
+      "dica": "Sigla em inglês de uma psicoterapia estruturada que trabalha dificuldades nos relacionamentos e transições de papéis sociais.",
+      "ativo": true
+    },
+    {
+      "id": 237,
+      "resposta": "MBT",
+      "exibicao": "MBT",
+      "dica": "Sigla em inglês de uma abordagem psicoterapêutica centrada na capacidade de compreender estados mentais próprios e alheios.",
+      "ativo": true
+    },
+    {
+      "id": 405,
+      "resposta": "DVD",
+      "exibicao": "DVD",
+      "dica": "Mídia óptica digital que se tornou um importante formato doméstico de distribuição audiovisual.",
+      "ativo": true
+    },
+    {
+      "id": 406,
+      "resposta": "CGI",
+      "exibicao": "CGI",
+      "dica": "Sigla em inglês para imagens produzidas por computador e integradas a cenas filmadas ou inteiramente digitais.",
+      "ativo": true
+    },
+    {
+      "id": 407,
+      "resposta": "VFX",
+      "exibicao": "VFX",
+      "dica": "Abreviação internacional para efeitos visuais criados ou combinados durante e após a filmagem.",
+      "ativo": true
+    },
+    {
+      "id": 408,
+      "resposta": "DCP",
+      "exibicao": "DCP",
+      "dica": "Pacote digital padronizado usado para distribuição e projeção de obras em salas comerciais.",
+      "ativo": true
+    },
+    {
+      "id": 409,
+      "resposta": "ISO",
+      "exibicao": "ISO",
+      "dica": "Escala de sensibilidade à luz usada no controle de exposição em fotografia e cinematografia.",
+      "ativo": true
+    },
+    {
+      "id": 410,
+      "resposta": "ADR",
+      "exibicao": "ADR",
+      "dica": "Técnica de regravação de diálogos em estúdio para substituir ou melhorar o áudio captado no set.",
+      "ativo": true
+    },
+    {
+      "id": 411,
+      "resposta": "LUT",
+      "exibicao": "LUT",
+      "dica": "Tabela de transformação usada para converter ou estilizar valores de cor durante a pós-produção.",
+      "ativo": true
+    },
+    {
+      "id": 412,
+      "resposta": "FPS",
+      "exibicao": "FPS",
+      "dica": "Medida que indica quantas imagens são exibidas a cada segundo em uma sequência audiovisual.",
+      "ativo": true
+    },
+    {
+      "id": 413,
+      "resposta": "POV",
+      "exibicao": "POV",
+      "dica": "Enquadramento que representa visualmente aquilo que um personagem estaria vendo.",
+      "ativo": true
+    },
+    {
+      "id": 414,
+      "resposta": "OTS",
+      "exibicao": "OTS",
+      "dica": "Tipo de enquadramento feito por trás do ombro de um personagem, comum em cenas de diálogo.",
+      "ativo": true
+    },
+    {
+      "id": 415,
+      "resposta": "SFX",
+      "exibicao": "SFX",
+      "dica": "Abreviação usada para efeitos especiais físicos ou sonoros, dependendo do contexto de produção.",
+      "ativo": true
+    },
+    {
+      "id": 416,
+      "resposta": "AFI",
+      "exibicao": "AFI",
+      "dica": "Instituição norte-americana dedicada à preservação, formação e valorização da cultura cinematográfica.",
+      "ativo": true
+    },
+    {
+      "id": 417,
+      "resposta": "BFI",
+      "exibicao": "BFI",
+      "dica": "Instituição britânica responsável por preservação, pesquisa, educação e promoção da cultura audiovisual.",
+      "ativo": true
+    },
+    {
+      "id": 418,
+      "resposta": "MPA",
+      "exibicao": "MPA",
+      "dica": "Entidade que representa grandes estúdios norte-americanos e mantém um sistema de classificação etária de obras.",
+      "ativo": true
+    },
+    {
+      "id": 419,
+      "resposta": "MGM",
+      "exibicao": "MGM",
+      "dica": "Estúdio clássico de Hollywood identificado historicamente pelo logotipo do leão rugindo.",
+      "ativo": true
+    },
+    {
+      "id": 420,
+      "resposta": "RKO",
+      "exibicao": "RKO",
+      "dica": "Estúdio da era clássica de Hollywood que produziu obras como Cidadão Kane e King Kong.",
+      "ativo": true
+    },
+    {
+      "id": 421,
+      "resposta": "PAL",
+      "exibicao": "PAL",
+      "dica": "Sistema analógico de codificação de vídeo utilizado historicamente em diversos países europeus e outros mercados.",
+      "ativo": true
+    },
+    {
+      "id": 422,
+      "resposta": "LED",
+      "exibicao": "LED",
+      "dica": "Tecnologia de emissão de luz usada em painéis, cenários virtuais e sistemas modernos de exibição.",
+      "ativo": true
+    },
+    {
+      "id": 423,
+      "resposta": "RAW",
+      "exibicao": "RAW",
+      "dica": "Formato de captura que preserva grande quantidade de informação original do sensor para tratamento posterior.",
+      "ativo": true
+    },
+    {
+      "id": 424,
+      "resposta": "FOV",
+      "exibicao": "FOV",
+      "dica": "Sigla em inglês para o campo visível abrangido por uma lente ou sistema óptico.",
+      "ativo": true
+    },
+    {
+      "id": 425,
+      "resposta": "ASA",
+      "exibicao": "ASA",
+      "dica": "Escala histórica de sensibilidade de película fotográfica, predecessora de uma padronização moderna.",
+      "ativo": true
+    },
+    {
+      "id": 426,
+      "resposta": "DIT",
+      "exibicao": "DIT",
+      "dica": "Profissional responsável pelo gerenciamento técnico da imagem digital no set, incluindo cor e fluxo de arquivos.",
+      "ativo": true
+    },
+    {
+      "id": 427,
+      "resposta": "DOF",
+      "exibicao": "DOF",
+      "dica": "Sigla em inglês para a faixa de distâncias que aparece aceitavelmente nítida numa imagem.",
+      "ativo": true
+    },
+    {
+      "id": 428,
+      "resposta": "VOD",
+      "exibicao": "VOD",
+      "dica": "Modelo de distribuição que permite ao público assistir a uma obra sob demanda, sem depender de grade fixa.",
+      "ativo": true
+    },
+    {
+      "id": 593,
+      "resposta": "MOL",
+      "exibicao": "Mol",
+      "dica": "Unidade do Sistema Internacional para quantidade de matéria, definida a partir da constante de Avogadro.",
+      "ativo": true
+    },
+    {
+      "id": 594,
+      "resposta": "ION",
+      "exibicao": "Íon",
+      "dica": "Átomo ou grupo de átomos que apresenta carga elétrica líquida após perder ou ganhar elétrons.",
+      "ativo": true
+    },
+    {
+      "id": 595,
+      "resposta": "GAS",
+      "exibicao": "Gás",
+      "dica": "Estado físico em que as partículas se movem livremente e ocupam todo o volume disponível.",
+      "ativo": true
+    },
+    {
+      "id": 596,
+      "resposta": "SAL",
+      "exibicao": "Sal",
+      "dica": "Composto iônico formado por cátions e ânions, frequentemente obtido em reações entre ácidos e bases.",
+      "ativo": true
+    },
+    {
+      "id": 597,
+      "resposta": "PPM",
+      "exibicao": "ppm",
+      "dica": "Unidade relativa equivalente a uma parte da substância em um milhão de partes da mistura.",
+      "ativo": true
+    },
+    {
+      "id": 598,
+      "resposta": "PVC",
+      "exibicao": "PVC",
+      "dica": "Sigla de policloreto de vinila, polímero amplamente empregado em tubos, cabos e revestimentos.",
+      "ativo": true
+    },
+    {
+      "id": 599,
+      "resposta": "TNT",
+      "exibicao": "TNT",
+      "dica": "Sigla de trinitrotolueno, composto explosivo aromático usado como referência de energia em explosões.",
+      "ativo": true
+    },
+    {
+      "id": 600,
+      "resposta": "ATP",
+      "exibicao": "ATP",
+      "dica": "Sigla de adenosina trifosfato, molécula central na transferência de energia em sistemas biológicos.",
+      "ativo": true
+    },
+    {
+      "id": 601,
+      "resposta": "ADP",
+      "exibicao": "ADP",
+      "dica": "Sigla de adenosina difosfato, espécie formada quando a principal molécula energética celular perde um grupo fosfato.",
+      "ativo": true
+    },
+    {
+      "id": 602,
+      "resposta": "PET",
+      "exibicao": "PET",
+      "dica": "Sigla de polietileno tereftalato, poliéster usado em garrafas, fibras e embalagens.",
+      "ativo": true
+    },
+    {
+      "id": 603,
+      "resposta": "ABS",
+      "exibicao": "ABS",
+      "dica": "Sigla do copolímero de acrilonitrila, butadieno e estireno, conhecido pela resistência ao impacto.",
+      "ativo": true
+    },
+    {
+      "id": 604,
+      "resposta": "PLA",
+      "exibicao": "PLA",
+      "dica": "Sigla de ácido poliláctico, poliéster biodegradável produzido a partir de matérias-primas renováveis.",
+      "ativo": true
+    },
+    {
+      "id": 605,
+      "resposta": "PVA",
+      "exibicao": "PVA",
+      "dica": "Sigla de álcool polivinílico, polímero solúvel em água usado em filmes, adesivos e revestimentos.",
+      "ativo": true
+    },
+    {
+      "id": 606,
+      "resposta": "RMN",
+      "exibicao": "RMN",
+      "dica": "Sigla de ressonância magnética nuclear, técnica usada para investigar estrutura e ambiente químico dos átomos.",
+      "ativo": true
+    },
+    {
+      "id": 607,
+      "resposta": "CFC",
+      "exibicao": "CFC",
+      "dica": "Sigla de clorofluorcarboneto, classe de compostos relacionada historicamente à destruição da camada de ozônio.",
+      "ativo": true
+    },
+    {
+      "id": 608,
+      "resposta": "BHT",
+      "exibicao": "BHT",
+      "dica": "Sigla de butil-hidroxitolueno, antioxidante usado para retardar a oxidação em diferentes produtos.",
+      "ativo": true
+    },
+    {
+      "id": 609,
+      "resposta": "RDX",
+      "exibicao": "RDX",
+      "dica": "Explosivo nitramínico de alta potência também conhecido como ciclonita.",
+      "ativo": true
+    },
+    {
+      "id": 610,
+      "resposta": "HCL",
+      "exibicao": "HCl",
+      "dica": "Fórmula do cloreto de hidrogênio, que em água origina uma solução fortemente ácida.",
+      "ativo": true
+    },
+    {
+      "id": 611,
+      "resposta": "KOH",
+      "exibicao": "KOH",
+      "dica": "Fórmula do hidróxido de potássio, sólido alcalino muito solúvel em água.",
+      "ativo": true
+    },
+    {
+      "id": 612,
+      "resposta": "HBR",
+      "exibicao": "HBr",
+      "dica": "Fórmula do brometo de hidrogênio, composto que forma uma solução fortemente ácida em água.",
+      "ativo": true
+    },
+    {
+      "id": 613,
+      "resposta": "HCN",
+      "exibicao": "HCN",
+      "dica": "Fórmula do cianeto de hidrogênio, composto molecular extremamente tóxico.",
+      "ativo": true
+    },
+    {
+      "id": 614,
+      "resposta": "COV",
+      "exibicao": "COV",
+      "dica": "Sigla de compostos orgânicos voláteis, substâncias carbonadas que evaporam com facilidade em condições ambientais.",
+      "ativo": true
+    },
+    {
+      "id": 615,
+      "resposta": "NPK",
+      "exibicao": "NPK",
+      "dica": "Designação de fertilizantes que informa as proporções de nitrogênio, fósforo e potássio.",
+      "ativo": true
+    },
+    {
+      "id": 616,
+      "resposta": "DNA",
+      "exibicao": "DNA",
+      "dica": "Sigla internacional do ácido desoxirribonucleico, macromolécula formada por nucleotídeos e portadora de informação genética.",
+      "ativo": true
+    },
+    {
+      "id": 779,
+      "resposta": "OMC",
+      "exibicao": "OMC",
+      "dica": "Organização responsável por administrar regras multilaterais do comércio e mecanismos de solução de controvérsias.",
+      "ativo": true
+    },
+    {
+      "id": 780,
+      "resposta": "OEA",
+      "exibicao": "OEA",
+      "dica": "Organização regional que reúne países das Américas para cooperação política, jurídica e diplomática.",
+      "ativo": true
+    },
+    {
+      "id": 781,
+      "resposta": "BID",
+      "exibicao": "BID",
+      "dica": "Instituição financeira voltada ao desenvolvimento econômico e social da América Latina e do Caribe.",
+      "ativo": true
+    },
+    {
+      "id": 782,
+      "resposta": "FED",
+      "exibicao": "FED",
+      "dica": "Sistema de bancos centrais dos Estados Unidos responsável pela política monetária do país.",
+      "ativo": true
+    },
+    {
+      "id": 783,
+      "resposta": "BCE",
+      "exibicao": "BCE",
+      "dica": "Instituição responsável pela política monetária dos países que utilizam o euro.",
+      "ativo": true
+    },
+    {
+      "id": 784,
+      "resposta": "CAF",
+      "exibicao": "CAF",
+      "dica": "Instituição financeira latino-americana que financia infraestrutura, integração regional e desenvolvimento.",
+      "ativo": true
+    },
+    {
+      "id": 785,
+      "resposta": "DES",
+      "exibicao": "DES",
+      "dica": "Ativo de reserva internacional criado pelo Fundo Monetário Internacional e baseado em uma cesta de moedas.",
+      "ativo": true
+    },
+    {
+      "id": 786,
+      "resposta": "OIT",
+      "exibicao": "OIT",
+      "dica": "Agência especializada das Nações Unidas dedicada a normas trabalhistas e condições de trabalho.",
+      "ativo": true
+    },
+    {
+      "id": 787,
+      "resposta": "FAO",
+      "exibicao": "FAO",
+      "dica": "Agência das Nações Unidas dedicada à alimentação, agricultura e segurança alimentar.",
+      "ativo": true
+    },
+    {
+      "id": 788,
+      "resposta": "AIE",
+      "exibicao": "AIE",
+      "dica": "Organização intergovernamental criada na década de 1970 para promover segurança no abastecimento energético.",
+      "ativo": true
+    },
+    {
+      "id": 789,
+      "resposta": "OCS",
+      "exibicao": "OCS",
+      "dica": "Organização eurasiática que reúne China, Rússia e outros países em cooperação política, econômica e de segurança.",
+      "ativo": true
+    },
+    {
+      "id": 790,
+      "resposta": "EUA",
+      "exibicao": "EUA",
+      "dica": "País norte-americano que exerce papel central no sistema financeiro, militar e diplomático internacional contemporâneo.",
+      "ativo": true
+    },
+    {
+      "id": 791,
+      "resposta": "IED",
+      "exibicao": "IED",
+      "dica": "Aplicação realizada por empresa ou investidor de um país com objetivo de obter participação duradoura em empreendimento situado no exterior.",
+      "ativo": true
+    },
+    {
+      "id": 792,
+      "resposta": "PPC",
+      "exibicao": "PPC",
+      "dica": "Método que compara moedas segundo o poder de compra de uma cesta equivalente de bens e serviços.",
+      "ativo": true
+    },
+    {
+      "id": 793,
+      "resposta": "PIB",
+      "exibicao": "PIB",
+      "dica": "Valor dos bens e serviços finais produzidos dentro de um território em determinado período.",
+      "ativo": true
+    },
+    {
+      "id": 794,
+      "resposta": "PNB",
+      "exibicao": "PNB",
+      "dica": "Medida da produção associada aos residentes de um país, independentemente de onde a atividade econômica ocorre.",
+      "ativo": true
+    },
+    {
+      "id": 795,
+      "resposta": "NDB",
+      "exibicao": "NDB",
+      "dica": "Instituição financeira criada pelos BRICS para financiar infraestrutura e projetos de desenvolvimento.",
+      "ativo": true
+    },
+    {
+      "id": 796,
+      "resposta": "BEI",
+      "exibicao": "BEI",
+      "dica": "Instituição financeira da União Europeia que oferece empréstimos para projetos de investimento.",
+      "ativo": true
+    },
+    {
+      "id": 797,
+      "resposta": "BAD",
+      "exibicao": "BAD",
+      "dica": "Instituição multilateral voltada ao financiamento do desenvolvimento econômico e social no continente africano.",
+      "ativo": true
+    },
+    {
+      "id": 798,
+      "resposta": "CPI",
+      "exibicao": "CPI",
+      "dica": "Tribunal permanente sediado em Haia que julga indivíduos acusados de crimes internacionais graves.",
+      "ativo": true
+    },
+    {
+      "id": 799,
+      "resposta": "CDS",
+      "exibicao": "CDS",
+      "dica": "Derivativo financeiro usado para transferir o risco de inadimplência associado a uma obrigação de crédito.",
+      "ativo": true
+    }
+  ]
+}

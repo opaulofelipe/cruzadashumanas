@@ -1,0 +1,823 @@
+{
+  "perguntas": [
+    {
+      "id": 121,
+      "resposta": "VASSALO",
+      "exibicao": "Vassalo",
+      "dica": "Pessoa ligada a um senhor por obrigações recíprocas de fidelidade e proteção na sociedade feudal.",
+      "ativo": true
+    },
+    {
+      "id": 122,
+      "resposta": "CRUZADA",
+      "exibicao": "Cruzada",
+      "dica": "Expedição militar de caráter religioso organizada por cristãos latinos, sobretudo entre os séculos XI e XIII.",
+      "ativo": true
+    },
+    {
+      "id": 123,
+      "resposta": "ESPARTA",
+      "exibicao": "Esparta",
+      "dica": "Pólis grega conhecida por sua organização social militarizada e pelo treinamento dos cidadãos.",
+      "ativo": true
+    },
+    {
+      "id": 124,
+      "resposta": "COLONIA",
+      "exibicao": "Colônia",
+      "dica": "Território submetido ao domínio político, econômico ou administrativo de uma potência externa.",
+      "ativo": true
+    },
+    {
+      "id": 125,
+      "resposta": "IMPERIO",
+      "exibicao": "Império",
+      "dica": "Formação política em que um centro de poder domina extensos territórios e diferentes povos.",
+      "ativo": true
+    },
+    {
+      "id": 126,
+      "resposta": "ESCRAVO",
+      "exibicao": "Escravo",
+      "dica": "Pessoa juridicamente privada de liberdade e tratada como propriedade em diferentes sociedades históricas.",
+      "ativo": true
+    },
+    {
+      "id": 127,
+      "resposta": "DITADOR",
+      "exibicao": "Ditador",
+      "dica": "Governante que concentra poder político e restringe mecanismos de participação e oposição.",
+      "ativo": true
+    },
+    {
+      "id": 128,
+      "resposta": "REVOLTA",
+      "exibicao": "Revolta",
+      "dica": "Levantamento coletivo contra autoridades, instituições ou condições sociais estabelecidas.",
+      "ativo": true
+    },
+    {
+      "id": 129,
+      "resposta": "ASHANTI",
+      "exibicao": "Ashanti",
+      "dica": "Povo e reino da África Ocidental que construiu um poderoso Estado na região do atual Gana.",
+      "ativo": true
+    },
+    {
+      "id": 130,
+      "resposta": "MONGOIS",
+      "exibicao": "Mongóis",
+      "dica": "Povos das estepes eurasiáticas que, sob Gêngis Khan e seus sucessores, formaram um vasto império.",
+      "ativo": true
+    },
+    {
+      "id": 131,
+      "resposta": "SAMNITA",
+      "exibicao": "Samnita",
+      "dica": "Integrante de povos itálicos que enfrentaram Roma em guerras entre os séculos IV e III a.C.",
+      "ativo": true
+    },
+    {
+      "id": 132,
+      "resposta": "MUNIQUE",
+      "exibicao": "Munique",
+      "dica": "Cidade onde, em 1938, potências europeias aceitaram a anexação dos Sudetos pela Alemanha nazista.",
+      "ativo": true
+    },
+    {
+      "id": 133,
+      "resposta": "TRATADO",
+      "exibicao": "Tratado",
+      "dica": "Acordo formal entre Estados ou outras entidades políticas reconhecido pelo direito internacional.",
+      "ativo": true
+    },
+    {
+      "id": 134,
+      "resposta": "REGENTE",
+      "exibicao": "Regente",
+      "dica": "Pessoa que exerce o governo em nome de um monarca ausente, menor de idade ou incapaz.",
+      "ativo": true
+    },
+    {
+      "id": 135,
+      "resposta": "MONARCA",
+      "exibicao": "Monarca",
+      "dica": "Chefe de Estado de uma monarquia, normalmente investido por sucessão dinástica.",
+      "ativo": true
+    },
+    {
+      "id": 136,
+      "resposta": "CANUDOS",
+      "exibicao": "Canudos",
+      "dica": "Arraial do sertão baiano destruído por forças republicanas em 1897 após sucessivas expedições militares.",
+      "ativo": true
+    },
+    {
+      "id": 137,
+      "resposta": "GETULIO",
+      "exibicao": "Getúlio",
+      "dica": "Primeiro nome do político brasileiro que chegou ao poder em 1930 e marcou profundamente a organização do Estado nacional.",
+      "ativo": true
+    },
+    {
+      "id": 138,
+      "resposta": "SOVIETE",
+      "exibicao": "Soviete",
+      "dica": "Conselho de trabalhadores, soldados ou camponeses que teve papel central nas revoluções russas de 1917.",
+      "ativo": true
+    },
+    {
+      "id": 139,
+      "resposta": "SAMURAI",
+      "exibicao": "Samurai",
+      "dica": "Membro da classe guerreira do Japão pré-moderno, ligado a códigos de lealdade e serviço militar.",
+      "ativo": true
+    },
+    {
+      "id": 140,
+      "resposta": "BUSHIDO",
+      "exibicao": "Bushido",
+      "dica": "Conjunto idealizado de valores associados à conduta dos guerreiros japoneses.",
+      "ativo": true
+    },
+    {
+      "id": 141,
+      "resposta": "PIRATAS",
+      "exibicao": "Piratas",
+      "dica": "Navegadores que praticavam ataques e saques marítimos sem autorização estatal.",
+      "ativo": true
+    },
+    {
+      "id": 142,
+      "resposta": "ALIADOS",
+      "exibicao": "Aliados",
+      "dica": "Coalizão que reuniu países como Reino Unido, União Soviética e Estados Unidos contra o Eixo na Segunda Guerra Mundial.",
+      "ativo": true
+    },
+    {
+      "id": 143,
+      "resposta": "CARTAGO",
+      "exibicao": "Cartago",
+      "dica": "Cidade-Estado do norte da África que disputou com Roma o controle do Mediterrâneo ocidental nas Guerras Púnicas.",
+      "ativo": true
+    },
+    {
+      "id": 144,
+      "resposta": "OTOMANO",
+      "exibicao": "Otomano",
+      "dica": "Adjetivo ligado ao Estado turco que surgiu na Anatólia e se expandiu por três continentes entre os séculos XIV e XX.",
+      "ativo": true
+    },
+    {
+      "id": 310,
+      "resposta": "MEMORIA",
+      "exibicao": "Memória",
+      "dica": "Capacidade de codificar, armazenar e recuperar informações e experiências.",
+      "ativo": true
+    },
+    {
+      "id": 311,
+      "resposta": "EMPATIA",
+      "exibicao": "Empatia",
+      "dica": "Capacidade de compreender ou compartilhar estados emocionais e perspectivas de outra pessoa.",
+      "ativo": true
+    },
+    {
+      "id": 312,
+      "resposta": "TERAPIA",
+      "exibicao": "Terapia",
+      "dica": "Processo estruturado de intervenção voltado à mudança psicológica, alívio de sofrimento ou desenvolvimento de habilidades.",
+      "ativo": true
+    },
+    {
+      "id": 313,
+      "resposta": "REFORCO",
+      "exibicao": "Reforço",
+      "dica": "Consequência que aumenta a probabilidade futura de um comportamento em determinado contexto.",
+      "ativo": true
+    },
+    {
+      "id": 314,
+      "resposta": "NEUROSE",
+      "exibicao": "Neurose",
+      "dica": "Termo histórico da clínica e da psicanálise para formas de sofrimento sem perda predominante do contato com a realidade.",
+      "ativo": true
+    },
+    {
+      "id": 315,
+      "resposta": "SKINNER",
+      "exibicao": "Skinner",
+      "dica": "Psicólogo norte-americano que desenvolveu o behaviorismo radical e aprofundou o estudo do condicionamento operante.",
+      "ativo": true
+    },
+    {
+      "id": 316,
+      "resposta": "ERIKSON",
+      "exibicao": "Erikson",
+      "dica": "Teórico do desenvolvimento que propôs oito estágios psicossociais ao longo do ciclo vital.",
+      "ativo": true
+    },
+    {
+      "id": 317,
+      "resposta": "GESTALT",
+      "exibicao": "Gestalt",
+      "dica": "Abordagem que enfatizou a organização da percepção em configurações integradas, e não em elementos isolados.",
+      "ativo": true
+    },
+    {
+      "id": 318,
+      "resposta": "INSIGHT",
+      "exibicao": "Insight",
+      "dica": "Compreensão súbita ou aprofundada de uma relação, problema ou aspecto da própria experiência.",
+      "ativo": true
+    },
+    {
+      "id": 319,
+      "resposta": "ATENCAO",
+      "exibicao": "Atenção",
+      "dica": "Processo cognitivo de seleção e priorização de informações relevantes entre múltiplos estímulos.",
+      "ativo": true
+    },
+    {
+      "id": 320,
+      "resposta": "ATITUDE",
+      "exibicao": "Atitude",
+      "dica": "Avaliação relativamente estável, favorável ou desfavorável, dirigida a objetos, pessoas ou ideias.",
+      "ativo": true
+    },
+    {
+      "id": 321,
+      "resposta": "ESQUIVA",
+      "exibicao": "Esquiva",
+      "dica": "Comportamento que previne ou reduz o contato com estímulos aversivos.",
+      "ativo": true
+    },
+    {
+      "id": 322,
+      "resposta": "VINCULO",
+      "exibicao": "Vínculo",
+      "dica": "Ligação afetiva e relacional construída entre pessoas ao longo de interações significativas.",
+      "ativo": true
+    },
+    {
+      "id": 323,
+      "resposta": "SINTOMA",
+      "exibicao": "Sintoma",
+      "dica": "Manifestação subjetiva ou observável que pode indicar sofrimento ou alteração psicológica.",
+      "ativo": true
+    },
+    {
+      "id": 324,
+      "resposta": "DELIRIO",
+      "exibicao": "Delírio",
+      "dica": "Crença firmemente sustentada apesar de evidências contrárias, presente em alguns transtornos psicóticos.",
+      "ativo": true
+    },
+    {
+      "id": 325,
+      "resposta": "APRAXIA",
+      "exibicao": "Apraxia",
+      "dica": "Dificuldade adquirida para executar ações motoras aprendidas apesar de força e compreensão relativamente preservadas.",
+      "ativo": true
+    },
+    {
+      "id": 326,
+      "resposta": "ESTIGMA",
+      "exibicao": "Estigma",
+      "dica": "Marca social negativa associada a uma característica, diagnóstico ou pertencimento, capaz de gerar discriminação.",
+      "ativo": true
+    },
+    {
+      "id": 327,
+      "resposta": "AROUSAL",
+      "exibicao": "Arousal",
+      "dica": "Nível de ativação fisiológica e psicológica relacionado a alerta, desempenho e resposta emocional.",
+      "ativo": true
+    },
+    {
+      "id": 328,
+      "resposta": "AUTISMO",
+      "exibicao": "Autismo",
+      "dica": "Condição do neurodesenvolvimento caracterizada por diferenças persistentes na comunicação social e por padrões restritos ou repetitivos de comportamento.",
+      "ativo": true
+    },
+    {
+      "id": 329,
+      "resposta": "CONDUTA",
+      "exibicao": "Conduta",
+      "dica": "Conjunto de ações observáveis de uma pessoa em determinado contexto.",
+      "ativo": true
+    },
+    {
+      "id": 330,
+      "resposta": "ESQUEMA",
+      "exibicao": "Esquema",
+      "dica": "Estrutura cognitiva que organiza conhecimentos, expectativas e interpretações sobre si, os outros e o mundo.",
+      "ativo": true
+    },
+    {
+      "id": 331,
+      "resposta": "SADISMO",
+      "exibicao": "Sadismo",
+      "dica": "Obtenção de satisfação por meio do sofrimento ou humilhação de outra pessoa, conceito utilizado de formas distintas em diferentes tradições clínicas.",
+      "ativo": true
+    },
+    {
+      "id": 332,
+      "resposta": "ANSIOSO",
+      "exibicao": "Ansioso",
+      "dica": "Adjetivo para estado marcado por preocupação, tensão, apreensão ou expectativa de ameaça.",
+      "ativo": true
+    },
+    {
+      "id": 333,
+      "resposta": "ESTAGIO",
+      "exibicao": "Estágio",
+      "dica": "Etapa qualitativamente distinta em algumas teorias do desenvolvimento psicológico.",
+      "ativo": true
+    },
+    {
+      "id": 499,
+      "resposta": "ROTEIRO",
+      "exibicao": "Roteiro",
+      "dica": "Texto que organiza cenas, ações, diálogos e indicações fundamentais para a realização de uma obra audiovisual.",
+      "ativo": true
+    },
+    {
+      "id": 500,
+      "resposta": "DIRETOR",
+      "exibicao": "Diretor",
+      "dica": "Profissional responsável por coordenar as principais escolhas artísticas e narrativas durante uma produção.",
+      "ativo": true
+    },
+    {
+      "id": 501,
+      "resposta": "CLOSEUP",
+      "exibicao": "Closeup",
+      "dica": "Enquadramento muito aproximado usado para destacar rosto, objeto ou detalhe visual.",
+      "ativo": true
+    },
+    {
+      "id": 502,
+      "resposta": "TRAILER",
+      "exibicao": "Trailer",
+      "dica": "Peça promocional composta por trechos selecionados de uma obra antes de seu lançamento.",
+      "ativo": true
+    },
+    {
+      "id": 503,
+      "resposta": "CREDITO",
+      "exibicao": "Crédito",
+      "dica": "Informação exibida na abertura ou no encerramento para identificar participantes e funções da produção.",
+      "ativo": true
+    },
+    {
+      "id": 504,
+      "resposta": "KUBRICK",
+      "exibicao": "Kubrick",
+      "dica": "Sobrenome do diretor de 2001: Uma Odisseia no Espaço, Barry Lyndon e O Iluminado.",
+      "ativo": true
+    },
+    {
+      "id": 505,
+      "resposta": "BERGMAN",
+      "exibicao": "Bergman",
+      "dica": "Sobrenome do diretor sueco de Persona, Morangos Silvestres e O Sétimo Selo.",
+      "ativo": true
+    },
+    {
+      "id": 506,
+      "resposta": "ESTUDIO",
+      "exibicao": "Estúdio",
+      "dica": "Espaço ou empresa estruturada para produção, gravação e desenvolvimento de obras audiovisuais.",
+      "ativo": true
+    },
+    {
+      "id": 507,
+      "resposta": "MUSICAL",
+      "exibicao": "Musical",
+      "dica": "Gênero em que canções e números coreografados desempenham papel importante na narrativa.",
+      "ativo": true
+    },
+    {
+      "id": 508,
+      "resposta": "RACCORD",
+      "exibicao": "Raccord",
+      "dica": "Termo francês para a continuidade entre planos, envolvendo posição, movimento, figurino, objetos e direção do olhar.",
+      "ativo": true
+    },
+    {
+      "id": 509,
+      "resposta": "CAMERAS",
+      "exibicao": "Câmeras",
+      "dica": "Equipamentos de captação usados simultaneamente ou em diferentes configurações durante uma filmagem.",
+      "ativo": true
+    },
+    {
+      "id": 510,
+      "resposta": "COMEDIA",
+      "exibicao": "Comédia",
+      "dica": "Gênero construído em torno do humor, de situações cômicas ou de personagens concebidos para provocar riso.",
+      "ativo": true
+    },
+    {
+      "id": 511,
+      "resposta": "ROMANCE",
+      "exibicao": "Romance",
+      "dica": "Gênero centrado principalmente no desenvolvimento de uma relação amorosa entre personagens.",
+      "ativo": true
+    },
+    {
+      "id": 512,
+      "resposta": "FINCHER",
+      "exibicao": "Fincher",
+      "dica": "Sobrenome do diretor norte-americano de Clube da Luta, Seven e A Rede Social.",
+      "ativo": true
+    },
+    {
+      "id": 513,
+      "resposta": "BIGELOW",
+      "exibicao": "Bigelow",
+      "dica": "Sobrenome da diretora de Guerra ao Terror e A Hora Mais Escura.",
+      "ativo": true
+    },
+    {
+      "id": 514,
+      "resposta": "COPPOLA",
+      "exibicao": "Coppola",
+      "dica": "Sobrenome do diretor norte-americano de O Poderoso Chefão e Apocalypse Now.",
+      "ativo": true
+    },
+    {
+      "id": 515,
+      "resposta": "WESTERN",
+      "exibicao": "Western",
+      "dica": "Gênero associado à expansão para o oeste dos Estados Unidos, com temas de fronteira, lei e violência.",
+      "ativo": true
+    },
+    {
+      "id": 516,
+      "resposta": "ATRIZES",
+      "exibicao": "Atrizes",
+      "dica": "Intérpretes femininas que representam personagens diante das câmeras.",
+      "ativo": true
+    },
+    {
+      "id": 517,
+      "resposta": "PREMIOS",
+      "exibicao": "Prêmios",
+      "dica": "Distinções concedidas por festivais, academias e associações a obras ou profissionais destacados.",
+      "ativo": true
+    },
+    {
+      "id": 518,
+      "resposta": "DIALOGO",
+      "exibicao": "Diálogo",
+      "dica": "Conversa escrita ou improvisada entre personagens e incorporada à narrativa audiovisual.",
+      "ativo": true
+    },
+    {
+      "id": 519,
+      "resposta": "CENARIO",
+      "exibicao": "Cenário",
+      "dica": "Ambiente construído, adaptado ou escolhido para representar o espaço onde ocorre uma ação.",
+      "ativo": true
+    },
+    {
+      "id": 520,
+      "resposta": "PLATEIA",
+      "exibicao": "Plateia",
+      "dica": "Conjunto de espectadores presentes em uma sessão, mostra ou exibição pública.",
+      "ativo": true
+    },
+    {
+      "id": 521,
+      "resposta": "BILHETE",
+      "exibicao": "Bilhete",
+      "dica": "Comprovante de ingresso que permite acesso do espectador a uma sessão paga.",
+      "ativo": true
+    },
+    {
+      "id": 522,
+      "resposta": "SINOPSE",
+      "exibicao": "Sinopse",
+      "dica": "Resumo breve do enredo usado para apresentar uma obra sem reproduzir toda a narrativa.",
+      "ativo": true
+    },
+    {
+      "id": 688,
+      "resposta": "NEUTRON",
+      "exibicao": "Nêutron",
+      "dica": "Partícula subatômica eletricamente neutra localizada no núcleo atômico.",
+      "ativo": true
+    },
+    {
+      "id": 689,
+      "resposta": "ISOTOPO",
+      "exibicao": "Isótopo",
+      "dica": "Átomo de um mesmo elemento com igual número de prótons e diferente quantidade de nêutrons.",
+      "ativo": true
+    },
+    {
+      "id": 690,
+      "resposta": "ALQUENO",
+      "exibicao": "Alqueno",
+      "dica": "Hidrocarboneto insaturado que possui pelo menos uma ligação dupla entre átomos de carbono.",
+      "ativo": true
+    },
+    {
+      "id": 691,
+      "resposta": "BENZENO",
+      "exibicao": "Benzeno",
+      "dica": "Hidrocarboneto aromático de fórmula C₆H₆ constituído por um anel de seis carbonos.",
+      "ativo": true
+    },
+    {
+      "id": 692,
+      "resposta": "NITRATO",
+      "exibicao": "Nitrato",
+      "dica": "Ânion poliatômico de fórmula NO₃⁻ presente em diversos sais e fertilizantes.",
+      "ativo": true
+    },
+    {
+      "id": 693,
+      "resposta": "CARBONO",
+      "exibicao": "Carbono",
+      "dica": "Elemento de número atômico 6, base estrutural da química orgânica e capaz de formar extensas cadeias.",
+      "ativo": true
+    },
+    {
+      "id": 694,
+      "resposta": "ENXOFRE",
+      "exibicao": "Enxofre",
+      "dica": "Elemento de número atômico 16, presente em sulfetos, sulfatos e aminoácidos como cisteína e metionina.",
+      "ativo": true
+    },
+    {
+      "id": 695,
+      "resposta": "FOSFORO",
+      "exibicao": "Fósforo",
+      "dica": "Elemento de número atômico 15, importante em fosfatos, ácidos nucleicos e transferência celular de energia.",
+      "ativo": true
+    },
+    {
+      "id": 696,
+      "resposta": "LIGACAO",
+      "exibicao": "Ligação",
+      "dica": "Interação responsável por manter átomos unidos em moléculas, íons poliatômicos ou sólidos.",
+      "ativo": true
+    },
+    {
+      "id": 697,
+      "resposta": "DIFUSAO",
+      "exibicao": "Difusão",
+      "dica": "Movimento espontâneo de partículas que tende a reduzir diferenças de concentração.",
+      "ativo": true
+    },
+    {
+      "id": 698,
+      "resposta": "PRODUTO",
+      "exibicao": "Produto",
+      "dica": "Substância formada como resultado de uma transformação química.",
+      "ativo": true
+    },
+    {
+      "id": 699,
+      "resposta": "PROVETA",
+      "exibicao": "Proveta",
+      "dica": "Cilindro graduado de laboratório usado para medir volumes de líquidos com precisão moderada.",
+      "ativo": true
+    },
+    {
+      "id": 700,
+      "resposta": "CADINHO",
+      "exibicao": "Cadinho",
+      "dica": "Recipiente refratário empregado para aquecer substâncias a temperaturas elevadas.",
+      "ativo": true
+    },
+    {
+      "id": 701,
+      "resposta": "COLOIDE",
+      "exibicao": "Coloide",
+      "dica": "Sistema disperso cujas partículas possuem dimensão intermediária entre soluções verdadeiras e suspensões grosseiras.",
+      "ativo": true
+    },
+    {
+      "id": 702,
+      "resposta": "EMULSAO",
+      "exibicao": "Emulsão",
+      "dica": "Dispersão de um líquido em outro líquido com o qual ele não se mistura espontaneamente.",
+      "ativo": true
+    },
+    {
+      "id": 703,
+      "resposta": "QUELATO",
+      "exibicao": "Quelato",
+      "dica": "Complexo de coordenação em que um ligante multidentado se prende ao mesmo centro metálico por vários átomos doadores.",
+      "ativo": true
+    },
+    {
+      "id": 704,
+      "resposta": "ISOMERO",
+      "exibicao": "Isômero",
+      "dica": "Composto que possui a mesma fórmula molecular de outro, mas difere na estrutura ou no arranjo espacial.",
+      "ativo": true
+    },
+    {
+      "id": 705,
+      "resposta": "RADICAL",
+      "exibicao": "Radical",
+      "dica": "Espécie química que contém um ou mais elétrons desemparelhados e costuma apresentar elevada reatividade.",
+      "ativo": true
+    },
+    {
+      "id": 706,
+      "resposta": "TITANIO",
+      "exibicao": "Titânio",
+      "dica": "Elemento de número atômico 22, conhecido pela elevada resistência mecânica e à corrosão.",
+      "ativo": true
+    },
+    {
+      "id": 707,
+      "resposta": "ESTANHO",
+      "exibicao": "Estanho",
+      "dica": "Elemento de número atômico 50, empregado em soldas, revestimentos e diversas ligas.",
+      "ativo": true
+    },
+    {
+      "id": 708,
+      "resposta": "BISMUTO",
+      "exibicao": "Bismuto",
+      "dica": "Elemento de número atômico 83, metal pesado de toxicidade relativamente baixa em comparação com vários vizinhos.",
+      "ativo": true
+    },
+    {
+      "id": 709,
+      "resposta": "XENONIO",
+      "exibicao": "Xenônio",
+      "dica": "Elemento de número atômico 54, gás nobre usado em lâmpadas especiais, propulsão iônica e algumas aplicações médicas.",
+      "ativo": true
+    },
+    {
+      "id": 710,
+      "resposta": "RADONIO",
+      "exibicao": "Radônio",
+      "dica": "Elemento de número atômico 86, gás nobre radioativo produzido em cadeias naturais de decaimento.",
+      "ativo": true
+    },
+    {
+      "id": 711,
+      "resposta": "GRAFENO",
+      "exibicao": "Grafeno",
+      "dica": "Folha de carbono com espessura de um único átomo organizada em uma rede hexagonal.",
+      "ativo": true
+    },
+    {
+      "id": 868,
+      "resposta": "EMBARGO",
+      "exibicao": "Embargo",
+      "dica": "Proibição ou forte restrição ao comércio com determinado Estado, território ou entidade.",
+      "ativo": true
+    },
+    {
+      "id": 869,
+      "resposta": "EURASIA",
+      "exibicao": "Eurásia",
+      "dica": "Grande massa continental formada pela continuidade geográfica entre Europa e Ásia.",
+      "ativo": true
+    },
+    {
+      "id": 870,
+      "resposta": "ENERGIA",
+      "exibicao": "Energia",
+      "dica": "Recurso estratégico cuja produção, transporte e abastecimento influenciam relações entre Estados.",
+      "ativo": true
+    },
+    {
+      "id": 871,
+      "resposta": "DEFICIT",
+      "exibicao": "Déficit",
+      "dica": "Situação em que gastos, importações ou saídas de recursos superam receitas, exportações ou entradas correspondentes.",
+      "ativo": true
+    },
+    {
+      "id": 872,
+      "resposta": "DUMPING",
+      "exibicao": "Dumping",
+      "dica": "Prática comercial de vender no exterior a preços considerados artificialmente baixos segundo regras internacionais.",
+      "ativo": true
+    },
+    {
+      "id": 873,
+      "resposta": "MERCADO",
+      "exibicao": "Mercado",
+      "dica": "Ambiente em que compradores e vendedores realizam trocas de bens, serviços, moedas ou ativos.",
+      "ativo": true
+    },
+    {
+      "id": 874,
+      "resposta": "CAPITAL",
+      "exibicao": "Capital",
+      "dica": "Recursos financeiros e produtivos utilizados para investimento e geração de renda.",
+      "ativo": true
+    },
+    {
+      "id": 875,
+      "resposta": "RESERVA",
+      "exibicao": "Reserva",
+      "dica": "Ativo mantido para enfrentar necessidades futuras de liquidez ou cumprir objetivos de estabilidade.",
+      "ativo": true
+    },
+    {
+      "id": 876,
+      "resposta": "DEMANDA",
+      "exibicao": "Demanda",
+      "dica": "Quantidade que consumidores, empresas ou governos desejam adquirir a diferentes níveis de preço.",
+      "ativo": true
+    },
+    {
+      "id": 877,
+      "resposta": "BOLIVAR",
+      "exibicao": "Bolívar",
+      "dica": "Unidade monetária oficial da Venezuela.",
+      "ativo": true
+    },
+    {
+      "id": 878,
+      "resposta": "TURQUIA",
+      "exibicao": "Turquia",
+      "dica": "País situado entre Europa e Ásia, membro da OTAN e importante ator no Mediterrâneo Oriental e no Oriente Médio.",
+      "ativo": true
+    },
+    {
+      "id": 879,
+      "resposta": "UCRANIA",
+      "exibicao": "Ucrânia",
+      "dica": "Estado do Leste Europeu cuja posição estratégica ganhou ainda maior relevância após a invasão russa em grande escala de 2022.",
+      "ativo": true
+    },
+    {
+      "id": 880,
+      "resposta": "ARMENIA",
+      "exibicao": "Armênia",
+      "dica": "País do Cáucaso Sul historicamente envolvido em disputas territoriais e de segurança com o Azerbaijão.",
+      "ativo": true
+    },
+    {
+      "id": 881,
+      "resposta": "ESTONIA",
+      "exibicao": "Estônia",
+      "dica": "Estado báltico membro da União Europeia e da OTAN, conhecido também por sua elevada digitalização.",
+      "ativo": true
+    },
+    {
+      "id": 882,
+      "resposta": "GEORGIA",
+      "exibicao": "Geórgia",
+      "dica": "País do Cáucaso que mantém disputas territoriais envolvendo Abkházia e Ossétia do Sul.",
+      "ativo": true
+    },
+    {
+      "id": 883,
+      "resposta": "BENELUX",
+      "exibicao": "Benelux",
+      "dica": "Arranjo de integração formado por Bélgica, Países Baixos e Luxemburgo e precursor de experiências europeias posteriores.",
+      "ativo": true
+    },
+    {
+      "id": 884,
+      "resposta": "ALIANCA",
+      "exibicao": "Aliança",
+      "dica": "Entendimento entre Estados destinado a coordenar políticas ou garantir apoio diante de ameaças comuns.",
+      "ativo": true
+    },
+    {
+      "id": 885,
+      "resposta": "BALANCA",
+      "exibicao": "Balança",
+      "dica": "Registro comparativo entre duas categorias de fluxos econômicos, como exportações e importações.",
+      "ativo": true
+    },
+    {
+      "id": 886,
+      "resposta": "TARIFAS",
+      "exibicao": "Tarifas",
+      "dica": "Tributos aplicados ao comércio exterior que podem proteger produtores domésticos ou gerar receita pública.",
+      "ativo": true
+    },
+    {
+      "id": 887,
+      "resposta": "SANCOES",
+      "exibicao": "Sanções",
+      "dica": "Restrições econômicas, financeiras ou diplomáticas usadas para pressionar governos, empresas ou indivíduos.",
+      "ativo": true
+    },
+    {
+      "id": 888,
+      "resposta": "RECEITA",
+      "exibicao": "Receita",
+      "dica": "Valor arrecadado por um governo, empresa ou outra organização em determinado período.",
+      "ativo": true
+    }
+  ]
+}

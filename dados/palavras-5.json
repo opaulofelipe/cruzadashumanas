@@ -1,0 +1,830 @@
+{
+  "perguntas": [
+    {
+      "id": 73,
+      "resposta": "FEUDO",
+      "exibicao": "Feudo",
+      "dica": "Bem, direito ou renda concedido em certas relações de dependência da sociedade medieval europeia.",
+      "ativo": true
+    },
+    {
+      "id": 74,
+      "resposta": "TRONO",
+      "exibicao": "Trono",
+      "dica": "Símbolo material e político da autoridade de um soberano.",
+      "ativo": true
+    },
+    {
+      "id": 75,
+      "resposta": "SERVO",
+      "exibicao": "Servo",
+      "dica": "Camponês submetido a obrigações e vínculos de dependência em sociedades medievais.",
+      "ativo": true
+    },
+    {
+      "id": 76,
+      "resposta": "TUDOR",
+      "exibicao": "Tudor",
+      "dica": "Dinastia inglesa que governou de 1485 a 1603, incluindo Henrique VIII e Elizabeth I.",
+      "ativo": true
+    },
+    {
+      "id": 77,
+      "resposta": "ATILA",
+      "exibicao": "Átila",
+      "dica": "Governante dos hunos no século V, responsável por campanhas contra territórios romanos.",
+      "ativo": true
+    },
+    {
+      "id": 78,
+      "resposta": "LENIN",
+      "exibicao": "Lenin",
+      "dica": "Líder bolchevique central na Revolução de Outubro de 1917 e na formação do Estado soviético.",
+      "ativo": true
+    },
+    {
+      "id": 79,
+      "resposta": "YALTA",
+      "exibicao": "Yalta",
+      "dica": "Cidade da Crimeia onde Roosevelt, Churchill e Stalin se reuniram em fevereiro de 1945.",
+      "ativo": true
+    },
+    {
+      "id": 80,
+      "resposta": "LUXOR",
+      "exibicao": "Luxor",
+      "dica": "Cidade egípcia erguida na região da antiga Tebas, próxima a grandes complexos templários faraônicos.",
+      "ativo": true
+    },
+    {
+      "id": 81,
+      "resposta": "ASSUR",
+      "exibicao": "Assur",
+      "dica": "Cidade mesopotâmica que deu nome ao povo e ao império que se expandiu pelo Oriente Próximo.",
+      "ativo": true
+    },
+    {
+      "id": 82,
+      "resposta": "MEDOS",
+      "exibicao": "Medos",
+      "dica": "Povo iraniano que formou um reino importante antes da ascensão dos persas aquemênidas.",
+      "ativo": true
+    },
+    {
+      "id": 83,
+      "resposta": "GODOS",
+      "exibicao": "Godos",
+      "dica": "Povos germânicos que participaram das transformações políticas do fim do Império Romano do Ocidente.",
+      "ativo": true
+    },
+    {
+      "id": 84,
+      "resposta": "SAXAO",
+      "exibicao": "Saxão",
+      "dica": "Integrante de povos germânicos que migraram para a Britânia e participaram da formação da Inglaterra medieval.",
+      "ativo": true
+    },
+    {
+      "id": 85,
+      "resposta": "FARAO",
+      "exibicao": "Faraó",
+      "dica": "Título moderno aplicado aos soberanos do Egito antigo.",
+      "ativo": true
+    },
+    {
+      "id": 86,
+      "resposta": "SOLON",
+      "exibicao": "Sólon",
+      "dica": "Legislador ateniense do início do século VI a.C. associado a reformas sociais e políticas.",
+      "ativo": true
+    },
+    {
+      "id": 87,
+      "resposta": "DRACO",
+      "exibicao": "Dráco",
+      "dica": "Legislador ateniense lembrado pela severidade de seu código jurídico.",
+      "ativo": true
+    },
+    {
+      "id": 88,
+      "resposta": "INCAS",
+      "exibicao": "Incas",
+      "dica": "Povo e elite imperial que organizaram o Tawantinsuyu nos Andes antes da conquista espanhola.",
+      "ativo": true
+    },
+    {
+      "id": 89,
+      "resposta": "MAIAS",
+      "exibicao": "Maias",
+      "dica": "Povos mesoamericanos que desenvolveram escrita, calendários e centros urbanos complexos.",
+      "ativo": true
+    },
+    {
+      "id": 90,
+      "resposta": "BURGO",
+      "exibicao": "Burgo",
+      "dica": "Núcleo urbano fortificado ou assentamento que ganhou importância no crescimento comercial medieval.",
+      "ativo": true
+    },
+    {
+      "id": 91,
+      "resposta": "PLEBE",
+      "exibicao": "Plebe",
+      "dica": "Conjunto de cidadãos romanos que não pertenciam ao patriciado e lutaram por direitos políticos na República.",
+      "ativo": true
+    },
+    {
+      "id": 92,
+      "resposta": "CURIA",
+      "exibicao": "Cúria",
+      "dica": "Termo romano ligado a divisões cívicas e, mais tarde, a órgãos administrativos e eclesiásticos.",
+      "ativo": true
+    },
+    {
+      "id": 93,
+      "resposta": "FORUM",
+      "exibicao": "Fórum",
+      "dica": "Espaço público central das cidades romanas, associado à vida política, judicial e comercial.",
+      "ativo": true
+    },
+    {
+      "id": 94,
+      "resposta": "COROA",
+      "exibicao": "Coroa",
+      "dica": "Termo usado para representar a autoridade monárquica e o conjunto de direitos do soberano.",
+      "ativo": true
+    },
+    {
+      "id": 95,
+      "resposta": "PACTO",
+      "exibicao": "Pacto",
+      "dica": "Acordo formal entre Estados, grupos ou forças políticas.",
+      "ativo": true
+    },
+    {
+      "id": 96,
+      "resposta": "JUNTA",
+      "exibicao": "Junta",
+      "dica": "Governo colegiado ou conselho que assume o poder, frequentemente em contextos de crise ou golpe.",
+      "ativo": true
+    },
+    {
+      "id": 262,
+      "resposta": "FREUD",
+      "exibicao": "Freud",
+      "dica": "Médico austríaco que fundou a psicanálise e destacou o papel dos processos inconscientes.",
+      "ativo": true
+    },
+    {
+      "id": 263,
+      "resposta": "AFETO",
+      "exibicao": "Afeto",
+      "dica": "Termo amplo para estados emocionais e experiências de sentimento.",
+      "ativo": true
+    },
+    {
+      "id": 264,
+      "resposta": "FOBIA",
+      "exibicao": "Fobia",
+      "dica": "Medo intenso e persistente ligado a objeto ou situação específica, acompanhado de esquiva ou sofrimento.",
+      "ativo": true
+    },
+    {
+      "id": 265,
+      "resposta": "HUMOR",
+      "exibicao": "Humor",
+      "dica": "Estado afetivo relativamente duradouro que influencia percepção, pensamento e comportamento.",
+      "ativo": true
+    },
+    {
+      "id": 266,
+      "resposta": "CULPA",
+      "exibicao": "Culpa",
+      "dica": "Emoção associada à avaliação de que se violou uma norma, valor ou responsabilidade pessoal.",
+      "ativo": true
+    },
+    {
+      "id": 267,
+      "resposta": "RAIVA",
+      "exibicao": "Raiva",
+      "dica": "Emoção que pode surgir diante de ameaça, frustração, injustiça percebida ou impedimento de objetivos.",
+      "ativo": true
+    },
+    {
+      "id": 268,
+      "resposta": "MANIA",
+      "exibicao": "Mania",
+      "dica": "Estado de elevação ou irritabilidade anormal do ânimo, com aumento de energia e outras alterações comportamentais.",
+      "ativo": true
+    },
+    {
+      "id": 269,
+      "resposta": "TRACO",
+      "exibicao": "Traço",
+      "dica": "Característica relativamente estável usada para descrever diferenças individuais de personalidade.",
+      "ativo": true
+    },
+    {
+      "id": 270,
+      "resposta": "ADLER",
+      "exibicao": "Adler",
+      "dica": "Médico austríaco fundador da psicologia individual e interessado em sentimentos de inferioridade e busca de superioridade.",
+      "ativo": true
+    },
+    {
+      "id": 271,
+      "resposta": "KLEIN",
+      "exibicao": "Klein",
+      "dica": "Psicanalista conhecida por estudos sobre relações de objeto e pelo uso do brincar no trabalho com crianças.",
+      "ativo": true
+    },
+    {
+      "id": 272,
+      "resposta": "FROMM",
+      "exibicao": "Fromm",
+      "dica": "Psicanalista e pensador social que relacionou personalidade, liberdade e estrutura social.",
+      "ativo": true
+    },
+    {
+      "id": 273,
+      "resposta": "LURIA",
+      "exibicao": "Luria",
+      "dica": "Neuropsicólogo soviético que estudou a organização funcional do cérebro e suas relações com linguagem e comportamento.",
+      "ativo": true
+    },
+    {
+      "id": 274,
+      "resposta": "JAMES",
+      "exibicao": "James",
+      "dica": "Filósofo e psicólogo norte-americano ligado ao funcionalismo e autor de Principles of Psychology.",
+      "ativo": true
+    },
+    {
+      "id": 275,
+      "resposta": "SONHO",
+      "exibicao": "Sonho",
+      "dica": "Experiência mental que ocorre durante o sono e recebeu interpretações distintas em várias teorias psicológicas.",
+      "ativo": true
+    },
+    {
+      "id": 276,
+      "resposta": "APEGO",
+      "exibicao": "Apego",
+      "dica": "Vínculo emocional duradouro entre a criança e figuras cuidadoras, central na teoria desenvolvida por John Bowlby.",
+      "ativo": true
+    },
+    {
+      "id": 277,
+      "resposta": "CRISE",
+      "exibicao": "Crise",
+      "dica": "Período de desequilíbrio em que demandas percebidas excedem temporariamente os recursos habituais de enfrentamento.",
+      "ativo": true
+    },
+    {
+      "id": 278,
+      "resposta": "PERDA",
+      "exibicao": "Perda",
+      "dica": "Evento de privação ou separação que pode desencadear respostas emocionais e processos de adaptação.",
+      "ativo": true
+    },
+    {
+      "id": 279,
+      "resposta": "MENTE",
+      "exibicao": "Mente",
+      "dica": "Conjunto de processos como percepção, memória, pensamento, emoção e consciência.",
+      "ativo": true
+    },
+    {
+      "id": 280,
+      "resposta": "TESTE",
+      "exibicao": "Teste",
+      "dica": "Instrumento padronizado utilizado para avaliar características psicológicas segundo critérios técnicos.",
+      "ativo": true
+    },
+    {
+      "id": 281,
+      "resposta": "RITMO",
+      "exibicao": "Ritmo",
+      "dica": "Padrão temporal de atividade que pode organizar sono, vigília, atenção e outros processos psicológicos.",
+      "ativo": true
+    },
+    {
+      "id": 282,
+      "resposta": "FATOR",
+      "exibicao": "Fator",
+      "dica": "Variável ou dimensão utilizada para explicar diferenças individuais ou padrões de correlação entre medidas.",
+      "ativo": true
+    },
+    {
+      "id": 283,
+      "resposta": "NORMA",
+      "exibicao": "Norma",
+      "dica": "Referência estatística usada para interpretar um resultado em comparação com determinado grupo.",
+      "ativo": true
+    },
+    {
+      "id": 284,
+      "resposta": "VALOR",
+      "exibicao": "Valor",
+      "dica": "Princípio ou orientação considerada importante e capaz de influenciar escolhas e comportamento.",
+      "ativo": true
+    },
+    {
+      "id": 285,
+      "resposta": "RISCO",
+      "exibicao": "Risco",
+      "dica": "Probabilidade de ocorrência de um desfecho adverso, conceito importante em avaliação clínica e prevenção.",
+      "ativo": true
+    },
+    {
+      "id": 451,
+      "resposta": "FILME",
+      "exibicao": "Filme",
+      "dica": "Obra audiovisual composta por imagens em movimento e organizada segundo escolhas narrativas, documentais ou experimentais.",
+      "ativo": true
+    },
+    {
+      "id": 452,
+      "resposta": "PLANO",
+      "exibicao": "Plano",
+      "dica": "Trecho contínuo de imagem registrado sem interrupção entre o início e o fim de uma tomada.",
+      "ativo": true
+    },
+    {
+      "id": 453,
+      "resposta": "CORTE",
+      "exibicao": "Corte",
+      "dica": "Transição direta entre duas imagens consecutivas durante a montagem.",
+      "ativo": true
+    },
+    {
+      "id": 454,
+      "resposta": "OSCAR",
+      "exibicao": "Oscar",
+      "dica": "Prêmio anual concedido pela Academia de Artes e Ciências Cinematográficas dos Estados Unidos.",
+      "ativo": true
+    },
+    {
+      "id": 455,
+      "resposta": "CURTA",
+      "exibicao": "Curta",
+      "dica": "Forma abreviada usada para uma produção de duração reduzida em relação ao longa-metragem.",
+      "ativo": true
+    },
+    {
+      "id": 456,
+      "resposta": "FOLEY",
+      "exibicao": "Foley",
+      "dica": "Técnica de criação e gravação de efeitos sonoros sincronizados com ações vistas na tela.",
+      "ativo": true
+    },
+    {
+      "id": 457,
+      "resposta": "DOLLY",
+      "exibicao": "Dolly",
+      "dica": "Plataforma móvel sobre rodas ou trilhos utilizada para deslocar a câmera suavemente durante uma tomada.",
+      "ativo": true
+    },
+    {
+      "id": 458,
+      "resposta": "FRAME",
+      "exibicao": "Frame",
+      "dica": "Cada imagem individual que compõe uma sequência cinematográfica ou de vídeo.",
+      "ativo": true
+    },
+    {
+      "id": 459,
+      "resposta": "LENTE",
+      "exibicao": "Lente",
+      "dica": "Elemento óptico responsável por formar e direcionar a imagem até o sensor ou a película.",
+      "ativo": true
+    },
+    {
+      "id": 460,
+      "resposta": "TRAMA",
+      "exibicao": "Trama",
+      "dica": "Encadeamento dos acontecimentos que estruturam a narrativa de uma obra.",
+      "ativo": true
+    },
+    {
+      "id": 461,
+      "resposta": "CLOSE",
+      "exibicao": "Close",
+      "dica": "Enquadramento aproximado usado para destacar rosto, objeto ou detalhe visual.",
+      "ativo": true
+    },
+    {
+      "id": 462,
+      "resposta": "SCORE",
+      "exibicao": "Score",
+      "dica": "Termo em inglês para a música original composta especificamente para acompanhar uma obra audiovisual.",
+      "ativo": true
+    },
+    {
+      "id": 463,
+      "resposta": "SLATE",
+      "exibicao": "Slate",
+      "dica": "Peça usada no set para identificar cena e tomada e auxiliar a sincronização de som e imagem.",
+      "ativo": true
+    },
+    {
+      "id": 464,
+      "resposta": "ANIME",
+      "exibicao": "Anime",
+      "dica": "Produção de animação japonesa ou fortemente vinculada às tradições industriais e estéticas do Japão.",
+      "ativo": true
+    },
+    {
+      "id": 465,
+      "resposta": "INDIE",
+      "exibicao": "Indie",
+      "dica": "Termo associado a produções realizadas fora ou à margem dos grandes estúdios e conglomerados.",
+      "ativo": true
+    },
+    {
+      "id": 466,
+      "resposta": "DRAMA",
+      "exibicao": "Drama",
+      "dica": "Gênero centrado em conflitos humanos, relações e situações de forte carga emocional.",
+      "ativo": true
+    },
+    {
+      "id": 467,
+      "resposta": "EPICO",
+      "exibicao": "Épico",
+      "dica": "Gênero ou estilo marcado por grande escala narrativa, acontecimentos históricos e produção visual grandiosa.",
+      "ativo": true
+    },
+    {
+      "id": 468,
+      "resposta": "VARDA",
+      "exibicao": "Varda",
+      "dica": "Sobrenome da cineasta franco-belga responsável por Cléo das 5 às 7 e Sem Teto nem Lei.",
+      "ativo": true
+    },
+    {
+      "id": 469,
+      "resposta": "LEONE",
+      "exibicao": "Leone",
+      "dica": "Sobrenome do diretor italiano de Três Homens em Conflito e Era uma Vez no Oeste.",
+      "ativo": true
+    },
+    {
+      "id": 470,
+      "resposta": "LYNCH",
+      "exibicao": "Lynch",
+      "dica": "Sobrenome do cineasta norte-americano responsável por Veludo Azul e Cidade dos Sonhos.",
+      "ativo": true
+    },
+    {
+      "id": 471,
+      "resposta": "TRIER",
+      "exibicao": "Trier",
+      "dica": "Sobrenome do diretor dinamarquês de Dançando no Escuro e Melancolia.",
+      "ativo": true
+    },
+    {
+      "id": 472,
+      "resposta": "LUCAS",
+      "exibicao": "Lucas",
+      "dica": "Sobrenome do criador e diretor ligado ao nascimento da franquia Star Wars.",
+      "ativo": true
+    },
+    {
+      "id": 473,
+      "resposta": "BAZIN",
+      "exibicao": "Bazin",
+      "dica": "Sobrenome do crítico francês que cofundou Cahiers du Cinéma e defendeu o realismo cinematográfico.",
+      "ativo": true
+    },
+    {
+      "id": 474,
+      "resposta": "EBERT",
+      "exibicao": "Ebert",
+      "dica": "Sobrenome do crítico norte-americano vencedor do Pulitzer e conhecido por décadas de resenhas de cinema.",
+      "ativo": true
+    },
+    {
+      "id": 640,
+      "resposta": "ACIDO",
+      "exibicao": "Ácido",
+      "dica": "Espécie que doa prótons segundo Brønsted-Lowry ou aceita um par de elétrons segundo Lewis.",
+      "ativo": true
+    },
+    {
+      "id": 641,
+      "resposta": "ATOMO",
+      "exibicao": "Átomo",
+      "dica": "Menor unidade de um elemento que conserva suas propriedades químicas, formada por núcleo e elétrons.",
+      "ativo": true
+    },
+    {
+      "id": 642,
+      "resposta": "ESTER",
+      "exibicao": "Éster",
+      "dica": "Função orgânica que contém o grupo R–COO–R′ e pode ser formada pela reação entre um álcool e um ácido carboxílico.",
+      "ativo": true
+    },
+    {
+      "id": 643,
+      "resposta": "METAL",
+      "exibicao": "Metal",
+      "dica": "Classe de elementos geralmente caracterizada por boa condução elétrica, brilho e tendência à formação de cátions.",
+      "ativo": true
+    },
+    {
+      "id": 644,
+      "resposta": "OXIDO",
+      "exibicao": "Óxido",
+      "dica": "Composto binário em que o oxigênio está ligado a outro elemento.",
+      "ativo": true
+    },
+    {
+      "id": 645,
+      "resposta": "FLUOR",
+      "exibicao": "Flúor",
+      "dica": "Elemento de número atômico 9, o mais eletronegativo da tabela periódica.",
+      "ativo": true
+    },
+    {
+      "id": 646,
+      "resposta": "CLORO",
+      "exibicao": "Cloro",
+      "dica": "Elemento halogênio de número atômico 17, usado em desinfecção e presente em inúmeros compostos.",
+      "ativo": true
+    },
+    {
+      "id": 647,
+      "resposta": "COBRE",
+      "exibicao": "Cobre",
+      "dica": "Elemento de número atômico 29, excelente condutor e amplamente empregado em fios elétricos.",
+      "ativo": true
+    },
+    {
+      "id": 648,
+      "resposta": "ZINCO",
+      "exibicao": "Zinco",
+      "dica": "Elemento de número atômico 30, usado para proteger o aço contra corrosão por galvanização.",
+      "ativo": true
+    },
+    {
+      "id": 649,
+      "resposta": "FERRO",
+      "exibicao": "Ferro",
+      "dica": "Elemento de número atômico 26, fundamental na fabricação do aço e abundante no núcleo terrestre.",
+      "ativo": true
+    },
+    {
+      "id": 650,
+      "resposta": "BOYLE",
+      "exibicao": "Boyle",
+      "dica": "Cientista irlandês associado à relação inversa entre pressão e volume de uma quantidade fixa de gás a temperatura constante.",
+      "ativo": true
+    },
+    {
+      "id": 651,
+      "resposta": "CURIE",
+      "exibicao": "Curie",
+      "dica": "Cientista polonesa naturalizada francesa que realizou pesquisas pioneiras sobre fenômenos nucleares e descobriu polônio e rádio.",
+      "ativo": true
+    },
+    {
+      "id": 652,
+      "resposta": "LEWIS",
+      "exibicao": "Lewis",
+      "dica": "Químico norte-americano que representou ligações por pares de elétrons e formulou uma importante definição de acidez e basicidade.",
+      "ativo": true
+    },
+    {
+      "id": 653,
+      "resposta": "GIBBS",
+      "exibicao": "Gibbs",
+      "dica": "Físico-químico norte-americano cujo nome identifica uma função termodinâmica usada para prever espontaneidade a temperatura e pressão constantes.",
+      "ativo": true
+    },
+    {
+      "id": 654,
+      "resposta": "NIVEL",
+      "exibicao": "Nível",
+      "dica": "Conjunto permitido de valores quantizados de energia que um elétron pode ocupar em um sistema.",
+      "ativo": true
+    },
+    {
+      "id": 655,
+      "resposta": "ANODO",
+      "exibicao": "Ânodo",
+      "dica": "Eletrodo no qual ocorre oxidação em uma célula eletroquímica.",
+      "ativo": true
+    },
+    {
+      "id": 656,
+      "resposta": "REDOX",
+      "exibicao": "Redox",
+      "dica": "Tipo de processo que envolve simultaneamente perda e ganho de elétrons entre espécies químicas.",
+      "ativo": true
+    },
+    {
+      "id": 657,
+      "resposta": "FUSAO",
+      "exibicao": "Fusão",
+      "dica": "Mudança de estado em que uma substância passa do sólido para o líquido.",
+      "ativo": true
+    },
+    {
+      "id": 658,
+      "resposta": "MOLAR",
+      "exibicao": "Molar",
+      "dica": "Adjetivo referente a uma grandeza expressa por quantidade de matéria, como concentração em mol por litro.",
+      "ativo": true
+    },
+    {
+      "id": 659,
+      "resposta": "MASSA",
+      "exibicao": "Massa",
+      "dica": "Grandeza usada em química para relacionar quantidade de matéria, composição e estequiometria.",
+      "ativo": true
+    },
+    {
+      "id": 660,
+      "resposta": "BALAO",
+      "exibicao": "Balão",
+      "dica": "Vidraria de corpo arredondado; na versão volumétrica, possui marca única para preparo preciso de soluções.",
+      "ativo": true
+    },
+    {
+      "id": 661,
+      "resposta": "AMINA",
+      "exibicao": "Amina",
+      "dica": "Função orgânica nitrogenada derivada formalmente da amônia pela substituição de hidrogênios por grupos orgânicos.",
+      "ativo": true
+    },
+    {
+      "id": 662,
+      "resposta": "AMIDA",
+      "exibicao": "Amida",
+      "dica": "Função orgânica que apresenta um grupo carbonila diretamente ligado a nitrogênio.",
+      "ativo": true
+    },
+    {
+      "id": 663,
+      "resposta": "RADIO",
+      "exibicao": "Rádio",
+      "dica": "Elemento de número atômico 88, metal alcalino-terroso altamente radioativo descoberto no fim do século XIX.",
+      "ativo": true
+    },
+    {
+      "id": 822,
+      "resposta": "BRICS",
+      "exibicao": "BRICS",
+      "dica": "Grupo de grandes economias emergentes criado a partir da aproximação entre Brasil, Rússia, Índia e China e posteriormente ampliado.",
+      "ativo": true
+    },
+    {
+      "id": 823,
+      "resposta": "ASEAN",
+      "exibicao": "ASEAN",
+      "dica": "Organização regional fundada em 1967 para promover cooperação econômica e política no Sudeste Asiático.",
+      "ativo": true
+    },
+    {
+      "id": 824,
+      "resposta": "NAFTA",
+      "exibicao": "NAFTA",
+      "dica": "Acordo de livre comércio que integrou Estados Unidos, Canadá e México entre 1994 e 2020.",
+      "ativo": true
+    },
+    {
+      "id": 825,
+      "resposta": "SAARC",
+      "exibicao": "SAARC",
+      "dica": "Organização criada para promover cooperação regional entre países do Sul da Ásia.",
+      "ativo": true
+    },
+    {
+      "id": 826,
+      "resposta": "USMCA",
+      "exibicao": "USMCA",
+      "dica": "Acordo comercial entre Estados Unidos, México e Canadá que substituiu o arranjo vigente desde 1994.",
+      "ativo": true
+    },
+    {
+      "id": 827,
+      "resposta": "CELAC",
+      "exibicao": "CELAC",
+      "dica": "Mecanismo de diálogo político que reúne países da América Latina e do Caribe sem participação de Estados Unidos e Canadá.",
+      "ativo": true
+    },
+    {
+      "id": 828,
+      "resposta": "ACNUR",
+      "exibicao": "ACNUR",
+      "dica": "Agência das Nações Unidas responsável pela proteção internacional de refugiados e pessoas deslocadas.",
+      "ativo": true
+    },
+    {
+      "id": 829,
+      "resposta": "CIADI",
+      "exibicao": "CIADI",
+      "dica": "Instituição do Grupo Banco Mundial destinada à arbitragem de disputas entre investidores estrangeiros e Estados.",
+      "ativo": true
+    },
+    {
+      "id": 830,
+      "resposta": "SWIFT",
+      "exibicao": "SWIFT",
+      "dica": "Rede global de mensagens utilizada por instituições financeiras para instruções de pagamentos e outras operações.",
+      "ativo": true
+    },
+    {
+      "id": 831,
+      "resposta": "LIBOR",
+      "exibicao": "LIBOR",
+      "dica": "Antiga taxa de referência de Londres amplamente empregada em contratos financeiros internacionais e posteriormente descontinuada.",
+      "ativo": true
+    },
+    {
+      "id": 832,
+      "resposta": "NAIRU",
+      "exibicao": "NAIRU",
+      "dica": "Nível de desemprego que, segundo determinado modelo macroeconômico, seria compatível com inflação estável.",
+      "ativo": true
+    },
+    {
+      "id": 833,
+      "resposta": "BRENT",
+      "exibicao": "BRENT",
+      "dica": "Referência internacional de preços para petróleo produzido na região do Mar do Norte.",
+      "ativo": true
+    },
+    {
+      "id": 834,
+      "resposta": "QUOTA",
+      "exibicao": "Quota",
+      "dica": "Restrição quantitativa imposta à entrada ou saída de determinada mercadoria em operações comerciais.",
+      "ativo": true
+    },
+    {
+      "id": 835,
+      "resposta": "DOLAR",
+      "exibicao": "Dólar",
+      "dica": "Moeda dos Estados Unidos e principal unidade utilizada em reservas internacionais e transações globais.",
+      "ativo": true
+    },
+    {
+      "id": 836,
+      "resposta": "IUANE",
+      "exibicao": "Iuane",
+      "dica": "Unidade monetária chinesa utilizada na denominação cotidiana da moeda emitida pelo Banco Popular da China.",
+      "ativo": true
+    },
+    {
+      "id": 837,
+      "resposta": "RUBLO",
+      "exibicao": "Rublo",
+      "dica": "Unidade monetária oficial da Federação Russa.",
+      "ativo": true
+    },
+    {
+      "id": 838,
+      "resposta": "RUPIA",
+      "exibicao": "Rúpia",
+      "dica": "Nome utilizado por unidades monetárias de países como Índia, Paquistão e Indonésia.",
+      "ativo": true
+    },
+    {
+      "id": 839,
+      "resposta": "BLOCO",
+      "exibicao": "Bloco",
+      "dica": "Conjunto de países que estabelece algum grau de integração econômica, comercial ou política.",
+      "ativo": true
+    },
+    {
+      "id": 840,
+      "resposta": "BANCO",
+      "exibicao": "Banco",
+      "dica": "Instituição que intermedeia recursos, concede crédito e presta serviços financeiros a famílias, empresas ou governos.",
+      "ativo": true
+    },
+    {
+      "id": 841,
+      "resposta": "BOLSA",
+      "exibicao": "Bolsa",
+      "dica": "Mercado organizado no qual são negociados títulos, ações, derivativos e outros ativos.",
+      "ativo": true
+    },
+    {
+      "id": 842,
+      "resposta": "JUROS",
+      "exibicao": "Juros",
+      "dica": "Remuneração cobrada pelo uso de recursos financeiros durante determinado período.",
+      "ativo": true
+    },
+    {
+      "id": 843,
+      "resposta": "FUNDO",
+      "exibicao": "Fundo",
+      "dica": "Veículo que reúne recursos de diferentes investidores para aplicação segundo uma estratégia definida.",
+      "ativo": true
+    }
+  ]
+}
