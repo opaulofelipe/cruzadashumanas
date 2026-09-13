@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#111111" />
+  <title>Cruzadas</title>
+  <link rel="stylesheet" href="./style.css?v=4" />
+</head>
+<body>
+  <main class="app-shell">
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">PALAVRAS CRUZADAS</p>
+        <h1>Cruzadas</h1>
+      </div>
+      <button id="new-game" class="button button-primary" type="button">Nova cruzada</button>
+    </header>
+
+    <section id="loading-view" class="panel loading-panel" aria-live="polite">
+      <div class="spinner" aria-hidden="true"></div>
+      <div>
+        <strong id="loading-title">Carregando banco de palavras…</strong>
+        <p id="loading-detail">Lendo os 8 arquivos JSON.</p>
+      </div>
+    </section>
+
+    <section id="game-view" class="game-layout" hidden>
+      <div class="board-column">
+        <div class="board-toolbar panel">
+          <div><span class="metric-label">Progresso</span><strong id="progress">0 / 0</strong></div>
+          <div><span class="metric-label">Palavras</span><strong id="word-count">0</strong></div>
+          <div><span class="metric-label">Pretos</span><strong id="black-rate">0%</strong></div>
+        </div>
+
+        <div id="board-wrap" class="board-wrap panel">
+          <div id="board" class="board" role="grid" aria-label="Palavras cruzadas"></div>
+        </div>
+
+        <div id="active-clue" class="active-clue panel" aria-live="polite" aria-label="Pista selecionada">
+          <button id="previous-clue" class="clue-nav" type="button" aria-label="Pista anterior">‹</button>
+          <div class="active-clue-copy">
+            <span id="active-clue-label" class="clue-kicker">Selecione uma palavra</span>
+            <p id="active-clue-text">Toque em uma casa branca para começar.</p>
+          </div>
+          <button id="next-clue" class="clue-nav" type="button" aria-label="Próxima pista">›</button>
+        </div>
+
+        <div id="virtual-keyboard" class="virtual-keyboard" aria-label="Teclado virtual">
+          <div class="keyboard-row">
+            <button type="button" data-key="Q">Q</button><button type="button" data-key="W">W</button><button type="button" data-key="E">E</button><button type="button" data-key="R">R</button><button type="button" data-key="T">T</button><button type="button" data-key="Y">Y</button><button type="button" data-key="U">U</button><button type="button" data-key="I">I</button><button type="button" data-key="O">O</button><button type="button" data-key="P">P</button>
+          </div>
+          <div class="keyboard-row keyboard-row-middle">
+            <button type="button" data-key="A">A</button><button type="button" data-key="S">S</button><button type="button" data-key="D">D</button><button type="button" data-key="F">F</button><button type="button" data-key="G">G</button><button type="button" data-key="H">H</button><button type="button" data-key="J">J</button><button type="button" data-key="K">K</button><button type="button" data-key="L">L</button>
+          </div>
+          <div class="keyboard-row keyboard-row-bottom">
+            <button type="button" data-key="Z">Z</button><button type="button" data-key="X">X</button><button type="button" data-key="C">C</button><button type="button" data-key="V">V</button><button type="button" data-key="B">B</button><button type="button" data-key="N">N</button><button type="button" data-key="M">M</button><button type="button" data-key="BACKSPACE" class="keyboard-wide" aria-label="Apagar">⌫</button>
+          </div>
+        </div>
+
+        <div class="controls">
+          <button id="check" class="button" type="button">Verificar</button>
+          <button id="clear-word" class="button" type="button">Limpar palavra</button>
+          <button id="reveal-word" class="button button-danger" type="button">Revelar palavra</button>
+        </div>
+      </div>
+
+      <aside class="clues panel">
+        <div class="clue-section">
+          <h2>Horizontais</h2>
+          <div id="across-clues" class="clue-list"></div>
+        </div>
+        <div class="clue-section">
+          <h2>Verticais</h2>
+          <div id="down-clues" class="clue-list"></div>
+        </div>
+      </aside>
+    </section>
+
+    <section id="error-view" class="panel error-panel" hidden>
+      <h2>Não foi possível gerar a cruzada</h2>
+      <p id="error-message"></p>
+      <button id="retry" class="button button-primary" type="button">Tentar novamente</button>
+    </section>
+  </main>
+
+  <dialog id="complete-dialog" class="complete-dialog">
+    <div class="complete-card">
+      <p class="eyebrow">CONCLUÍDO</p>
+      <h2>Você completou a cruzada.</h2>
+      <p id="complete-summary"></p>
+      <button id="complete-new" class="button button-primary" type="button">Gerar outra</button>
+    </div>
+  </dialog>
+
+  <script type="module" src="./app.js?v=4"></script>
+</body>
+</html>

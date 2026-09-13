@@ -1,0 +1,239 @@
+:root {
+  --bg: #f3f1ea;
+  --surface: #ffffff;
+  --ink: #171717;
+  --muted: #6b6b66;
+  --line: #d9d7cf;
+  --accent: #1f4f46;
+  --accent-soft: #dfeae7;
+  --danger: #8f2d2d;
+  --black-cell: #151515;
+  --cell-line: #70706c;
+  --selected: #d5e7ff;
+  --same-word: #eef4fb;
+  --correct: #dff1e5;
+  --wrong: #f6d8d8;
+  --shadow: 0 12px 30px rgba(0, 0, 0, 0.07);
+  --vk-height: 176px;
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+[hidden] { display: none !important; }
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+button { font: inherit; touch-action: manipulation; }
+
+.app-shell {
+  width: min(1180px, calc(100% - 24px));
+  margin: 0 auto;
+  padding: 24px 0 44px;
+}
+
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  margin-bottom: 18px;
+}
+
+.eyebrow, .metric-label, .clue-kicker {
+  display: block;
+  margin: 0 0 4px;
+  color: var(--muted);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+}
+
+h1, h2, p { margin-top: 0; }
+h1 { margin-bottom: 0; font-size: clamp(1.75rem, 5vw, 3rem); line-height: 1; letter-spacing: -0.045em; }
+h2 { margin-bottom: 12px; font-size: 1rem; }
+
+.panel { background: var(--surface); border: 1px solid var(--line); box-shadow: var(--shadow); }
+
+.button {
+  min-height: 44px;
+  border: 1px solid #b9b8b1;
+  background: #fff;
+  color: var(--ink);
+  padding: 10px 14px;
+  font-weight: 750;
+  cursor: pointer;
+}
+.button:hover { border-color: #7f7d75; }
+.button:focus-visible, .cell:focus-visible, .clue-button:focus-visible, .clue-nav:focus-visible, .virtual-keyboard button:focus-visible {
+  outline: 3px solid rgba(31, 79, 70, 0.28);
+  outline-offset: 2px;
+}
+.button-primary { border-color: var(--accent); background: var(--accent); color: #fff; }
+.button-danger { color: var(--danger); }
+
+.loading-panel, .error-panel { display: flex; align-items: center; gap: 14px; padding: 20px; }
+.error-panel { display: block; }
+.error-panel p { color: var(--muted); line-height: 1.5; }
+.spinner { width: 26px; height: 26px; flex: 0 0 auto; border: 3px solid #d8d8d2; border-top-color: var(--accent); border-radius: 50%; animation: spin .8s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
+
+.game-layout { display: grid; grid-template-columns: minmax(0, 1fr) minmax(280px, 360px); gap: 18px; align-items: start; }
+.board-column { min-width: 0; }
+.board-toolbar { display: grid; grid-template-columns: repeat(3, 1fr); margin-bottom: 10px; }
+.board-toolbar > div { padding: 10px 12px; border-right: 1px solid var(--line); }
+.board-toolbar > div:last-child { border-right: 0; }
+.board-toolbar strong { display: block; font-size: 1.05rem; }
+
+.board-wrap { overflow: auto; padding: 10px; overscroll-behavior: contain; }
+.board {
+  --cols: 15;
+  display: grid;
+  grid-template-columns: repeat(var(--cols), minmax(0, 1fr));
+  width: min(100%, 760px);
+  margin: 0 auto;
+  border-top: 1px solid var(--cell-line);
+  border-left: 1px solid var(--cell-line);
+  background: var(--cell-line);
+  gap: 1px;
+}
+.cell {
+  position: relative;
+  display: grid;
+  place-items: center;
+  aspect-ratio: 1/1;
+  min-width: 0;
+  padding: 0;
+  border: 0;
+  background: #fff;
+  color: var(--ink);
+  cursor: pointer;
+  user-select: none;
+}
+.cell.black { background: var(--black-cell); cursor: default; }
+.cell.same-word { background: var(--same-word); }
+.cell.selected { background: var(--selected); }
+.cell.correct { background: var(--correct); }
+.cell.wrong { background: var(--wrong); }
+.cell-number { position: absolute; top: 1px; left: 2px; font-size: clamp(.42rem, 1.35vw, .62rem); line-height: 1; font-weight: 750; color: #4f4f4b; }
+.cell-letter { font-size: clamp(.78rem, 3.5vw, 1.35rem); line-height: 1; font-weight: 800; text-transform: uppercase; }
+
+.active-clue {
+  z-index: 20;
+  display: grid;
+  grid-template-columns: 48px minmax(0, 1fr) 48px;
+  align-items: stretch;
+  min-height: 82px;
+  margin-top: 10px;
+  overflow: hidden;
+  background: #e8edf5;
+}
+.active-clue-copy { min-width: 0; padding: 12px 8px; align-self: center; }
+.active-clue p { margin-bottom: 0; line-height: 1.4; font-size: clamp(.98rem, 2.6vw, 1.08rem); }
+.clue-nav { border: 0; background: transparent; color: var(--ink); cursor: pointer; font-size: 2.25rem; line-height: 1; font-weight: 500; }
+.clue-nav:hover { background: rgba(255,255,255,.45); }
+
+.virtual-keyboard { display: none; }
+
+.controls { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-top: 10px; }
+.clues { padding: 16px; max-height: min(80vh, 760px); overflow: auto; }
+.clue-section + .clue-section { margin-top: 22px; }
+.clue-list { display: grid; gap: 5px; }
+.clue-button { width: 100%; border: 0; border-left: 3px solid transparent; background: transparent; color: var(--ink); text-align: left; padding: 8px 9px; cursor: pointer; line-height: 1.35; }
+.clue-button:hover { background: #f4f4f0; }
+.clue-button.active { border-left-color: var(--accent); background: var(--accent-soft); }
+.clue-number { font-weight: 850; margin-right: 5px; }
+
+.complete-dialog { border: 0; padding: 0; max-width: 420px; width: calc(100% - 32px); background: transparent; }
+.complete-dialog::backdrop { background: rgba(0,0,0,.58); }
+.complete-card { background: #fff; border: 1px solid var(--line); padding: 24px; box-shadow: var(--shadow); }
+.complete-card h2 { font-size: 1.65rem; margin-bottom: 8px; }
+.complete-card p:not(.eyebrow) { color: var(--muted); line-height: 1.5; }
+
+@media (max-width: 1024px), (pointer: coarse) {
+  .app-shell { width: min(100% - 14px, 760px); padding-top: 12px; padding-bottom: calc(var(--vk-height) + 116px + env(safe-area-inset-bottom)); }
+  .topbar { align-items: end; }
+  .game-layout { grid-template-columns: 1fr; }
+  .clues { max-height: none; }
+  .board-wrap { padding: 5px; max-height: calc(100dvh - var(--vk-height) - 155px); min-height: 220px; }
+
+  .active-clue {
+    position: fixed;
+    left: 50%;
+    bottom: calc(var(--vk-height) + env(safe-area-inset-bottom));
+    transform: translateX(-50%);
+    width: min(calc(100% - 14px), 760px);
+    min-height: 94px;
+    margin: 0;
+    z-index: 50;
+    box-shadow: 0 -6px 18px rgba(0,0,0,.08);
+  }
+
+  .virtual-keyboard {
+    position: fixed;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+    z-index: 51;
+    display: grid;
+    grid-template-rows: repeat(3, 1fr);
+    gap: 6px;
+    width: min(calc(100% - 14px), 760px);
+    height: calc(var(--vk-height) + env(safe-area-inset-bottom));
+    padding: 8px 6px calc(8px + env(safe-area-inset-bottom));
+    border: 1px solid #d6d5cf;
+    background: #ecebe6;
+    box-shadow: 0 -8px 24px rgba(0,0,0,.12);
+  }
+
+  .keyboard-row { display: flex; gap: 5px; justify-content: center; min-width: 0; }
+  .keyboard-row-middle { padding-inline: 4%; }
+  .keyboard-row-bottom { padding-inline: 8%; }
+  .virtual-keyboard button {
+    flex: 1 1 0;
+    min-width: 0;
+    min-height: 44px;
+    border: 1px solid #d0cfc9;
+    border-radius: 8px;
+    background: #fff;
+    color: var(--ink);
+    box-shadow: 0 2px 5px rgba(0,0,0,.08);
+    font-size: clamp(.92rem, 3vw, 1.15rem);
+    font-weight: 750;
+    cursor: pointer;
+  }
+  .virtual-keyboard button:active { transform: translateY(1px); background: var(--accent-soft); }
+  .virtual-keyboard .keyboard-wide { flex: 1.45 1 0; font-size: 1.3rem; }
+
+  .controls { margin-top: 10px; }
+}
+
+@media (max-width: 520px) {
+  :root { --vk-height: 164px; }
+  .topbar { gap: 10px; }
+  .topbar .button { min-height: 40px; padding: 8px 10px; font-size: .86rem; }
+  .board-toolbar > div { padding: 8px; }
+  .controls { grid-template-columns: 1fr 1fr; }
+  .controls .button-danger { grid-column: 1/-1; }
+  .clues { padding: 12px; }
+  .active-clue { grid-template-columns: 42px minmax(0,1fr) 42px; min-height: 88px; }
+  .clue-nav { font-size: 2rem; }
+  .keyboard-row { gap: 4px; }
+  .virtual-keyboard { gap: 5px; padding-inline: 4px; }
+  .virtual-keyboard button { border-radius: 7px; min-height: 40px; }
+}
+
+@media (orientation: landscape) and (max-height: 600px) and (pointer: coarse) {
+  :root { --vk-height: 132px; }
+  .active-clue { min-height: 68px; }
+  .active-clue-copy { padding-block: 7px; }
+  .virtual-keyboard { padding-top: 5px; gap: 3px; }
+  .keyboard-row { gap: 3px; }
+  .virtual-keyboard button { min-height: 32px; font-size: .88rem; }
+  .board-wrap { max-height: calc(100dvh - var(--vk-height) - 90px); }
+}
