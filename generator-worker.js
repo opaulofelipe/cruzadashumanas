@@ -22,7 +22,7 @@ self.onmessage = event => {
 function generateCrossword(rawWords, options) {
   const targetWords = Math.max(24, Number(options.targetWords) || 30);
   const requestedMin = Math.max(20, Number(options.minWords) || 28);
-  const budgetMs = Math.max(5000, Number(options.timeBudgetMs) || 16000);
+  const budgetMs = Math.max(6000, Number(options.timeBudgetMs) || 19000);
   const seed = Number(options.seed) || Date.now();
   const deadline = performance.now() + budgetMs;
   const words = normalizeWords(rawWords).filter(w => w.resposta.length >= 3 && w.resposta.length <= 15);
@@ -33,9 +33,9 @@ function generateCrossword(rawWords, options) {
 
   const letterFrequency = buildLetterFrequency(words);
   const plans = [
-    { size: 15, attempts: 13 },
-    { size: 17, attempts: 16 },
-    { size: 19, attempts: 10 }
+    { size: 15, attempts: 20 },
+    { size: 17, attempts: 22 },
+    { size: 19, attempts: 14 }
   ];
 
   let best = null;
@@ -55,7 +55,12 @@ function generateCrossword(rawWords, options) {
       }
     }
 
-    if (best?.placements.length >= targetWords && best.orientationDiff <= 2) {
+    if (
+      best?.placements.length >= targetWords &&
+      best.orientationDiff <= 3 &&
+      best.checkedRatio >= 0.44 &&
+      best.multiCrossRatio >= 0.62
+    ) {
       return buildPuzzle(best);
     }
   }
@@ -126,7 +131,9 @@ function buildAttempt(words, letterFrequency, size, targetWords, rng, deadline, 
   while (state.placements.length < targetWords && performance.now() < deadline) {
     const candidates = collectTopCandidates(state, words, letterFrequency, rng, deadline);
     if (!candidates.length) break;
-    const poolSize = Math.min(9, candidates.length);
+    const poolSize = state.placements.length >= 10
+      ? Math.min(5, candidates.length)
+      : Math.min(8, candidates.length);
     const chosen = candidates[weightedTopIndex(poolSize, rng)];
     placeWord(state, chosen.word, chosen.row, chosen.col, chosen.direction);
   }
@@ -179,11 +186,17 @@ function collectTopCandidates(state, words, frequency, rng, deadline) {
 
           const evaluated = evaluatePlacement(state, word, row, col, direction, frequency, rng);
           if (!evaluated) continue;
-          insertTop(top, { ...evaluated, word, row, col, direction }, 42);
+          insertTop(top, { ...evaluated, word, row, col, direction }, 64);
         }
       }
     }
   }
+
+  if (state.placements.length >= 10) {
+    const multiCross = top.filter(candidate => candidate.crossings >= 2);
+    if (multiCross.length >= 2) return multiCross;
+  }
+
   return top;
 }
 
@@ -242,19 +255,27 @@ function evaluatePlacement(state, word, row, col, direction, frequency, rng) {
   const nextDown = state.downCount + (direction === "down" ? 1 : 0);
   const balanceGain = oldDiff - Math.abs(nextAcross - nextDown);
 
-  let score = crossings * 105 + Math.min(crossings, 4) * 14 + balanceGain * 44;
-  score += futureValue * 0.65 + Math.min(answer.length, 10) * 1.8;
-  score -= areaGrowth * 1.15 + newCells * 0.18;
-  if (crossings >= 2) score += 55;
-  if (crossings >= 3) score += 50;
+  const crossingEfficiency = crossings / Math.max(1, newCells);
 
-  if (state.acrossCount > state.downCount + 1 && direction === "down") score += 75;
-  if (state.downCount > state.acrossCount + 1 && direction === "across") score += 75;
-  if (state.acrossCount > state.downCount + 2 && direction === "across") score -= 110;
-  if (state.downCount > state.acrossCount + 2 && direction === "down") score -= 110;
+  let score = crossings * 175 + Math.min(crossings, 5) * 22 + balanceGain * 34;
+  score += crossingEfficiency * 92;
+  score += futureValue * 0.78 + Math.min(answer.length, 9) * 0.9;
+  score -= areaGrowth * 1.9 + newCells * 0.52;
 
-  score += rng() * 10;
-  return { score, crossings, newCells };
+  if (crossings >= 2) score += 105;
+  if (crossings >= 3) score += 110;
+  if (crossings >= 4) score += 90;
+
+  if (state.placements.length >= 10 && crossings === 1) score -= 70;
+  if (state.placements.length >= 18 && crossings === 1) score -= 85;
+
+  if (state.acrossCount > state.downCount + 1 && direction === "down") score += 62;
+  if (state.downCount > state.acrossCount + 1 && direction === "across") score += 62;
+  if (state.acrossCount > state.downCount + 3 && direction === "across") score -= 100;
+  if (state.downCount > state.acrossCount + 3 && direction === "down") score -= 100;
+
+  score += rng() * 7;
+  return { score, crossings, newCells, crossingEfficiency };
 }
 
 function placeWord(state, word, row, col, direction) {
@@ -316,6 +337,10 @@ function finalizeCandidate(state) {
   const orientationDiff = Math.abs(state.acrossCount - state.downCount);
   const blackRatio = 1 - occupied / finalArea;
   const aspectRatio = Math.max(finalRows, finalCols) / Math.max(1, Math.min(finalRows, finalCols));
+  const crossingsPerWord = state.placements.length ? crossings / state.placements.length : 0;
+  const multiCrossRatio = state.placements.length
+    ? wordsWithTwoOrMoreCrossings / state.placements.length
+    : 0;
 
   return {
     ...state,
@@ -323,6 +348,8 @@ function finalizeCandidate(state) {
     crossings,
     compactness,
     checkedRatio,
+    crossingsPerWord,
+    multiCrossRatio,
     orientationDiff,
     blackRatio,
     aspectRatio,
@@ -335,19 +362,25 @@ function finalizeCandidate(state) {
 
 function compareCandidates(a, b) {
   if (a.placements.length !== b.placements.length) return a.placements.length - b.placements.length;
-  if (a.orientationDiff !== b.orientationDiff) return b.orientationDiff - a.orientationDiff;
-  if (a.wordsWithTwoOrMoreCrossings !== b.wordsWithTwoOrMoreCrossings) return a.wordsWithTwoOrMoreCrossings - b.wordsWithTwoOrMoreCrossings;
-  if (Math.abs(a.checkedRatio - b.checkedRatio) > 0.01) return a.checkedRatio - b.checkedRatio;
+  if (a.wordsWithTwoOrMoreCrossings !== b.wordsWithTwoOrMoreCrossings) {
+    return a.wordsWithTwoOrMoreCrossings - b.wordsWithTwoOrMoreCrossings;
+  }
+  if (Math.abs(a.checkedRatio - b.checkedRatio) > 0.008) {
+    return a.checkedRatio - b.checkedRatio;
+  }
   if (a.crossings !== b.crossings) return a.crossings - b.crossings;
+  if (a.orientationDiff !== b.orientationDiff) return b.orientationDiff - a.orientationDiff;
   if (Math.abs(a.aspectRatio - b.aspectRatio) > 0.08) return b.aspectRatio - a.aspectRatio;
   return a.compactness - b.compactness;
 }
 
 function isExcellent(candidate, targetWords) {
   return candidate.placements.length >= targetWords
-    && candidate.orientationDiff <= 2
-    && candidate.checkedRatio >= 0.32
-    && candidate.aspectRatio <= 1.45;
+    && candidate.orientationDiff <= 3
+    && candidate.checkedRatio >= 0.46
+    && candidate.multiCrossRatio >= 0.66
+    && candidate.crossings >= Math.ceil(targetWords * 1.4)
+    && candidate.aspectRatio <= 1.5;
 }
 
 function validateCandidate(candidate) {
@@ -462,6 +495,8 @@ function buildPuzzle(candidate) {
       down: candidate.downCount,
       crossings: candidate.crossings,
       checkedRatio: candidate.checkedRatio,
+      crossingsPerWord: candidate.crossingsPerWord,
+      multiCrossRatio: candidate.multiCrossRatio,
       compactness: candidate.compactness,
       workspace: `${size}x${size}`,
       finalSize: `${cols}x${rows}`
@@ -552,7 +587,9 @@ function mulberry32(seed) {
 }
 
 function formatProgress(attemptNumber, candidate) {
-  return `Tentativa ${attemptNumber}: ${candidate.placements.length} palavras (${candidate.acrossCount}H/${candidate.downCount}V), ${candidate.crossings} cruzamentos; área útil ${candidate.finalCols}x${candidate.finalRows}.`;
+  const checked = Math.round(candidate.checkedRatio * 100);
+  const multi = Math.round(candidate.multiCrossRatio * 100);
+  return `Tentativa ${attemptNumber}: ${candidate.placements.length} palavras (${candidate.acrossCount}H/${candidate.downCount}V), ${candidate.crossings} cruzamentos, ${checked}% das letras cruzadas, ${multi}% das palavras com 2+ cruzamentos.`;
 }
 
 function postProgress(message) {
