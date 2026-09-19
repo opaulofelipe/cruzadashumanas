@@ -180,9 +180,9 @@ async function generatePuzzle() {
   els.gameView.hidden = true;
   els.errorView.hidden = true;
   els.loadingView.hidden = false;
-  setLoading("Montando uma grade densa…", "Buscando uma grade com no mínimo 30 respostas e poucos blocos pretos.");
+  setLoading("Montando uma grade entrelaçada…", "Comparando grades de 30 respostas para maximizar os cruzamentos.");
 
-  worker = new Worker("./generator-worker.js?v=3");
+  worker = new Worker("./generator-worker.js?v=4");
 
   worker.onmessage = event => {
     const data = event.data || {};
@@ -214,7 +214,7 @@ async function generatePuzzle() {
   worker.postMessage({
     type: "generate",
     words: bank,
-    options: { minWords: 30, targetWords: 30, timeBudgetMs: 14000, seed: cryptoSeed() }
+    options: { minWords: 30, targetWords: 30, timeBudgetMs: 19000, seed: cryptoSeed() }
   });
 }
 
